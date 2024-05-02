@@ -15,4 +15,4 @@
 #     for episode in episodes:
 #         print(requests.post(url=episode['CmdURL'], params={'cmd':'delete'}).status_code)
 
-print("hello, world")
+print(['5 Eyewitness', 'Canada'])
