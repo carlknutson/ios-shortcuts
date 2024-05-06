@@ -14,7 +14,7 @@ def get_recordings():
         unique_recordings.add(recording['Title'])
 
     for recording_name in unique_recordings:
-        print(recording_name)
+        print('"' + recording_name + '"')
 
 def delete_recording(title):
     all_recorded_file_info = requests.get(f'http://{url}/recorded_files.json').json()
