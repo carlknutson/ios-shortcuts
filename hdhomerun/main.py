@@ -29,7 +29,7 @@ def delete_recording(title):
                 requests.post(url=episode['CmdURL'], params={'cmd':'delete'}).status_code
                 deleted_count += 1
     
-    print(f'{deleted_count} recording(s) deleted.')
+    print(f'Deleted {deleted_count} recording(s) of {title}.')
 
 def main():
     try:
