@@ -1,3 +1,4 @@
+import math
 import os
 import requests
 import sys
@@ -5,7 +6,6 @@ import sys
 url = os.environ["HDHR_LOCAL_URL"]
 
 def get_recordings():
-    # https://info.hdhomerun.com/info/dvr_api:deleting_recordings
     all_recorded_file_info = requests.get(f'http://{url}/recorded_files.json').json()
 
     unique_recordings = set()
@@ -26,10 +26,38 @@ def delete_recording(title):
             episodes = requests.get(recording['EpisodesURL']).json()
     
             for episode in episodes:
-                requests.post(url=episode['CmdURL'], params={'cmd':'delete'}).status_code
+
+                try:
+                    # https://info.hdhomerun.com/info/dvr_api:deleting_recordings
+                    response = requests.post(url=episode['CmdURL'], params={'cmd':'delete', 'rerecord':'1'})
+                    response.raise_for_status()
+                except Exception:
+                    print(f'Deleted {deleted_count} recording(s) of {title} before error.')
+                    raise
                 deleted_count += 1
     
     print(f'Deleted {deleted_count} recording(s) of {title}.')
+
+def get_storage_details():
+    dvr_info = requests.get(f'http://{url}/discover.json').json()
+
+    total_space = dvr_info['TotalSpace']
+    free_space = dvr_info['FreeSpace']
+
+    used_space = total_space - free_space
+
+    print(f'Storage is {round(used_space / total_space * 100, 2)}% used')
+    print(f'Free storage remaining: {convert_size(free_space)}')
+
+# https://stackoverflow.com/questions/5194057/better-way-to-convert-file-sizes-in-python
+def convert_size(size_bytes):
+   if size_bytes == 0:
+       return "0B"
+   size_name = ("B", "KB", "MB", "GB", "TB", "PB", "EB", "ZB", "YB")
+   i = int(math.floor (math.log(size_bytes, 1024)))
+   p = math.pow(1024, i)
+   s = round(size_bytes / p, 2)
+   return "%s %s" % (s, size_name[i])
 
 def main():
     try:
@@ -45,7 +73,8 @@ def main():
             delete_recording(sys.argv[2])
         except IndexError:
             print(f'Action: {action}, requires a recording name input.')
-            return
+    elif action == 'get_storage_details':
+        get_storage_details()
     else:
         print(f'Action: {action}, is not implemented.')
 
