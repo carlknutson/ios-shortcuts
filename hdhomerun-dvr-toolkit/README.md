@@ -4,9 +4,13 @@ iOS shortcut for managing HDHomeRun DVR.
 - retrieve dvr storage details
 
 ## Pre-requites
-1. [a-Shell](https://apps.apple.com/us/app/a-shell/id1473805438) installed on iPhone
-1. iPhone is connected to same network as your HDHomeRun device.
-1. iPhone has internet connection.
+1. [a-Shell](https://apps.apple.com/us/app/a-shell/id1473805438) installed and configured on iPhone
+    1. Open a-Shell, and execute the following command: `curl hdhomerun.local`
+    1. You should receive a pop-up that states `"a-Shell" would like to find and connect to devices on your local network ...",` select `Allow`
+    1. If you do not see the pop-up, or you mistakenly selected `Don't Allow`, you can access this toggle setting from iOS `Settings` app -> `a-Shell` -> `Local Network`
+    1. If the `Local Network` toggle is enabled, but you are still having issues with connecting to `hdhomerun.local`, restart the phone and try connecting again, trust me :)
+1. iPhone is connected to same network as your HDHomeRun device
+1. iPhone has internet connection
 
 ## Setup
 1. Download the [HDHomerun - DVR Tookit](https://github.com/carlknutson/ios-shortcuts/releases) iOS shortcut.
