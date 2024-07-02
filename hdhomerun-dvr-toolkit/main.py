@@ -39,6 +39,26 @@ def delete_recording(title):
     
     print(f'Deleted {deleted_count} recording(s) of {title}.')
 
+def get_recording_counts(title):
+    all_recorded_file_info = requests.get(f'http://{url}/recorded_files.json').json()
+
+    for recording in all_recorded_file_info:
+        if recording['Title'] == title:
+            episodes = requests.get(recording['EpisodesURL']).json()
+    
+            episode_numbers = []
+
+            for episode in episodes:
+                try:
+                    episode_numbers.append(episode['EpisodeNumber'])
+                except:
+                    pass # ignore for now - numerous reasons why EpisodeNumber does not exist
+            
+            episode_numbers.sort()
+
+            for episode_number in episode_numbers:
+                print(episode_number)
+    
 def get_storage_details():
     info = get_capacity_info()
 
@@ -86,6 +106,11 @@ def main():
         get_storage_details()
     elif action == 'get_capacity_info':
         print(json.dumps(get_capacity_info()))
+    elif action == 'get_recording_counts':
+        try:
+            get_recording_counts(sys.argv[2])
+        except IndexError:
+            print(f'Action: {action}, requires a recording name input.')
     else:
         print(f'Action: {action}, is not implemented.')
 
