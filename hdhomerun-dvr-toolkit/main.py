@@ -69,9 +69,9 @@ def get_recording_counts(title):
                     pass # ignore for now - numerous reasons why EpisodeNumber does not exist
     
 
-    id = requests.get(f'https://api.tvmaze.com/singlesearch/shows?q={title}').json()['id']
-
-    if not id:
+    try:
+        id = requests.get(f'https://api.tvmaze.com/singlesearch/shows?q={title}').json()['id']
+    except:
         print(f'Unable to retrieve series details for {title}.')
         return
     
