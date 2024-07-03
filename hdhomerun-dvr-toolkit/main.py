@@ -42,22 +42,55 @@ def delete_recording(title):
 def get_recording_counts(title):
     all_recorded_file_info = requests.get(f'http://{url}/recorded_files.json').json()
 
+    recorded = {}
+
     for recording in all_recorded_file_info:
         if recording['Title'] == title:
+            if recording['Category'] != 'series':
+                print('This recording is not categorized as a series, no recording counts to display.')
+                return
+                
             episodes = requests.get(recording['EpisodesURL']).json()
-    
-            episode_numbers = []
-
+        
             for episode in episodes:
                 try:
-                    episode_numbers.append(episode['EpisodeNumber'])
+                    full_episode_number = episode['EpisodeNumber']
+                    s = int(full_episode_number.split('S')[1].split('E')[0])
+
+                    if s in recorded:
+                        recorded[s] += 1
+                    else:
+                        recorded[s] = 1
                 except:
                     pass # ignore for now - numerous reasons why EpisodeNumber does not exist
-            
-            episode_numbers.sort()
+    
 
-            for episode_number in episode_numbers:
-                print(episode_number)
+    id = requests.get(f'https://api.tvmaze.com/singlesearch/shows?q={title}').json()['id']  
+    episodes = requests.get(f'https://api.tvmaze.com/shows/{id}/episodes').json()
+
+    actual = {}
+
+    for episode in episodes:
+        if episode['season'] in actual:
+            actual[episode['season']] += 1
+        else:
+            actual[episode['season']] = 1
+
+    total_recorded_episodes = 0
+    total_aired_episodes = 0
+
+    for season_number in sorted(actual.keys()):
+        try:
+            recorded_episodes = recorded[season_number]
+        except KeyError:
+            recorded_episodes = 0
+
+        total_recorded_episodes += recorded_episodes
+        total_aired_episodes += actual[season_number]
+        
+        print(f'S{season_number}: {recorded_episodes}/{actual[season_number]}')
+
+    print(f'{round(total_recorded_episodes / total_aired_episodes * 100, 2)}% recorded')
     
 def get_storage_details():
     info = get_capacity_info()
