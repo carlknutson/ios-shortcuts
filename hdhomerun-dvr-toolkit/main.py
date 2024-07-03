@@ -43,12 +43,16 @@ def get_recording_counts(title):
     all_recorded_file_info = requests.get(f'http://{url}/recorded_files.json').json()
 
     recorded = {}
+    output_text = []
 
     for recording in all_recorded_file_info:
         if recording['Title'] == title:
             if recording['Category'] != 'series':
-                print('This recording is not categorized as a series, no recording counts to display.')
+                print(f'{title} is not categorized as a series, no recording counts to display.')
                 return
+            
+            output_text.append(f'{title} recordings')
+            output_text.append('-----------------------')
                 
             episodes = requests.get(recording['EpisodesURL']).json()
         
@@ -88,10 +92,15 @@ def get_recording_counts(title):
         total_recorded_episodes += recorded_episodes
         total_aired_episodes += actual[season_number]
         
-        print(f'S{season_number}: {recorded_episodes}/{actual[season_number]}')
-
-    print(f'{round(total_recorded_episodes / total_aired_episodes * 100, 2)}% recorded')
+        output_text.append(f'S{season_number}: {recorded_episodes}/{actual[season_number]}')
     
+    if not total_recorded_episodes:
+        print(f'Unable to retrieve series details for {title}.')
+    else:
+        output_text.append(f'{round(total_recorded_episodes / total_aired_episodes * 100, 2)}% recorded')
+        print('\n'.join(output_text))
+    
+
 def get_storage_details():
     info = get_capacity_info()
 
