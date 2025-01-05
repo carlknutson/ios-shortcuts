@@ -1,5 +1,8 @@
 ## HDHomeRun DVR Tookit
-iOS shortcut for managing HDHomeRun DVR.
+
+#### Download [link](https://www.icloud.com/shortcuts/f7ce4b37fc8d47579667b798d190a8c2)
+
+iOS shortcut for managing HDHomeRun DVR
 - mass delete recordings
 - retrieve dvr storage details
 
