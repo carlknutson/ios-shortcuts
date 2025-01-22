@@ -1,6 +1,6 @@
 ## SMS to YNAB
 
-#### Download [link](https://www.icloud.com/shortcuts/dcccf20df35d4d0a961e29ea627257db)
+#### Download [link](https://www.icloud.com/shortcuts/1a0ff302e4b54c33a80a897548ac23bc)
 
 YNAB users may prefer not to link their bank accounts due to privacy or security concerns, yet still desire a quick and efficient way to track transactions. This iOS Shortcut bridges the gap by processing SMS credit card alerts to create transactions in YNAB almost instantly. By leveraging the details from these alerts, the shortcut populates the memo field in YNAB with the SMS message, making it easy to fill out the payee, amount, and category fields while keeping your account details secure and private.
 
@@ -13,4 +13,7 @@ YNAB users may prefer not to link their bank accounts due to privacy or security
     * `ynab_budget`: The name of your YNAB budget.
     * `ynab_single_card`: A dictionary where the key is the SMS number sending the alerts, and the value is the corresponding payee in YNAB.
     * `ynab_multi_card`: A dictionary for handling multiple cards from the same institution. The key is the SMS number, and the value is another dictionary where the keys are the last 4 digits of the card, and the values are the corresponding payees in YNAB.
+    * `alert_unapproved_count`: When set, specifies alerting conditions based on unapproved transactions across all accounts for the budget. This is evaluated after each transaction processed by the SMS message automation. Requirement for `alert_via_notification` and `alert_via_notification` functionality.
+    * `alert_via_notification`: If set, will trigger a notification if unapproved transactions are equal or greater than `alert_unapproved_count`.
+    * `alert_via_reminders`: Specify a Reminders list name if you want a reminder created when the unapproved count is met.
 1. **Set Up Automation**: Create an automation on your iPhone to trigger the SMS to YNAB shortcut whenever you receive an SMS containing the `$` symbol. The shortcut will only add a transaction to YNAB if the sender address matches an entry in either `ynab_single_card` or `ynab_multi_card`.
