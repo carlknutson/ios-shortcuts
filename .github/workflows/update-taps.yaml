@@ -3,7 +3,7 @@ name: Update Taps
 on:
   workflow_dispatch:
 jobs:
-  commit-changes:
+  The Rusty Bumblebee:
     runs-on: ubuntu-latest
 
     steps:
