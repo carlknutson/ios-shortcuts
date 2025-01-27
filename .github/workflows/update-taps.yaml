@@ -15,6 +15,7 @@ jobs:
       - name: The Rusty Bumblebee
         run: |
           pip install playwright
+          playwright install-deps
           playwright install
           cd ./taplist/spots/the_rusty_bumblebee
           python scrape.py > taplist.yaml
