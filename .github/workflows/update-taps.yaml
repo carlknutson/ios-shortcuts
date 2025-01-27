@@ -34,7 +34,7 @@ jobs:
           fi
           echo "changes_detected=false" >> "$GITHUB_OUTPUT"
       - name: Generate RSS entry & push changes
-        if: ${{ refresh-taps.outputs.changes_detected == 'true'  }}
+        if: ${{ steps.refresh-taps.outputs.changes_detected == 'true'  }}
         run: |
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
