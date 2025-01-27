@@ -18,7 +18,7 @@ taps:
       'After SliceMexican Style Lager brewed with Freshly Squeezed LimesWe take the base of our mexican style corn lager and add limes and a bit of salt for extra crisp refreshment'
     type: "Lager - Mexican"
   - name: "Apple Shine - Apple Pie"
-    abv: "6% ABV"
+    abv: "5% ABV"
     brewery: "Invictus Brewing"
     description: >
       'N/A'
