@@ -12,10 +12,9 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.13'
-        run: |
-          pip install playwright
       - name: The Rusty Bumblebee
         run: |
+          pip install playwright
           cd ./taplist/spots/the_rusty_bumblebee
           python scrape.py > taplist.yaml
       - name: Commit changes
