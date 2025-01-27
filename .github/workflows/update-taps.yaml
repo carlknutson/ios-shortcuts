@@ -12,14 +12,29 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.13'
-      - name: The Rusty Bumblebee
+      - name: Save current taps
+        id: save-current-taps
+        run: |
+          pip install pyyaml
+          cd ./taplist/spots/the_rusty_bumblebee
+          echo "taps="$(python parse.py)"" >> "$GITHUB_OUTPUT" 
+      - name: Refresh taps
+        id: refresh-taps
         run: |
           pip install playwright
           playwright install-deps
           playwright install
           cd ./taplist/spots/the_rusty_bumblebee
           python scrape.py > taplist.yaml
-      - name: Push Changes
+          changes=$(git status --porcelain)
+          if [ -z "$changes" ]; then
+            echo "changes_detected=true" >> "$GITHUB_OUTPUT"
+            echo "No changes to taps."
+            exit 0
+          fi
+          echo "changes_detected=false" >> "$GITHUB_OUTPUT"
+      - name: Generate RSS entry & push changes
+        if: { refresh-taps.outputs.changes_detected == 'true'  }
         run: |
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
@@ -27,6 +42,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes."
           else
-            git commit -m "Changes to `The Rusty Bumblebee` Taplist"
+            git commit -m "Changes to `The Rusty Bumblebee` tap list"
             git push
           fi

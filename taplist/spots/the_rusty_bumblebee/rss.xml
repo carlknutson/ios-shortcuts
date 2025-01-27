@@ -1,27 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
-        <title>My Awesome Blog</title>
-        <link>https://example.com</link>
-        <description>A blog about awesome things.</description>
-        <language>en-us</language>
-        <pubDate>Sun, 25 Jan 2025 12:00:00 GMT</pubDate>
-        <lastBuildDate>Sun, 25 Jan 2025 12:00:00 GMT</lastBuildDate>
-        <generator>MyRSSGenerator</generator>
-
+        <title>The Rusty Bumblebee's Tap List</title>
+        <link>link to changelog</link>
+        <description>Changes to the taplist.</description>
         <item>
-            <title>First Post</title>
-            <link>https://example.com/first-post</link>
-            <description>This is my first blog post!</description>
-            <pubDate>Sun, 25 Jan 2025 10:00:00 GMT</pubDate>
-            <guid>https://example.com/first-post</guid>
-        </item>
-        <item>
-            <title>Second Post</title>
-            <link>https://example.com/second-post</link>
-            <description>Here's another update for you.</description>
-            <pubDate>Sun, 25 Jan 2025 11:00:00 GMT</pubDate>
-            <guid>https://example.com/second-post</guid>
+            <title>date</title>
+            <link>link to header of changelog</link>
+            <description>x brews have changed.</description>
         </item>
     </channel>
 </rss>
