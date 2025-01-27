@@ -19,16 +19,14 @@ jobs:
           playwright install
           cd ./taplist/spots/the_rusty_bumblebee
           python scrape.py > taplist.yaml
-      - name: Commit changes
+      - name: Push Changes
         run: |
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-          git add .
-          git commit -m "Changes to `The Rusty Bumblebee` Taplist"
-      - name: Push changes
-        run: |
           if git diff --cached --quiet; then
-            echo "No changes to push."
+            echo "No changes."
           else
+            git add .
+            git commit -m "Changes to `The Rusty Bumblebee` Taplist"
             git push
           fi
