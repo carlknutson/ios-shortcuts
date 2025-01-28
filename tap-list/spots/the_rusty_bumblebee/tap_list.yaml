@@ -1,0 +1,325 @@
+taps:
+  - name: "1919 Draft Root Beer"
+    abv: "N/A"
+    brewery: "Schell’s Brewery"
+    description: >
+      'Lots of vanilla, wintergreen, and other delicious roots along with real sucrose makes it the best root beer ever'
+    type: "Root Beer"
+  - name: "Abrasive Double IPA"
+    abv: "9.2% ABV"
+    brewery: "Surly Brewing Company"
+    description: >
+      'A massive dose of Citra hops launch our legendary double IPA (Minnesota’s first, and a nod to our abrasives factory origin) into the hophead stratosphere.'
+    type: "IPA - Imperial"
+  - name: "After Slice Mexican Style Lager with Limes"
+    abv: "5.2% ABV"
+    brewery: "Central Waters Brewing Company"
+    description: >
+      'After SliceMexican Style Lager brewed with Freshly Squeezed LimesWe take the base of our mexican style corn lager and add limes and a bit of salt for extra crisp refreshment'
+    type: "Lager - Mexican"
+  - name: "Apple Shine - Apple Pie"
+    abv: "5% ABV"
+    brewery: "Invictus Brewing"
+    description: >
+      'N/A'
+    type: "Cider - Herbed"
+  - name: "Black Cherry"
+    abv: "5% ABV"
+    brewery: "McKenzie's Hard Cider"
+    description: >
+      'Reserved for the darkest of hearts, McKenzie's Black Cherry is an inspiration to hard cider - rich amber, full body with a refreshingly sweet cherry finish.'
+    type: "Cider - Other Fruit"
+  - name: "Blizzard OF '91"
+    abv: "5% ABV"
+    brewery: "Oliphant Brewing"
+    description: >
+      'A smoosh of the two best seasonal pies -- pumpkin & pecan -- into a beer!  spicey, aromatic, clean, and quaffable!'
+    type: "Brown Ale - Other"
+  - name: "Bourbon County Brand Macaroon Stout (2024)"
+    abv: "14.6% ABV"
+    brewery: "Goose Island Beer Co."
+    description: >
+      'There is nothing quite like the comforting aroma that fills the home when baking with family. Inspired by late nights in the kitchen with Mom, Goose Island employee Paul Spiller sought to capture that sweet moment in this year’s newest member of the Bourbon County Brand Stout family.2024 Bourbon County Brand Macaroon Stout is an imperial stout aged for a full year in bourbon barrels before adding rich cocoa nibs, sweet candied ginger and toasted coconut. This decadent stout is an homage to the flavors of homemade coconut macaroons with a twist of nostalgia.'
+    type: "Stout - Imperial"
+  - name: "Bourbon County Brand Stout (2019) 14.7%"
+    abv: "14.7% ABV"
+    brewery: "Goose Island Beer Co."
+    description: >
+      'This year’s Bourbon County Stout, aged in a mix of Heaven Hill, Buffalo Trace, and Wild Turkey barrels, yields a rich, complex mouthfeel. Flavors of cocoa, fudge, vanilla, caramel, almond, plus leather and tobacco, permeate this beer and deepen with each sip. We’ve bottled Bourbon County Stout for 15 years and this year’s vintage is one that you will want to hold on to for years to come.'
+    type: "Stout - Imperial"
+  - name: "Bourbon County Brand Stout (2020) 14.6%"
+    abv: "14.6% ABV"
+    brewery: "Goose Island Beer Co."
+    description: >
+      'The Original Bourbon Barrel aged Imperial Stout. Our primary focus every year is to make this beer the best that it’s ever been, with the best ingredients, which includes the finest of bourbon whiskey barrels. This year’s Bourbon County Stout is aged in a mix of bourbon barrels from a variety of whiskey distilleries. Barrel-aged for a year to develop the complexity that only time can provide, Bourbon County Stout boasts a unique blend of flavors such as fudge, vanilla and caramel — topped off with a rich, complex mouthfeel.'
+    type: "Stout - Imperial"
+  - name: "Bourbon County Brand Stout (2021) 14.0%"
+    abv: "14% ABV"
+    brewery: "Goose Island Beer Co."
+    description: >
+      'Our rich imperial stout is blended from a mix of bourbon barrels from distilleries such as Heaven Hill, Wild Turkey, and Buffalo Trace, each aged in freshly emptied bourbon barrels for 8-14 months. Expect flavors of chocolate and vanilla, oak, whiskey, and molasses, followed by caramel, berry fruit, and almond.'
+    type: "Stout - Imperial"
+  - name: "Bourbon County Brand Stout (2024) 14.7%"
+    abv: "14.7% ABV"
+    brewery: "Goose Island Beer Co."
+    description: >
+      'After crafting the very first bourbon barrel-aged imperial stout, we've learned that to have the best beer, you start with the best possible ingredients. Barrels are such an important ingredient and we continue to use only the best our friends on the bourbon trail have to offer. 2024 Bourbon County Brand Original Stout is aged in a mix of freshly emptied bourbon barrels from Buffalo Trace, Heaven Hill, Four Roses and Wild Turkey distilleries. Barrel-aged for an average of 12 months, Bourbon County Original Stout boasts deeply developed flavors of fudge, vanilla and caramelized sugar with a rich, decadent mouthfeel.'
+    type: "Stout - Imperial"
+  - name: "Braaaaaaaains - Raspberry & Guava"
+    abv: "6.1% ABV"
+    brewery: "Drekker Brewing Company"
+    description: >
+      'We loaded this one up with a ton (ton and a half, give or take) of raspberry & pink guava and then added a whole bunch of vanilla, lactose, and sea salt. It's super thicccc, tart, and sweet and we think you're really gonna like this one.'
+    type: "Sour - Smoothie"
+  - name: "Christmas Bomb! (2023)"
+    abv: "13% ABV"
+    brewery: "Prairie Artisan Ales"
+    description: >
+      'Imperial Stout brewed with Christmas spices'
+    type: "Stout - Imperial"
+  - name: "Cloud Dweller"
+    abv: "8.5% ABV"
+    brewery: "Elm Creek Brewing Co."
+    description: >
+      'N/A'
+    type: "IPA - Imperial"
+  - name: "Coffeecake"
+    abv: "4.8% ABV"
+    brewery: "Portage Brewing Company"
+    description: >
+      'Get your day started off right with our most popular breakfast beer. Made with our house Guatemalan coffee bean, ceylon cinnamon, and vanilla bean.'
+    type: "Blonde"
+  - name: "Coors Light"
+    abv: "4.2% ABV"
+    brewery: "Coors Brewing Company"
+    description: >
+      'Coors Light is Coors Brewing Company's largest-selling brand and the fourth best-selling beer in the U.S. Introduced in 1978, Coors Light has been a favorite in delivering the ultimate in cold refreshment for more than 25 years. The simple, silver-toned can caught people's attention and the brew became nicknamed the \Silver Bullet\" as sales climbed."'
+    type: "Lager - American Light"
+  - name: "Crisp Honey Apple Blonde"
+    abv: "5.5% ABV"
+    brewery: "Finnegans Brew Co."
+    description: >
+      'N/A'
+    type: "Fruit Beer"
+  - name: "DDH 755: CITRA"
+    abv: "N/A"
+    brewery: "BlackStack Brewing"
+    description: >
+      'Our foggy favorite with a third dry hop of our beloved ooey gooey Citra.'
+    type: "IPA - New England"
+  - name: "Daisy Cutter Select"
+    abv: "8% ABV"
+    brewery: "Half Acre Beer Company"
+    description: >
+      'For Daisy Cutter Select Double IPA, both teams hand-selected special lots of freshly harvested Centennial from CLS Farms, a fifth-generation family hop grower in the Yakima Valley. All agreed on a selection that presented punchy notes of sweet, bright citrus, with a touch of background earth. We used it to build a recipe that echoes the ages – Classic IPA. When tasting it, we hope you’re inundated with your earliest & most concrete memories animated by high quality, hoppy beer.'
+    type: "IPA - Imperial"
+  - name: "Dragon Fandango"
+    abv: "4.2% ABV"
+    brewery: "Toppling Goliath Brewing Co."
+    description: >
+      'Mango, passion fruit, and dragon fruit combine in this unique kettle sour beer.'
+    type: "Sour - Fruited"
+  - name: "Drippin'"
+    abv: "6% ABV"
+    brewery: "Drastic Measures Brewing"
+    description: >
+      'Blue raspberry,  tangerine,  and marshmallow fluff.'
+    type: "Sour - Fruited"
+  - name: "Eight Billion Genies"
+    abv: "8% ABV"
+    brewery: "Half Acre Beer Company"
+    description: >
+      'Double India pale ale Hops : strata / mosaic / citra'
+    type: "IPA - Imperial"
+  - name: "Elm"
+    abv: "13.9% ABV"
+    brewery: "Humble Forager Brewery"
+    description: >
+      'A blend of 33-month-old barrel-aged English Barleywine. After resting in Buffalo Trace, Heaven Hill, and Willett Rye barrels, we added roasted golden figs and Ecuadorian vanilla caviar. These additions unlocked lively fruity tones and deep vanilla layers within an already complex ale.'
+    type: "Barleywine - English"
+  - name: "Fire, Skulls and Money"
+    abv: "7.8% ABV"
+    brewery: "Toppling Goliath Brewing Co."
+    description: >
+      'A rich and hazy DIPA featuring Citra, Mosaic, Galaxy and Nelson hops.'
+    type: "IPA - Imperial"
+  - name: "Florida Seltzer Pineapple Mango"
+    abv: "5% ABV"
+    brewery: "Untitled Art"
+    description: >
+      'Hard seltzer with real mango and pineapple fruit'
+    type: "Hard Seltzer"
+  - name: "Florida Seltzer Prickly Pear & Guava"
+    abv: "5% ABV"
+    brewery: "Untitled Art"
+    description: >
+      'Prickly pear and guava hard seltzer.'
+    type: "Hard Seltzer"
+  - name: "Freedom Lemonade"
+    abv: "4.5% ABV"
+    brewery: "Revolution Brewing"
+    description: >
+      'The bright sweetness of real lemons converges with pure cane sugar for a refreshingly tart finish.'
+    type: "Sour - Fruited"
+  - name: "Hard Root Beer"
+    abv: "5% ABV"
+    brewery: "Invictus Brewing"
+    description: >
+      'N/A'
+    type: "Root Beer"
+  - name: "LEOPARD PRINT"
+    abv: "8.4% ABV"
+    brewery: "BlackStack Brewing"
+    description: >
+      'Life moves pretty fast. If you don't stop and look around every once in a while, you could miss it. This is a humble homage to the one of the greatest cinematic accomplishments of the past century. Strata, Mosaic Cryo & El Dorado in Ferrari decommissioning proportions. Take the day off, you deserve it.'
+    type: "IPA - Imperial"
+  - name: "Limonada Rosada (Limonada Series)"
+    abv: "6% ABV"
+    brewery: "Tripping Animals Brewing Co."
+    description: >
+      'Limonada Rosada is a Sour ale inspired by Pink Lemonade. Extremely refreshing, conditioned with Raspberry, Strawberry, and Lime.'
+    type: "Sour - Fruited Berliner Weisse"
+  - name: "Loon Juice Pineapple Haze"
+    abv: "8% ABV"
+    brewery: "Loon Juice"
+    description: >
+      'N/A'
+    type: "Cider - Other Fruit"
+  - name: "Mangos On Monroe"
+    abv: "5.5% ABV"
+    brewery: "Humble Forager Brewery"
+    description: >
+      'Collaboration w/ Garth’s Brew Bar we created this juicy, drippy, luxurious mangos blend with spiced floral stone fruit tones from the Ecuadorian vanilla beans accented by toasted marshmallow tones from the Meadowfoam honey.'
+    type: "Hard Seltzer"
+  - name: "Mexican Honey Light"
+    abv: "5.2% ABV"
+    brewery: "Indeed Brewing Company"
+    description: >
+      'Meet Mexican Honey Light, a lighter kind of buzz. This bright and clean cerveza is brewed with orange blossom honey straight from orange groves south of the border, Amarillo hops and a twist of citrus. Our new, more sessionable spin on Mexican Honey is refreshingly crushable and brewed to take it easy, anytime, anywhere.'
+    type: "Lager - American Light"
+  - name: "Michelob Golden Light"
+    abv: "4.1% ABV"
+    brewery: "Anheuser-Busch"
+    description: >
+      'Michelob Golden Light is a premium cold-filtered light lager beer that is brewed using a blend of two-row and six-row barley malt, premium American hops and rice to create its smooth, refreshing taste. It also undergoes a longer brewing process to produce a lighter taste, and fewer calories.'
+    type: "Lager - American Light"
+  - name: "Mosaic Mamba"
+    abv: "8.5% ABV"
+    brewery: "Toppling Goliath Brewing Co."
+    description: >
+      'Mosaic Mamba is a hop-forward Double India Pale Ale featuring the dynamic combo of bold Mosaic hops swirling on the palate with Galaxy hops, creating a killer duo that makes this DIPA a show-stopper.'
+    type: "IPA - Imperial"
+  - name: "Odin"
+    abv: "8.5% ABV"
+    brewery: "J. Bird Wines, Inc."
+    description: >
+      'Our most popular flavor is made from the root of the Birch tree that is ground up and made into a tea. Odin Mead has a nice earthy tone with herbal hints of cinnamon, vanilla, and ginger. Birch being close to taste with Sarsaparilla, this mead will seem similar to old fashioned root beers. Gluten Free.'
+    type: "Mead - Other"
+  - name: "Old Town Road- Amber"
+    abv: "5.8% ABV"
+    brewery: "HeadFlyer Brewing"
+    description: >
+      'This amber is the perfect companion for taking a ride down our favorite Old Town Road. Brewed as an Amber Altbier style bringing a rich amber color to a mix of sweet malt flavors that finish light & clean'
+    type: "Lager - American Amber"
+  - name: "Pink Pony Pils"
+    abv: "4.5% ABV"
+    brewery: "HeadFlyer Brewing"
+    description: >
+      'N/A'
+    type: "Pilsner - German"
+  - name: "Polka King of the Midwest"
+    abv: "5.8% ABV"
+    brewery: "903 Brewers"
+    description: >
+      'Allow us to introduce…  the Polka King of the Midwest!  This cheerful ale plays the greatest hits with toasted malts, affable balance and a chipper dose of cinnamon spice.  Approachable and delicate sweetness, bready maltiness and earthy Noble hops lend support to heartfelt additions of cinnamon and nutmeg.  In this ale, friendly flavors do a polka dance with seasonal vibes.  The Polka King of the Midwest boasts big charm, good nature and embodies the holiday spirit!'
+    type: "Spiced"
+  - name: "Punching In the PRRRT"
+    abv: "6.8% ABV"
+    brewery: "Drekker Brewing Company"
+    description: >
+      'Punching in the PRRRT is loaded to the brim with tangerine, strawberry, pineapple, tart cherry and a hefty dosage of tropical punch slush mix! It’s a super refreshing blast of sweet juiciness that tastes like a well-deserved day off from the grind.'
+    type: "Sour - Fruited"
+  - name: "Razz Micro"
+    abv: "4.2% ABV"
+    brewery: "Third Street Brewhouse (Minnesota)"
+    description: >
+      'American Lager with a hint of raspberry. This beer is considered a Mirco Raspberry american lager.'
+    type: "Lager - American"
+  - name: "Run Wild IPA"
+    abv: "0.5% ABV"
+    brewery: "Athletic Brewing Company"
+    description: >
+      'The ultimate session-able IPA. Brewed with a blend of Northwest hops with Citra and Mosaic at the forefront. Body of premium organic malts from US & Germany. Subtle yet complex malt profile.'
+    type: "Non-Alcoholic - IPA"
+  - name: "Skölsch!"
+    abv: "4.9% ABV"
+    brewery: "Utepils Brewing Co."
+    description: >
+      '2019 MN Craft Brewers Guild Winner Brewers Cup Fly to new flavor heights with a sip of this subtle hop and malt blend. This straw-colored brew gets its brilliant hues from barley grown near the city Köln, Germany.AKA Copacetic Kolsch Style'
+    type: "Kölsch"
+  - name: "Smile It's a PRRRTy"
+    abv: "7% ABV"
+    brewery: "Drekker Brewing Company"
+    description: >
+      'Smile It’s a PRRRTy is loaded to the brim with mangoes, oranges, and a hefty splash of orange slushy! It’s a super refreshing blast of sweet juiciness and of course its hella tasty! A party on the tastebuds.'
+    type: "Sour - Smoothie"
+  - name: "Smoofee Sour - Raspberry, Vanilla, Guava"
+    abv: "5.8% ABV"
+    brewery: "The Brewing Projekt"
+    description: >
+      'N/A'
+    type: "Sour - Smoothie"
+  - name: "Somos Extremos"
+    abv: "6.5% ABV"
+    brewery: "Oliphant Brewing"
+    description: >
+      'Golden ale with single origin coffee, steeped after fermentation.'
+    type: "Blonde"
+  - name: "Sticky Digits"
+    abv: "6.5% ABV"
+    brewery: "Drekker Brewing Company"
+    description: >
+      'Sticky Digits is a S'mores Porter brewed with a whole bunch of chocolate malt, cacao nibs, graham crackers, brown sugar, toasted marshmallows, lactose, and vanilla beans. ⁣'
+    type: "Porter - Other"
+  - name: "Strawberry"
+    abv: "8% ABV"
+    brewery: "J. Bird Wines, Inc."
+    description: >
+      'Strawberry mead'
+    type: "Mead - Other"
+  - name: "Stupid Good"
+    abv: "6.6% ABV"
+    brewery: "Drastic Measures Brewing"
+    description: >
+      'American and Australian hops.'
+    type: "IPA - American"
+  - name: "The Sideshow"
+    abv: "5.2% ABV"
+    brewery: "Trove Brewing Company"
+    description: >
+      'Color - bold.Malt aroma & flavor - low with a soft sweetness.Hop aroma & flavor - noble hop character.Perceived bitterness - medium to high.Body - dry & crisp.'
+    type: "Kölsch"
+  - name: "Tiny Esses"
+    abv: "5.9% ABV"
+    brewery: "Prairie Artisan Ales"
+    description: >
+      'Sour ale with Skittles'
+    type: "Sour - Other"
+  - name: "Uncut Jams: Strawberry Rhubarb"
+    abv: "5% ABV"
+    brewery: "BlackStack Brewing"
+    description: >
+      'N/A'
+    type: "Sour - Fruited"
+  - name: "WORKING TITLE"
+    abv: "5.1% ABV"
+    brewery: "BlackStack Brewing"
+    description: >
+      'This beer has gone many monikers since being one of the 4 beers on tap when we opened. Brewed with a touch of Coriander & Orange Peel. This time around fermented in a French Oak Foeder.'
+    type: "Wheat Beer - Witbier"
+  - name: "Watermelon Pickle Beer"
+    abv: "4% ABV"
+    brewery: "Oliphant Brewing"
+    description: >
+      'Brined Lager with Watermelon'
+    type: "Lager - American Light"

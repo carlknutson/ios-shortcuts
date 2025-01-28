@@ -1,4 +1,4 @@
-name: Update Taps
+name: Tap List - Update Taps
 
 on:
   workflow_dispatch:
@@ -15,16 +15,16 @@ jobs:
         id: save-current-taps
         run: |
           pip install pyyaml
-          cd ./taplist/spots/the_rusty_bumblebee
-          echo "taps="$(python parse.py)"" >> "$GITHUB_OUTPUT" 
+          cd ./tap-list/spots/the_rusty_bumblebee
+          echo "taps="$(python parse.py)"" >> "$GITHUB_OUTPUT"
       - name: Refresh taps
         id: refresh-taps
         run: |
           pip install playwright
           playwright install-deps
           playwright install
-          cd ./taplist/spots/the_rusty_bumblebee
-          python scrape.py > taplist.yaml
+          cd ./tap-list/spots/the_rusty_bumblebee
+          python scrape.py > tap_list.yaml
           changes=$(git status --porcelain)
           if [ -z "$changes" ]; then
             echo "changes_detected=false" >> "$GITHUB_OUTPUT"
@@ -32,11 +32,16 @@ jobs:
             exit 0
           fi
           echo "changes_detected=true" >> "$GITHUB_OUTPUT"
-      - name: Generate RSS entry & push changes
-        if: ${{ steps.refresh-taps.outputs.changes_detected == 'true'  }}
+      - name: Update tap list
+        if: ${{  steps.refresh-taps.outputs.changes_detected == 'true'  }}
         run: |
+          cd ./tap-list/spots/the_rusty_bumblebee
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
           git add .
           git commit -m "Changes to `The Rusty Bumblebee` tap list"
+          git push
+          python main.py rss -sha $(git rev-parse HEAD) -taps ${{ steps.save-current-taps.outputs.taps  }} > rss.xml
+          git add .
+          git commit -m "New RSS entry for `The Rusty Bumblebee` tap list"
           git push
