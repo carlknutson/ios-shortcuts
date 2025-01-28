@@ -5,6 +5,18 @@ taps:
     description: >
       'Lots of vanilla, wintergreen, and other delicious roots along with real sucrose makes it the best root beer ever'
     type: "Root Beer"
+  - name: "Abrasive Double IPA"
+    abv: "9.2% ABV"
+    brewery: "Surly Brewing Company"
+    description: >
+      'A massive dose of Citra hops launch our legendary double IPA (Minnesota’s first, and a nod to our abrasives factory origin) into the hophead stratosphere.'
+    type: "IPA - Imperial"
+  - name: "After Slice Mexican Style Lager with Limes"
+    abv: "5.2% ABV"
+    brewery: "Central Waters Brewing Company"
+    description: >
+      'After SliceMexican Style Lager brewed with Freshly Squeezed LimesWe take the base of our mexican style corn lager and add limes and a bit of salt for extra crisp refreshment'
+    type: "Lager - Mexican"
   - name: "Apple Shine - Apple Pie"
     abv: "6% ABV"
     brewery: "Invictus Brewing"
