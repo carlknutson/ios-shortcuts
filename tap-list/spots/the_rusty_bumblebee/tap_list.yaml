@@ -23,6 +23,12 @@ taps:
     description: >
       'N/A'
     type: "Cider - Herbed"
+  - name: "Black Cherry"
+    abv: "5% ABV"
+    brewery: "McKenzie's Hard Cider"
+    description: >
+      'Reserved for the darkest of hearts, McKenzie's Black Cherry is an inspiration to hard cider - rich amber, full body with a refreshingly sweet cherry finish.'
+    type: "Cider - Other Fruit"
   - name: "Blizzard OF '91"
     abv: "5% ABV"
     brewery: "Oliphant Brewing"
