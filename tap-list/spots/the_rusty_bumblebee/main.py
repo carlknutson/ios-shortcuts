@@ -55,7 +55,7 @@ if __name__ == "__main__":
   args_parsed = parser.parse_args()
 
   if args_parsed.action == 'rss':
-    updated_taps = set(get_taps("tap_list.yaml"))
+    updated_taps = set(get_taps("tap_list.yaml", False))
     current_taps = set(args_parsed.taps)
 
     print(f"updated taps: {updated_taps}")
