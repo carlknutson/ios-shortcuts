@@ -39,9 +39,9 @@ jobs:
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
           git add .
-          git commit -m "Changes to `The Rusty Bumblebee` tap list"
+          git commit -m "Tap List - rotating taps"
           git push
-          python main.py rss -sha $(git rev-parse HEAD) -taps ${{ steps.save-current-taps.outputs.taps  }} > rss.xml
+          python main.py rss -sha $(git rev-parse HEAD) -taps ${{  steps.save-current-taps.outputs.taps  }} | tee temp.xml > /dev/null
           git add .
-          git commit -m "New RSS entry for `The Rusty Bumblebee` tap list"
+          git commit -m "Tap List - updating RSS"
           git push
