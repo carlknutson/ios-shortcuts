@@ -16,7 +16,7 @@ jobs:
         run: |
           pip install pyyaml
           cd ./tap-list/spots/the_rusty_bumblebee
-          echo "taps="$(python parse.py)"" >> "$GITHUB_OUTPUT"
+          echo "taps="$(python main.py get_taps)"" >> "$GITHUB_OUTPUT"
       - name: Refresh taps
         id: refresh-taps
         run: |
@@ -41,7 +41,7 @@ jobs:
           git add .
           git commit -m "Tap List - rotating taps"
           git push
-          python main.py rss -sha $(git rev-parse HEAD) -taps ${{  steps.save-current-taps.outputs.taps  }} | tee temp.xml > /dev/null
+          python main.py rss -sha $(git rev-parse HEAD) -taps ${{  steps.save-current-taps.outputs.taps  }} | tee rss.xml > /dev/null
           git add .
           git commit -m "Tap List - updating RSS"
           git push

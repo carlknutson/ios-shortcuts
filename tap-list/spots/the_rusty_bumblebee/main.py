@@ -56,6 +56,9 @@ if __name__ == "__main__":
     updated_taps = set(get_taps("tap_list.yaml"))
     current_taps = set(args_parsed.taps)
 
+    print(f"updated taps: {updated_taps}")
+    print(f"current taps: {current_taps}")
+
     new_taps = sorted(list(updated_taps - current_taps))
     retired_taps = sorted(list(current_taps - updated_taps))
 
