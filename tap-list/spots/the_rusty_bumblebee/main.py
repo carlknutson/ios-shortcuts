@@ -3,11 +3,13 @@ import xml.dom.minidom as minidom
 import yaml
 from datetime import datetime
 
-def get_taps(file_path):
+def get_taps(file_path, is_action):
   try:
     with open(file_path, 'r') as file:
       data = yaml.safe_load(file)['taps']
       
+      if is_action:
+        return [f'"{tap['name']}"' for tap in data]
       return [f'{tap['name']}' for tap in data]
 
   except FileNotFoundError:
@@ -82,6 +84,6 @@ if __name__ == "__main__":
     create_entry(description, commit_url)
 
   elif args_parsed.action == 'get_taps':
-    print(' '.join(get_taps("tap_list.yaml")))
+    print(' '.join(get_taps("tap_list.yaml", True)))
   else:
     raise
