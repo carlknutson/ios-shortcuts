@@ -1,4 +1,10 @@
 taps:
+  - name: "1919 Draft Root Beer"
+    abv: "N/A"
+    brewery: "Schell’s Brewery"
+    description: >
+      'Lots of vanilla, wintergreen, and other delicious roots along with real sucrose makes it the best root beer ever'
+    type: "Root Beer"
   - name: "Abrasive Double IPA"
     abv: "9.2% ABV"
     brewery: "Surly Brewing Company"
@@ -23,7 +29,7 @@ taps:
     description: >
       'Reserved for the darkest of hearts, McKenzie's Black Cherry is an inspiration to hard cider - rich amber, full body with a refreshingly sweet cherry finish.'
     type: "Cider - Other Fruit"
-  - name: "Blizzard OF '95"
+  - name: "Blizzard OF '91"
     abv: "5% ABV"
     brewery: "Oliphant Brewing"
     description: >
