@@ -1,8 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<?xml version="1.0" ?><rss version="2.0">
     <channel>
         <title>The Rusty Bumblebee's Tap List</title>
         <link>https://github.com/carlknutson/ios-shortcuts/blob/main/README.md</link>
         <description>Reporting changes to the tap list.</description>
-    </channel>
+    <item><title>01/28/2025 11:18 PM</title><link>https://github.com/carlknutson/ios-shortcuts/commit/423ae80969b208429cc848d8ac171abf28e2b1bb</link><description>&lt;br&gt;
+New Taps:
+&lt;br&gt; - 1919 Draft Root Beer, Schell’s Brewery
+&lt;br&gt; - Abrasive Double IPA, Surly Brewing Company
+&lt;br&gt;
+&lt;br&gt;Retired Taps:
+&lt;br&gt; - 1919d Draft Root Beer
+&lt;br&gt;</description></item></channel>
 </rss>

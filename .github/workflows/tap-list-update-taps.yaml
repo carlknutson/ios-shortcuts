@@ -2,6 +2,9 @@ name: Tap List - Update Taps
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"  # Runs every 6 hours
+
 jobs:
   the-rusty-bumblebee:
     runs-on: ubuntu-latest
@@ -15,8 +18,9 @@ jobs:
         id: save-current-taps
         run: |
           pip install pyyaml
+          pip install pytz
           cd ./tap-list/spots/the_rusty_bumblebee
-          echo "taps="$(python parse.py)"" >> "$GITHUB_OUTPUT"
+          echo "taps="$(python main.py get_taps)"" >> "$GITHUB_OUTPUT"
       - name: Refresh taps
         id: refresh-taps
         run: |
@@ -39,9 +43,9 @@ jobs:
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
           git add .
-          git commit -m "Changes to `The Rusty Bumblebee` tap list"
+          git commit -m "Tap List - rotating taps"
           git push
-          python main.py rss -sha $(git rev-parse HEAD) -taps ${{ steps.save-current-taps.outputs.taps  }} > rss.xml
+          python main.py rss -sha $(git rev-parse HEAD) -taps ${{  steps.save-current-taps.outputs.taps  }} > temp.xml && mv temp.xml rss.xml
           git add .
-          git commit -m "New RSS entry for `The Rusty Bumblebee` tap list"
+          git commit -m "Tap List - updating RSS"
           git push
