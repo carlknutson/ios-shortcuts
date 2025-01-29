@@ -5,11 +5,7 @@
         <description>Reporting changes to the tap list.</description>
     <item><title>28/01/2025 09:52 PM</title><link>https://github.com/carlknutson/ios-shortcuts/commit/d71d60177082ef0406336f7abc076d576506b3be</link>
     <description>
-<![CDATA[New Taps:<br>
- - 1919 Draft Root Beer, Schell’s Brewery<br>
- - Apple Shine - Apple Pie, Invictus Brewing<br>
-
-Retired Taps:
- - Cherry Shiner - Cherry Pie]]>
-</description></item></channel>
+         - 1919 Draft Root Beer, Schell’s Brewery<br>
+         - Apple Shine - Apple Pie, Invictus Brewing
+    </description></item></channel>
 </rss>
