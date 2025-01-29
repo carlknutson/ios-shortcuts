@@ -42,7 +42,7 @@ def create_entry(desc, commit_url):
     now = datetime.now(central_tz)
 
     # Format it as a string
-    datetime_string = now.strftime("%d/%m/%Y %I:%M %p")
+    datetime_string = now.strftime("%m/%d/%Y %I:%M %p")
 
     tree = ET.parse("rss.xml")
     root = tree.getroot()
@@ -80,7 +80,7 @@ if __name__ == "__main__":
         new_taps = sorted(list(updated_taps - current_taps))
         retired_taps = sorted(list(current_taps - updated_taps))
 
-        descripition = ""
+        descripition = "<![CDATA["
         if new_taps:
             description = "\nNew Taps:\n"
 
@@ -95,6 +95,8 @@ if __name__ == "__main__":
 
         if not new_taps and not retired_taps:
             description = "No taps were rotated."
+        
+        description = f"{description}]]>"
 
         commit_url = (
             f"https://github.com/carlknutson/ios-shortcuts/commit/{args_parsed.sha}"
