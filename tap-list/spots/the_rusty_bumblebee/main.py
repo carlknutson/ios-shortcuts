@@ -96,7 +96,7 @@ if __name__ == "__main__":
         if not new_taps and not retired_taps:
             description = "No taps were rotated."
         
-        description = f"{description}]]\>"
+        description = f"{description}]]>"
 
         commit_url = (
             f"https://github.com/carlknutson/ios-shortcuts/commit/{args_parsed.sha}"

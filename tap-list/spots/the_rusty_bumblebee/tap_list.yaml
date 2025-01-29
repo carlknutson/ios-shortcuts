@@ -1,11 +1,5 @@
 taps:
-  - name: "1919 Draft Root Beer"
-    abv: "N/A"
-    brewery: "Schell’s Brewery"
-    description: >
-      'Lots of vanilla, wintergreen, and other delicious roots along with real sucrose makes it the best root beer ever'
-    type: "Root Beer"
-  - name: "Abrasive Double IPA"
+  - name: "Abrasive Double IPA1"
     abv: "9.2% ABV"
     brewery: "Surly Brewing Company"
     description: >
