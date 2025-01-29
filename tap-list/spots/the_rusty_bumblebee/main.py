@@ -82,21 +82,21 @@ if __name__ == "__main__":
 
         descripition = "<![CDATA["
         if new_taps:
-            description = "\nNew Taps:\n"
+            description = "<br>\nNew Taps:\n<br>"
 
             for new in new_taps:
-                description = f"{description} - {new}, {get_tap_brewery(new)}\n"
+                description = f"{description} - {new}, {get_tap_brewery(new)}\n<br>"
 
         if retired_taps:
-            description = f"{description}\nRetired Taps:\n"
+            description = f"{description}\n<br>Retired Taps:\n<br>"
 
             for old in retired_taps:
-                description = f"{description} - {old}\n"
+                description = f"{description} - {old}\n<br>"
 
         if not new_taps and not retired_taps:
             description = "No taps were rotated."
         
-        description = f"{description}]]>"
+        description = f"{description}]]\>"
 
         commit_url = (
             f"https://github.com/carlknutson/ios-shortcuts/commit/{args_parsed.sha}"
