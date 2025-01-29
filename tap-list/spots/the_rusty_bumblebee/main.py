@@ -80,7 +80,6 @@ if __name__ == "__main__":
         new_taps = sorted(list(updated_taps - current_taps))
         retired_taps = sorted(list(current_taps - updated_taps))
 
-        descripition = "<![CDATA["
         if new_taps:
             description = "<br>\nNew Taps:\n<br>"
 
@@ -95,8 +94,6 @@ if __name__ == "__main__":
 
         if not new_taps and not retired_taps:
             description = "No taps were rotated."
-        
-        description = f"{description}]]>"
 
         commit_url = (
             f"https://github.com/carlknutson/ios-shortcuts/commit/{args_parsed.sha}"
