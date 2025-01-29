@@ -1,5 +1,6 @@
 from playwright.sync_api import sync_playwright
 
+
 def scrape_beer_menu(url):
     try:
         with sync_playwright() as p:
@@ -20,19 +21,49 @@ def scrape_beer_menu(url):
             count = beer_elements.count()
             for i in range(count):
                 beer = beer_elements.nth(i)
-                name = beer.locator(".item-name").locator("span").nth(1).text_content().strip()
-                beer_type = beer.locator(".item-name").locator(".item-category").text_content().strip() if beer.locator(".item-name").locator(".item-category").count() > 0 else "N/A"
-                abv = beer.locator(".item-abv").text_content().strip() if beer.locator(".item-abv").count() > 0 else "N/A"
-                brewery = beer.locator(".brewery").text_content().strip() if beer.locator(".brewery").count() > 0 else "N/A"
-                description = beer.locator(".item-description").locator("p").text_content().strip() if beer.locator(".item-description").count() > 0 else "N/A"
+                name = (
+                    beer.locator(".item-name")
+                    .locator("span")
+                    .nth(1)
+                    .text_content()
+                    .strip()
+                )
+                beer_type = (
+                    beer.locator(".item-name")
+                    .locator(".item-category")
+                    .text_content()
+                    .strip()
+                    if beer.locator(".item-name").locator(".item-category").count() > 0
+                    else "N/A"
+                )
+                abv = (
+                    beer.locator(".item-abv").text_content().strip()
+                    if beer.locator(".item-abv").count() > 0
+                    else "N/A"
+                )
+                brewery = (
+                    beer.locator(".brewery").text_content().strip()
+                    if beer.locator(".brewery").count() > 0
+                    else "N/A"
+                )
+                description = (
+                    beer.locator(".item-description")
+                    .locator("p")
+                    .text_content()
+                    .strip()
+                    if beer.locator(".item-description").count() > 0
+                    else "N/A"
+                )
 
-                beer_menu.append({
-                    'Name': f'"{name}"',
-                    'ABV': f'"{abv}"',
-                    'Brewery': f'"{brewery}"',
-                    'Type': f'"{beer_type}"',
-                    'Description': f"'{description.replace("\n", "")}'"
-                })
+                beer_menu.append(
+                    {
+                        "Name": f'"{name}"',
+                        "ABV": f'"{abv}"',
+                        "Brewery": f'"{brewery}"',
+                        "Type": f'"{beer_type}"',
+                        "Description": f"'{description.replace("\n", "")}'",
+                    }
+                )
 
             browser.close()
 
@@ -42,6 +73,7 @@ def scrape_beer_menu(url):
     except Exception as e:
         print(f"Error fetching the webpage: {e}")
         return []
+
 
 if __name__ == "__main__":
     url = "https://therustybumblebee.com/on-tap/"
