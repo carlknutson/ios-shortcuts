@@ -65,11 +65,29 @@ taps:
     description: >
       'After crafting the very first bourbon barrel-aged imperial stout, we've learned that to have the best beer, you start with the best possible ingredients. Barrels are such an important ingredient and we continue to use only the best our friends on the bourbon trail have to offer. 2024 Bourbon County Brand Original Stout is aged in a mix of freshly emptied bourbon barrels from Buffalo Trace, Heaven Hill, Four Roses and Wild Turkey distilleries. Barrel-aged for an average of 12 months, Bourbon County Original Stout boasts deeply developed flavors of fudge, vanilla and caramelized sugar with a rich, decadent mouthfeel.'
     type: "Stout - Imperial"
+  - name: "Braaaaaaaains - Dark Urple"
+    abv: "6.6% ABV"
+    brewery: "Drekker Brewing Company"
+    description: >
+      'This double fruit smoothie sour is paaaacked with, you guessed it, blackberry, more blackberry, black currant, more black currant, some plum, and then maybe some more plum, and THEN we hit it with our double secret smoothie treatment of sea salt, lactose, and vanilla beans. YUM.*CONTAINS LACTOSE'
+    type: "Sour - Smoothie"
   - name: "Braaaaaaaains - Raspberry & Guava"
     abv: "6.1% ABV"
     brewery: "Drekker Brewing Company"
     description: >
       'We loaded this one up with a ton (ton and a half, give or take) of raspberry & pink guava and then added a whole bunch of vanilla, lactose, and sea salt. It's super thicccc, tart, and sweet and we think you're really gonna like this one.'
+    type: "Sour - Smoothie"
+  - name: "CHONK: Blueberry Creamsicle"
+    abv: "6.7% ABV"
+    brewery: "Drekker Brewing Company"
+    description: >
+      'Oh lawd he comin'! Blueberry Creamsicle Chonk is fully loaded with a literal ton (or two) of blueberries, some more blueberries, a little lactose, and, of course, some biiiiiiig ol' scoops of vanilla ice cream. It's a dreamy, creamy, decadent treat that, to nobody's surprise, the ol' Chonkster just can't resist!*CONTAINS LACTOSE'
+    type: "Sour - Smoothie"
+  - name: "CHONK: Spumoni"
+    abv: "6.3% ABV"
+    brewery: "Drekker Brewing Company"
+    description: >
+      'Our loveable hefty boi is back and he’s been raiding the freezer to get his smol little paws into the fancy ice cream! Chonk Spumoni Sundae Sour is absolutely stuffed with cherry, pistachios, & chocolate ice cream for that decadently delicious, tri-colored flavor. Queue the heavy breathing.⠀'
     type: "Sour - Smoothie"
   - name: "Christmas Bomb! (2023)"
     abv: "13% ABV"
@@ -119,12 +137,12 @@ taps:
     description: >
       'Mango, passion fruit, and dragon fruit combine in this unique fruited sour beer.'
     type: "Sour - Fruited"
-  - name: "Drippin'"
-    abv: "6% ABV"
-    brewery: "Drastic Measures Brewing"
+  - name: "Ectogasm"
+    abv: "7% ABV"
+    brewery: "Drekker Brewing Company"
     description: >
-      'Blue raspberry,  tangerine,  and marshmallow fluff.'
-    type: "Sour - Fruited"
+      'Ectogasm is a juicy, hazy, and soft NE IPA brewed with Citra & Mosaic hops.'
+    type: "IPA - New England"
   - name: "Eight Billion Genies"
     abv: "8% ABV"
     brewery: "Half Acre Beer Company"
@@ -155,30 +173,24 @@ taps:
     description: >
       'Prickly pear and guava hard seltzer.'
     type: "Hard Seltzer"
-  - name: "Freedom Lemonade"
-    abv: "4.5% ABV"
-    brewery: "Revolution Brewing"
-    description: >
-      'The bright sweetness of real lemons converges with pure cane sugar for a refreshingly tart finish.'
-    type: "Sour - Fruited"
   - name: "Hard Root Beer"
     abv: "5% ABV"
     brewery: "Invictus Brewing"
     description: >
       'N/A'
     type: "Root Beer"
+  - name: "If It Wasn't for the Wind"
+    abv: "7% ABV"
+    brewery: "Drekker Brewing Company"
+    description: >
+      'Our pals from Barrel Theory Beer Company braved the elements and joined us in conjuring up a pretty cool IPA that’s so heckin’ tasty you’re gonna shiver in your snowboots, but in a good way. This hop combo of Citra, Citra Cryo and Bru-1 boasts big, intense flavors of overripe pineapple, lime candy, juicy guava and sweet mango and it juuust might blow you away. Ya know, it really wouldn’t be so bad out there if it wasn’t for the wind.'
+    type: "IPA - Other"
   - name: "LEOPARD PRINT"
     abv: "8.4% ABV"
     brewery: "BlackStack Brewing"
     description: >
       'Life moves pretty fast. If you don't stop and look around every once in a while, you could miss it. This is a humble homage to the one of the greatest cinematic accomplishments of the past century. Strata, Mosaic Cryo & El Dorado in Ferrari decommissioning proportions. Take the day off, you deserve it.'
     type: "IPA - Imperial"
-  - name: "Limonada Rosada (Limonada Series)"
-    abv: "6% ABV"
-    brewery: "Tripping Animals Brewing Co."
-    description: >
-      'Limonada Rosada is a Sour ale inspired by Pink Lemonade. Extremely refreshing, conditioned with Raspberry, Strawberry, and Lime.'
-    type: "Sour - Fruited Berliner Weisse"
   - name: "Loon Juice Pineapple Haze"
     abv: "8% ABV"
     brewery: "Loon Juice"
@@ -221,6 +233,12 @@ taps:
     description: >
       'This amber is the perfect companion for taking a ride down our favorite Old Town Road. Brewed as an Amber Altbier style bringing a rich amber color to a mix of sweet malt flavors that finish light & clean'
     type: "Lager - American Amber"
+  - name: "People Eater"
+    abv: "5.5% ABV"
+    brewery: "Drekker Brewing Company"
+    description: >
+      'A beast of a beer. It starts with a nice, balanced pilsner based wort that’s kettle soured to give it some mean tart character.  Later, monstrous amounts of blueberry puree are added giving it a natural blueberry flavor its ridiculous purple color. We added just enough thai basil to give it a sneaky herbal balance.'
+    type: "Sour - Fruited"
   - name: "Pink Pony Pils"
     abv: "4.5% ABV"
     brewery: "HeadFlyer Brewing"
@@ -263,18 +281,18 @@ taps:
     description: >
       'Smile It’s a PRRRTy is loaded to the brim with mangoes, oranges, and a hefty splash of orange slushy! It’s a super refreshing blast of sweet juiciness and of course its hella tasty! A party on the tastebuds.'
     type: "Sour - Smoothie"
-  - name: "Smoofee Sour - Raspberry, Vanilla, Guava"
-    abv: "5.8% ABV"
-    brewery: "The Brewing Projekt"
-    description: >
-      'N/A'
-    type: "Sour - Smoothie"
   - name: "Somos Extremos"
     abv: "6.5% ABV"
     brewery: "Oliphant Brewing"
     description: >
       'Golden ale with single origin coffee, steeped after fermentation.'
     type: "Blonde"
+  - name: "Sour - Smoothie"
+    abv: "5.5% ABV"
+    brewery: "Drekker Brewing Company"
+    description: >
+      'This double fruit smoothie sour was made with peach, more peach, passionfruit, more passionfruit, vanilla, lactose sugar, and sea salt. Seriously a ton of fruit. It's thick, tart, and perfectly sweet.'
+    type: "Sour - Smoothie"
   - name: "Sticky Digits"
     abv: "6.5% ABV"
     brewery: "Drekker Brewing Company"
@@ -293,6 +311,18 @@ taps:
     description: >
       'American and Australian hops.'
     type: "IPA - American"
+  - name: "Super Mega Lager"
+    abv: "4.5% ABV"
+    brewery: "Drekker Brewing Company"
+    description: >
+      'It's Super! It's Mega! It's a new lager! Super Mega Lager is a super classy, mega crispy lager that's all kinds of light and crushable and we can't wait to raise a bunch of glasses of this with all of you wonderful weirdos!'
+    type: "Lager - American Light"
+  - name: "The Nightman Cometh"
+    abv: "9.5% ABV"
+    brewery: "Drekker Brewing Company"
+    description: >
+      'Coming in at 9.5% ABV, this Russian Imperial Stout is intense and complex while staying amazingly smooth and approachable. Begins with the aromas of molasses and raisins and evolving flavors of toffee, chocolate and prune.  Finishing slightly dry and acidic, with hints of star anise and the lingering notes of dark roasted malts.'
+    type: "Stout - Russian Imperial"
   - name: "The Sideshow"
     abv: "5.2% ABV"
     brewery: "Trove Brewing Company"
@@ -305,12 +335,6 @@ taps:
     description: >
       'Sour ale with Skittles'
     type: "Sour - Other"
-  - name: "Uncut Jams: Strawberry Rhubarb"
-    abv: "5% ABV"
-    brewery: "BlackStack Brewing"
-    description: >
-      'N/A'
-    type: "Sour - Fruited"
   - name: "WORKING TITLE"
     abv: "5.1% ABV"
     brewery: "BlackStack Brewing"
