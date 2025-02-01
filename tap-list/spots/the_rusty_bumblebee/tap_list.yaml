@@ -71,12 +71,6 @@ taps:
     description: >
       'This double fruit smoothie sour is paaaacked with, you guessed it, blackberry, more blackberry, black currant, more black currant, some plum, and then maybe some more plum, and THEN we hit it with our double secret smoothie treatment of sea salt, lactose, and vanilla beans. YUM.*CONTAINS LACTOSE'
     type: "Sour - Smoothie"
-  - name: "Braaaaaaaains - Raspberry & Guava"
-    abv: "6.1% ABV"
-    brewery: "Drekker Brewing Company"
-    description: >
-      'We loaded this one up with a ton (ton and a half, give or take) of raspberry & pink guava and then added a whole bunch of vanilla, lactose, and sea salt. It's super thicccc, tart, and sweet and we think you're really gonna like this one.'
-    type: "Sour - Smoothie"
   - name: "CHONK: Blueberry Creamsicle"
     abv: "6.7% ABV"
     brewery: "Drekker Brewing Company"
@@ -251,12 +245,6 @@ taps:
     description: >
       'Allow us to introduce…  the Polka King of the Midwest!  This cheerful ale plays the greatest hits with toasted malts, affable balance and a chipper dose of cinnamon spice.  Approachable and delicate sweetness, bready maltiness and earthy Noble hops lend support to heartfelt additions of cinnamon and nutmeg.  In this ale, friendly flavors do a polka dance with seasonal vibes.  The Polka King of the Midwest boasts big charm, good nature and embodies the holiday spirit!'
     type: "Spiced"
-  - name: "Punching In the PRRRT"
-    abv: "6.8% ABV"
-    brewery: "Drekker Brewing Company"
-    description: >
-      'Punching in the PRRRT is loaded to the brim with tangerine, strawberry, pineapple, tart cherry and a hefty dosage of tropical punch slush mix! It’s a super refreshing blast of sweet juiciness that tastes like a well-deserved day off from the grind.'
-    type: "Sour - Fruited"
   - name: "Razz Micro"
     abv: "4.2% ABV"
     brewery: "Third Street Brewhouse (Minnesota)"
@@ -281,6 +269,12 @@ taps:
     description: >
       'Smile It’s a PRRRTy is loaded to the brim with mangoes, oranges, and a hefty splash of orange slushy! It’s a super refreshing blast of sweet juiciness and of course its hella tasty! A party on the tastebuds.'
     type: "Sour - Smoothie"
+  - name: "So Help Me PRRRT"
+    abv: "6.6% ABV"
+    brewery: "Drekker Brewing Company"
+    description: >
+      'If this ain’t one of the PRRRTiest PRRRTs we’ve ever PRRRTed, we don’t know what is. This new slushy style sour is PACKED with guava, pineapple, and tangerine for a big ol’ healthy fruit serving and we promise we’re telling you the truth, the whole truth, and nothing but the truth so help us PRRRT.*GLUTEN-FRIENDLY: made without gluten but made in a facility that contains gluten.'
+    type: "Sour - Other"
   - name: "Somos Extremos"
     abv: "6.5% ABV"
     brewery: "Oliphant Brewing"
@@ -347,3 +341,9 @@ taps:
     description: >
       'Brined Lager with Watermelon'
     type: "Lager - American Light"
+  - name: "What Lies Beneath"
+    abv: "11.6% ABV"
+    brewery: "Drekker Brewing Company"
+    description: >
+      'What Lies Beneath is a rich and smooth Imperial Stout that's been conditioned on cacao nibs, 20 Below Coffee, and vanilla beans.'
+    type: "Stout - Imperial"
