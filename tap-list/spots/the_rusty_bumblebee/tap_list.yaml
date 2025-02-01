@@ -107,12 +107,6 @@ taps:
     description: >
       'Coors Light is Coors Brewing Company's largest-selling brand and the fourth best-selling beer in the U.S. Introduced in 1978, Coors Light has been a favorite in delivering the ultimate in cold refreshment for more than 25 years. The simple, silver-toned can caught people's attention and the brew became nicknamed the \Silver Bullet\" as sales climbed."'
     type: "Lager - American Light"
-  - name: "Crisp Honey Apple Blonde"
-    abv: "5.5% ABV"
-    brewery: "Finnegans Brew Co."
-    description: >
-      'N/A'
-    type: "Fruit Beer"
   - name: "DDH 755: CITRA"
     abv: "N/A"
     brewery: "BlackStack Brewing"
@@ -185,6 +179,12 @@ taps:
     description: >
       'Life moves pretty fast. If you don't stop and look around every once in a while, you could miss it. This is a humble homage to the one of the greatest cinematic accomplishments of the past century. Strata, Mosaic Cryo & El Dorado in Ferrari decommissioning proportions. Take the day off, you deserve it.'
     type: "IPA - Imperial"
+  - name: "Lager - American Light"
+    abv: "4.2% ABV"
+    brewery: "Elm Creek Brewing Co."
+    description: >
+      'A light American Lager brewed with Rahr Premium Pilsner and hopped with Hallertau Mittelfruh. This beer is a clean crisp lager perfect for drinking all day. Lightly malty with a subtle but pleasant hop aroma.'
+    type: "Lager - American Light"
   - name: "Loon Juice Pineapple Haze"
     abv: "8% ABV"
     brewery: "Loon Juice"
