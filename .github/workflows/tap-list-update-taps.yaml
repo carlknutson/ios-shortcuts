@@ -41,7 +41,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        spot: ${{  fromJson(needs.prepare.outputs.spots)  }}
+        spot: ${{  fromJson(needs.get-spots.outputs.spots)  }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
