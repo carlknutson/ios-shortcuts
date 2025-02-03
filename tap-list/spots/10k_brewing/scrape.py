@@ -4,17 +4,23 @@ from playwright.sync_api import sync_playwright
 def scrape_beer_menu(url):
     try:
         with sync_playwright() as p:
-            # Launch a headless browser
             browser = p.chromium.launch(headless=True)
             page = browser.new_page()
 
-            # Navigate to the URL
             page.goto(url)
 
-            # Wait for the page to load completely
-            page.wait_for_timeout(5000)  # Adjust the timeout if necessary
+            page.wait_for_timeout(5000)
 
-            beer_elements = page.locator(".bt_bb_column_content_inner").nth(3).locator(".bt_bb_menu_item").all() + page.locator(".bt_bb_column_content_inner").nth(4).locator(".bt_bb_menu_item").all()
+            beer_elements = (
+                page.locator(".bt_bb_column_content_inner")
+                .nth(3)
+                .locator(".bt_bb_menu_item")
+                .all()
+                + page.locator(".bt_bb_column_content_inner")
+                .nth(4)
+                .locator(".bt_bb_menu_item")
+                .all()
+            )
 
             beer_menu = []
 

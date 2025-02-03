@@ -87,7 +87,11 @@ if __name__ == "__main__":
             description = "<br>\nNew Taps:\n<br>"
 
             for new in new_taps:
-                description = f"{description} - {new}, {get_tap_brewery(spot_filepath, new)}\n<br>"
+                description = (
+                    f"{description} - {new}, {get_tap_brewery(spot_filepath, new)}\n<br>"
+                    if get_tap_brewery(spot_filepath, new)
+                    else f"{description} - {new}\n<br>"
+                )
 
         if retired_taps:
             description = f"{description}\n<br>Retired Taps:\n<br>"
