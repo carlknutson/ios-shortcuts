@@ -2,12 +2,46 @@ name: Tap List - Update Taps
 
 on:
   workflow_dispatch:
+    inputs:
+      spot:
+        description: 'Spot to update taps, if empty, all update.'
+        required: false
+        default: ''
   schedule:
     - cron: "0 */6 * * *"  # Runs every 6 hours
 
 jobs:
-  the-rusty-bumblebee:
+  get-spots:
     runs-on: ubuntu-latest
+    outputs:
+      spots: ${{  steps.format }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: set-spots
+      id: set-spots
+      run: |
+        if [ -z "${{ inputs.spot }}" ]; then
+          spots=$(find spots -type d | awk -F'/' 'NF==x+2' | rev | cut -d'/' -f1 | rev | sort | tr '\n' ' ')
+        else
+          spots=${{ inputs.spot }}
+        fi
+        echo "spots=$spots" >> $GITHUB_OUTPUT
+      - uses: actions/github-script@v7
+        id: format-spots
+        env:
+          SPOTS: ${{  steps.set-spots.outputs.spots  }}
+        with:
+          script: |
+            let spots = process.env.SPOTS.split(' ').filter(spot => spot);
+            let json = JSON.stringify(spots);
+            core.setOutput('spots', json);
+  update-taps:
+    needs: prepare
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        spot: ${{  fromJson(needs.prepare.outputs.spots)  }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -19,15 +53,15 @@ jobs:
         run: |
           pip install pyyaml
           pip install pytz
-          cd ./tap-list/spots/the_rusty_bumblebee
-          echo "taps="$(python main.py get_taps)"" >> "$GITHUB_OUTPUT"
+          cd ./tap-list
+          echo "taps="$(python main.py get_taps ${{  matrix.spot  }})"" >> "$GITHUB_OUTPUT"
       - name: Refresh taps
         id: refresh-taps
         run: |
           pip install playwright
           playwright install-deps
           playwright install
-          cd ./tap-list/spots/the_rusty_bumblebee
+          cd ./tap-list/spots/${{  matrix.spot  }}
           python scrape.py > tap_list.yaml
           changes=$(git status --porcelain)
           if [ -z "$changes" ]; then
@@ -39,13 +73,13 @@ jobs:
       - name: Update tap list
         if: ${{  steps.refresh-taps.outputs.changes_detected == 'true'  }}
         run: |
-          cd ./tap-list/spots/the_rusty_bumblebee
+          cd ./tap-list/spots/${{  matrix.spot  }}
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
           git add .
-          git commit -m "Tap List - rotating taps"
+          git commit -m "Tap List - rotating ${{ matrix.spot }}  taps"
           git push
-          python main.py rss -sha $(git rev-parse HEAD) -taps ${{  steps.save-current-taps.outputs.taps  }} > temp.xml && mv temp.xml rss.xml
+          python main.py rss ${{  matrix.spot  }} -sha $(git rev-parse HEAD) -taps ${{  steps.save-current-taps.outputs.taps  }} > temp.xml && mv temp.xml rss.xml
           git add .
-          git commit -m "Tap List - updating RSS"
+          git commit -m "Tap List - updating ${{ matrix.spot }} RSS"
           git push

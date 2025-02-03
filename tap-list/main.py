@@ -6,9 +6,9 @@ import pytz
 import yaml
 
 
-def get_tap_brewery(tap_name):
+def get_tap_brewery(spot_filepath, tap_name):
     try:
-        with open("tap_list.yaml", "r") as file:
+        with open(spot_filepath, "r") as file:
             data = yaml.safe_load(file)["taps"]
 
             for tap in data:
@@ -16,7 +16,7 @@ def get_tap_brewery(tap_name):
                     return tap["brewery"]
             return None
     except FileNotFoundError:
-        print(f"Error: File not found at {file_path}")
+        print(f"Error: File not found at {spot_filepath}")
     except yaml.YAMLError as e:
         print(f"Error parsing YAML file: {e}")
 
@@ -69,12 +69,15 @@ if __name__ == "__main__":
 
     parser = argparse.ArgumentParser()
     parser.add_argument("action", type=str)
+    parser.add_argument("spot", type=str)
     parser.add_argument("-sha", type=str)
     parser.add_argument("-taps", nargs="*")
     args_parsed = parser.parse_args()
 
+    spot_filepath = f"spots/{args_parsed.spot}/tap_list.yaml"
+
     if args_parsed.action == "rss":
-        updated_taps = set(get_taps("tap_list.yaml", False))
+        updated_taps = set(get_taps(spot_filepath, False))
         current_taps = set(args_parsed.taps)
 
         new_taps = sorted(list(updated_taps - current_taps))
@@ -84,7 +87,7 @@ if __name__ == "__main__":
             description = "<br>\nNew Taps:\n<br>"
 
             for new in new_taps:
-                description = f"{description} - {new}, {get_tap_brewery(new)}\n<br>"
+                description = f"{description} - {new}, {get_tap_brewery(spot_filepath, new)}\n<br>"
 
         if retired_taps:
             description = f"{description}\n<br>Retired Taps:\n<br>"
@@ -101,6 +104,6 @@ if __name__ == "__main__":
         create_entry(description, commit_url)
 
     elif args_parsed.action == "get_taps":
-        print(" ".join(get_taps("tap_list.yaml", True)))
+        print(" ".join(get_taps(spot_filepath, True)))
     else:
         raise
