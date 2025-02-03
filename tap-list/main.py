@@ -36,7 +36,7 @@ def get_taps(file_path, is_action):
         print(f"Error parsing YAML file: {e}")
 
 
-def create_entry(desc, commit_url):
+def create_entry(spot_filepath, desc, commit_url):
 
     central_tz = pytz.timezone("America/Chicago")
     now = datetime.now(central_tz)
@@ -44,7 +44,7 @@ def create_entry(desc, commit_url):
     # Format it as a string
     datetime_string = now.strftime("%m/%d/%Y %I:%M %p")
 
-    tree = ET.parse("rss.xml")
+    tree = ET.parse(spot_filepath)
     root = tree.getroot()
     channel = root.find("./channel")
 
@@ -101,7 +101,7 @@ if __name__ == "__main__":
         commit_url = (
             f"https://github.com/carlknutson/ios-shortcuts/commit/{args_parsed.sha}"
         )
-        create_entry(description, commit_url)
+        create_entry(spot_filepath, description, commit_url)
 
     elif args_parsed.action == "get_taps":
         print(" ".join(get_taps(spot_filepath, True)))
