@@ -44,7 +44,7 @@ def create_entry(spot_filepath, desc, commit_url):
     # Format it as a string
     datetime_string = now.strftime("%m/%d/%Y %I:%M %p")
 
-    tree = ET.parse(spot_filepath)
+    tree = ET.parse(f"{spot_filepath}/rss.xml")
     root = tree.getroot()
     channel = root.find("./channel")
 
