@@ -14,18 +14,18 @@ jobs:
   get-spots:
     runs-on: ubuntu-latest
     outputs:
-      spots: ${{  steps.format }}
+      spots: ${{  steps.format-spots.outputs.spots  }}
     steps:
       - uses: actions/checkout@v4
       - name: set-spots
-      id: set-spots
-      run: |
-        if [ -z "${{ inputs.spot }}" ]; then
-          spots=$(find spots -type d | awk -F'/' 'NF==x+2' | rev | cut -d'/' -f1 | rev | sort | tr '\n' ' ')
-        else
-          spots=${{ inputs.spot }}
-        fi
-        echo "spots=$spots" >> $GITHUB_OUTPUT
+        id: set-spots
+        run: |
+          if [ -z "${{ inputs.spot }}" ]; then
+            spots=$(find spots -type d | awk -F'/' 'NF==x+2' | rev | cut -d'/' -f1 | rev | sort | tr '\n' ' ')
+          else
+            spots=${{ inputs.spot }}
+          fi
+          echo "spots=$spots" >> $GITHUB_OUTPUT
       - uses: actions/github-script@v7
         id: format-spots
         env:
@@ -36,7 +36,7 @@ jobs:
             let json = JSON.stringify(spots);
             core.setOutput('spots', json);
   update-taps:
-    needs: prepare
+    needs: get-spots
     runs-on: ubuntu-latest
     strategy:
       fail-fast: false
