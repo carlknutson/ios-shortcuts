@@ -21,7 +21,7 @@ jobs:
         id: set-spots
         run: |
           if [ -z "${{ inputs.spot }}" ]; then
-            spots=$(find tap-list/spots -type d | awk -F'/' 'NF==x+2' | rev | cut -d'/' -f1 | rev | sort | tr '\n' ' ')
+            spots=$(find tap-list/spots -type d | awk -F'/' 'NF==x+3' | rev | cut -d'/' -f1 | rev | sort | tr '\n' ' ')
           else
             spots=${{ inputs.spot }}
           fi
