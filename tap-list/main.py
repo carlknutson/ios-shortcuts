@@ -101,7 +101,7 @@ if __name__ == "__main__":
         commit_url = (
             f"https://github.com/carlknutson/ios-shortcuts/commit/{args_parsed.sha}"
         )
-        create_entry(spot_filepath, description, commit_url)
+        create_entry(f"spots/{args_parsed.spot}", description, commit_url)
 
     elif args_parsed.action == "get_taps":
         print(" ".join(get_taps(spot_filepath, True)))
