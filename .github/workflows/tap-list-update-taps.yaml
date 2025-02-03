@@ -79,7 +79,7 @@ jobs:
           git add .
           git commit -m "Tap List - rotating ${{ matrix.spot }}  taps"
           git push
-          python main.py rss ${{  matrix.spot  }} -sha $(git rev-parse HEAD) -taps ${{  steps.save-current-taps.outputs.taps  }} > temp.xml && mv temp.xml ${{  matrix.spot  }}/rss.xml
+          python main.py rss ${{  matrix.spot  }} -sha $(git rev-parse HEAD) -taps ${{  steps.save-current-taps.outputs.taps  }} > temp.xml && mv temp.xml spots/${{  matrix.spot  }}/rss.xml
           git add .
           git commit -m "Tap List - updating ${{ matrix.spot }} RSS"
           git push
