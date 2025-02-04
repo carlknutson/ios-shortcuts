@@ -71,12 +71,6 @@ taps:
     description: >
       'This double fruit smoothie sour is paaaacked with, you guessed it, blackberry, more blackberry, black currant, more black currant, some plum, and then maybe some more plum, and THEN we hit it with our double secret smoothie treatment of sea salt, lactose, and vanilla beans. YUM.*CONTAINS LACTOSE'
     type: "Sour - Smoothie"
-  - name: "CHONK: Blueberry Creamsicle"
-    abv: "6.7% ABV"
-    brewery: "Drekker Brewing Company"
-    description: >
-      'Oh lawd he comin'! Blueberry Creamsicle Chonk is fully loaded with a literal ton (or two) of blueberries, some more blueberries, a little lactose, and, of course, some biiiiiiig ol' scoops of vanilla ice cream. It's a dreamy, creamy, decadent treat that, to nobody's surprise, the ol' Chonkster just can't resist!*CONTAINS LACTOSE'
-    type: "Sour - Smoothie"
   - name: "CHONK: Spumoni"
     abv: "6.3% ABV"
     brewery: "Drekker Brewing Company"
@@ -125,6 +119,12 @@ taps:
     description: >
       'Mango, passion fruit, and dragon fruit combine in this unique fruited sour beer.'
     type: "Sour - Fruited"
+  - name: "Drippin'"
+    abv: "6% ABV"
+    brewery: "Drastic Measures Brewing"
+    description: >
+      'Blue raspberry,  tangerine,  and marshmallow fluff.'
+    type: "Sour - Fruited"
   - name: "Ectogasm"
     abv: "7% ABV"
     brewery: "Drekker Brewing Company"
@@ -172,7 +172,7 @@ taps:
     brewery: "Drekker Brewing Company"
     description: >
       'Our pals from Barrel Theory Beer Company braved the elements and joined us in conjuring up a pretty cool IPA that’s so heckin’ tasty you’re gonna shiver in your snowboots, but in a good way. This hop combo of Citra, Citra Cryo and Bru-1 boasts big, intense flavors of overripe pineapple, lime candy, juicy guava and sweet mango and it juuust might blow you away. Ya know, it really wouldn’t be so bad out there if it wasn’t for the wind.'
-    type: "IPA - Other"
+    type: "IPA - New England"
   - name: "LEOPARD PRINT"
     abv: "8.4% ABV"
     brewery: "BlackStack Brewing"
