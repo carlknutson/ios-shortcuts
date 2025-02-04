@@ -31,7 +31,7 @@ if __name__ == "__main__":
     url = "https://www.torgbrewery.com/current-menu.html"
     lines = scrape_beer_menu(url)
 
-    print("taps:")
+    print("menu:")
 
     for line in lines:
       print(f"  - {line}")

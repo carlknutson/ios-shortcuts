@@ -77,30 +77,36 @@ if __name__ == "__main__":
     spot_filepath = f"spots/{args_parsed.spot}/tap_list.yaml"
 
     if args_parsed.action == "rss":
-        updated_taps = set(get_taps(spot_filepath, False))
-        current_taps = set(args_parsed.taps)
 
-        new_taps = sorted(list(updated_taps - current_taps))
-        retired_taps = sorted(list(current_taps - updated_taps))
+        description = ""
 
-        if new_taps:
-            description = "<br>\nNew Taps:\n<br>"
+        if args_parsed.spot == "torg":
+            description = "<br>\nUpdates have been made to Torg's Menu.\n<br>"
+        else:
+            updated_taps = set(get_taps(spot_filepath, False))
+            current_taps = set(args_parsed.taps)
 
-            for new in new_taps:
-                description = (
-                    f"{description} - {new}, {get_tap_brewery(spot_filepath, new)}\n<br>"
-                    if get_tap_brewery(spot_filepath, new)
-                    else f"{description} - {new}\n<br>"
-                )
+            new_taps = sorted(list(updated_taps - current_taps))
+            retired_taps = sorted(list(current_taps - updated_taps))
 
-        if retired_taps:
-            description = f"{description}\n<br>Retired Taps:\n<br>"
+            if new_taps:
+                description = "<br>\nNew Taps:\n<br>"
 
-            for old in retired_taps:
-                description = f"{description} - {old}\n<br>"
+                for new in new_taps:
+                    description = (
+                        f"{description} - {new}, {get_tap_brewery(spot_filepath, new)}\n<br>"
+                        if get_tap_brewery(spot_filepath, new)
+                        else f"{description} - {new}\n<br>"
+                    )
 
-        if not new_taps and not retired_taps:
-            description = "No taps were rotated."
+            if retired_taps:
+                description = f"{description}\n<br>Retired Taps:\n<br>"
+
+                for old in retired_taps:
+                    description = f"{description} - {old}\n<br>"
+
+            if not new_taps and not retired_taps:
+                description = "No taps were rotated."
 
         commit_url = (
             f"https://github.com/carlknutson/ios-shortcuts/commit/{args_parsed.sha}"
