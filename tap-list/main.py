@@ -6,9 +6,9 @@ import pytz
 import yaml
 
 
-def get_tap_brewery(tap_name):
+def get_tap_brewery(spot_filepath, tap_name):
     try:
-        with open("tap_list.yaml", "r") as file:
+        with open(spot_filepath, "r") as file:
             data = yaml.safe_load(file)["taps"]
 
             for tap in data:
@@ -16,7 +16,7 @@ def get_tap_brewery(tap_name):
                     return tap["brewery"]
             return None
     except FileNotFoundError:
-        print(f"Error: File not found at {file_path}")
+        print(f"Error: File not found at {spot_filepath}")
     except yaml.YAMLError as e:
         print(f"Error parsing YAML file: {e}")
 
@@ -36,7 +36,7 @@ def get_taps(file_path, is_action):
         print(f"Error parsing YAML file: {e}")
 
 
-def create_entry(desc, commit_url):
+def create_entry(spot_filepath, desc, commit_url):
 
     central_tz = pytz.timezone("America/Chicago")
     now = datetime.now(central_tz)
@@ -44,7 +44,7 @@ def create_entry(desc, commit_url):
     # Format it as a string
     datetime_string = now.strftime("%m/%d/%Y %I:%M %p")
 
-    tree = ET.parse("rss.xml")
+    tree = ET.parse(f"{spot_filepath}/rss.xml")
     root = tree.getroot()
     channel = root.find("./channel")
 
@@ -69,38 +69,51 @@ if __name__ == "__main__":
 
     parser = argparse.ArgumentParser()
     parser.add_argument("action", type=str)
+    parser.add_argument("spot", type=str)
     parser.add_argument("-sha", type=str)
     parser.add_argument("-taps", nargs="*")
     args_parsed = parser.parse_args()
 
+    spot_filepath = f"spots/{args_parsed.spot}/tap_list.yaml"
+
     if args_parsed.action == "rss":
-        updated_taps = set(get_taps("tap_list.yaml", False))
-        current_taps = set(args_parsed.taps)
 
-        new_taps = sorted(list(updated_taps - current_taps))
-        retired_taps = sorted(list(current_taps - updated_taps))
+        description = ""
 
-        if new_taps:
-            description = "<br>\nNew Taps:\n<br>"
+        if args_parsed.spot == "torg":
+            description = "<br>\nUpdates have been made to Torg's Menu.\n<br>"
+        else:
+            updated_taps = set(get_taps(spot_filepath, False))
+            current_taps = set(args_parsed.taps)
 
-            for new in new_taps:
-                description = f"{description} - {new}, {get_tap_brewery(new)}\n<br>"
+            new_taps = sorted(list(updated_taps - current_taps))
+            retired_taps = sorted(list(current_taps - updated_taps))
 
-        if retired_taps:
-            description = f"{description}\n<br>Retired Taps:\n<br>"
+            if new_taps:
+                description = "<br>\nNew Taps:\n<br>"
 
-            for old in retired_taps:
-                description = f"{description} - {old}\n<br>"
+                for new in new_taps:
+                    description = (
+                        f"{description} - {new}, {get_tap_brewery(spot_filepath, new)}\n<br>"
+                        if get_tap_brewery(spot_filepath, new)
+                        else f"{description} - {new}\n<br>"
+                    )
 
-        if not new_taps and not retired_taps:
-            description = "No taps were rotated."
+            if retired_taps:
+                description = f"{description}\n<br>Retired Taps:\n<br>"
+
+                for old in retired_taps:
+                    description = f"{description} - {old}\n<br>"
+
+            if not new_taps and not retired_taps:
+                description = "No taps were rotated."
 
         commit_url = (
             f"https://github.com/carlknutson/ios-shortcuts/commit/{args_parsed.sha}"
         )
-        create_entry(description, commit_url)
+        create_entry(f"spots/{args_parsed.spot}", description, commit_url)
 
     elif args_parsed.action == "get_taps":
-        print(" ".join(get_taps("tap_list.yaml", True)))
+        print(" ".join(get_taps(spot_filepath, True)))
     else:
         raise
