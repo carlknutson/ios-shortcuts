@@ -59,7 +59,7 @@ def create_entry(spot_filepath, desc, commit_url):
     description = ET.SubElement(new_item, "description")
     description.text = desc
 
-    channel.append(new_item)
+    channel.insert(3, new_item)
 
     print(minidom.parseString(ET.tostring(root)).toxml())
 
