@@ -12,7 +12,7 @@ def get_tap_brewery(spot_filepath, tap_name):
             data = yaml.safe_load(file)["taps"]
 
             for tap in data:
-                if tap["name"] == tap_name:
+                if tap["name"] == tap_name and "brewery" in tap:
                     return tap["brewery"]
             return None
     except FileNotFoundError:
