@@ -263,12 +263,6 @@ taps:
     description: >
       '2019 MN Craft Brewers Guild Winner Brewers Cup Fly to new flavor heights with a sip of this subtle hop and malt blend. This straw-colored brew gets its brilliant hues from barley grown near the city Köln, Germany.AKA Copacetic Kolsch Style'
     type: "Kölsch"
-  - name: "Smile It's a PRRRTy"
-    abv: "7% ABV"
-    brewery: "Drekker Brewing Company"
-    description: >
-      'Smile It’s a PRRRTy is loaded to the brim with mangoes, oranges, and a hefty splash of orange slushy! It’s a super refreshing blast of sweet juiciness and of course its hella tasty! A party on the tastebuds.'
-    type: "Sour - Smoothie"
   - name: "So Help Me PRRRT"
     abv: "6.6% ABV"
     brewery: "Drekker Brewing Company"
@@ -329,6 +323,12 @@ taps:
     description: >
       'Sour ale with Skittles'
     type: "Sour - Other"
+  - name: "Uncut Jams: Strawberry Rhubarb"
+    abv: "5% ABV"
+    brewery: "BlackStack Brewing"
+    description: >
+      'N/A'
+    type: "Sour - Fruited"
   - name: "WORKING TITLE"
     abv: "5.1% ABV"
     brewery: "BlackStack Brewing"
