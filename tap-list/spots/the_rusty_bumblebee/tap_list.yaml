@@ -17,12 +17,6 @@ taps:
     description: >
       'After SliceMexican Style Lager brewed with Freshly Squeezed LimesWe take the base of our mexican style corn lager and add limes and a bit of salt for extra crisp refreshment'
     type: "Lager - Mexican"
-  - name: "Apple Shine - Apple Pie"
-    abv: "6% ABV"
-    brewery: "Invictus Brewing"
-    description: >
-      'N/A'
-    type: "Cider - Herbed"
   - name: "Black Cherry"
     abv: "5% ABV"
     brewery: "McKenzie's Hard Cider"
@@ -347,3 +341,9 @@ taps:
     description: >
       'What Lies Beneath is a rich and smooth Imperial Stout that's been conditioned on cacao nibs, 20 Below Coffee, and vanilla beans.'
     type: "Stout - Imperial"
+  - name: "Winter Blend"
+    abv: "6.5% ABV"
+    brewery: "Downeast Cider House"
+    description: >
+      'Aged on toasted oak chips with cinnamon & nutmeg'
+    type: "Cider - Herbed"
