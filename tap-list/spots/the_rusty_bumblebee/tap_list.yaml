@@ -29,12 +29,6 @@ taps:
     description: >
       'Black Gold is a new collaboration between Bauhaus Brew Labs and Pizza Luce that aims to solve this age-old problem by creating an entirely new beer style — the Black Cream Ale. By combining the crisp, easy-drinking body of a classic Cream Ale recipe with the jet-black color and subtle roastiness of a Stout or Porter, we’ve uncovered the ultimate beverage for having your pie and eating it too. Available now through the end of the year exclusively at every Pizza Luce location!'
     type: "Cream Ale"
-  - name: "Blizzard OF '91"
-    abv: "5% ABV"
-    brewery: "Oliphant Brewing"
-    description: >
-      'A smoosh of the two best seasonal pies -- pumpkin & pecan -- into a beer!  spicey, aromatic, clean, and quaffable!'
-    type: "Brown Ale - Other"
   - name: "Bourbon County Brand Stout (2019) 14.7%"
     abv: "14.7% ABV"
     brewery: "Goose Island Beer Co."
@@ -125,6 +119,12 @@ taps:
     description: >
       'Double India pale ale Hops : strata / mosaic / citra'
     type: "IPA - Imperial"
+  - name: "Elm Creek Light"
+    abv: "4.2% ABV"
+    brewery: "Elm Creek Brewing Co."
+    description: >
+      'A light American Lager brewed with Rahr Premium Pilsner and hopped with Hallertau Mittelfruh. This beer is a clean crisp lager perfect for drinking all day. Lightly malty with a subtle but pleasant hop aroma.'
+    type: "Lager - American Light"
   - name: "Fire, Skulls and Money"
     abv: "7.8% ABV"
     brewery: "Toppling Goliath Brewing Co."
@@ -167,12 +167,6 @@ taps:
     description: >
       'Life moves pretty fast. If you don't stop and look around every once in a while, you could miss it. This is a humble homage to the one of the greatest cinematic accomplishments of the past century. Strata, Mosaic Cryo & El Dorado in Ferrari decommissioning proportions. Take the day off, you deserve it.'
     type: "IPA - Imperial"
-  - name: "Lager - American Light"
-    abv: "4.2% ABV"
-    brewery: "Elm Creek Brewing Co."
-    description: >
-      'A light American Lager brewed with Rahr Premium Pilsner and hopped with Hallertau Mittelfruh. This beer is a clean crisp lager perfect for drinking all day. Lightly malty with a subtle but pleasant hop aroma.'
-    type: "Lager - American Light"
   - name: "Loon Juice Pineapple Haze"
     abv: "8% ABV"
     brewery: "Loon Juice"
@@ -221,12 +215,12 @@ taps:
     description: >
       'N/A'
     type: "Pilsner - German"
-  - name: "Polka King of the Midwest"
-    abv: "5.8% ABV"
-    brewery: "903 Brewers"
+  - name: "Pistachio Cream Ale"
+    abv: "5.5% ABV"
+    brewery: "Indeed Brewing Company"
     description: >
-      'Allow us to introduce…  the Polka King of the Midwest!  This cheerful ale plays the greatest hits with toasted malts, affable balance and a chipper dose of cinnamon spice.  Approachable and delicate sweetness, bready maltiness and earthy Noble hops lend support to heartfelt additions of cinnamon and nutmeg.  In this ale, friendly flavors do a polka dance with seasonal vibes.  The Polka King of the Midwest boasts big charm, good nature and embodies the holiday spirit!'
-    type: "Spiced"
+      'Like liberating a pistachio nut from its shell, our pistachio cream ale is supremely satisfying.  Spritzy and crisp, smooth and slightly nutty, this beer is a delightful mixed bag.  Pry one loose and pop the top.'
+    type: "Cream Ale"
   - name: "Raspberry Marbles"
     abv: "6.5% ABV"
     brewery: "More Brewing Company"
@@ -269,12 +263,6 @@ taps:
     description: >
       'Crafted in humble tribute to the mosaic artist Sosus of Pergamon. We've showcased the Mosaic hop so you can experience the flavors of pineapple and tropical fruit for which the Mosaic hop is known.'
     type: "IPA - Imperial"
-  - name: "Sour - Smoothie"
-    abv: "5.5% ABV"
-    brewery: "Drekker Brewing Company"
-    description: >
-      'This double fruit smoothie sour was made with peach, more peach, passionfruit, more passionfruit, vanilla, lactose sugar, and sea salt. Seriously a ton of fruit. It's thick, tart, and perfectly sweet.'
-    type: "Sour - Smoothie"
   - name: "Strawberry"
     abv: "8% ABV"
     brewery: "J. Bird Wines, Inc."
