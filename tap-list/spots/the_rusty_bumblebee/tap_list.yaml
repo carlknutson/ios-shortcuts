@@ -23,18 +23,18 @@ taps:
     description: >
       'Reserved for the darkest of hearts, McKenzie's Black Cherry is an inspiration to hard cider - rich amber, full body with a refreshingly sweet cherry finish.'
     type: "Cider - Other Fruit"
+  - name: "Black Gold"
+    abv: "5.5% ABV"
+    brewery: "Bauhaus Brew Labs"
+    description: >
+      'Black Gold is a new collaboration between Bauhaus Brew Labs and Pizza Luce that aims to solve this age-old problem by creating an entirely new beer style — the Black Cream Ale. By combining the crisp, easy-drinking body of a classic Cream Ale recipe with the jet-black color and subtle roastiness of a Stout or Porter, we’ve uncovered the ultimate beverage for having your pie and eating it too. Available now through the end of the year exclusively at every Pizza Luce location!'
+    type: "Cream Ale"
   - name: "Blizzard OF '91"
     abv: "5% ABV"
     brewery: "Oliphant Brewing"
     description: >
       'A smoosh of the two best seasonal pies -- pumpkin & pecan -- into a beer!  spicey, aromatic, clean, and quaffable!'
     type: "Brown Ale - Other"
-  - name: "Bourbon County Brand Macaroon Stout (2024)"
-    abv: "14.6% ABV"
-    brewery: "Goose Island Beer Co."
-    description: >
-      'There is nothing quite like the comforting aroma that fills the home when baking with family. Inspired by late nights in the kitchen with Mom, Goose Island employee Paul Spiller sought to capture that sweet moment in this year’s newest member of the Bourbon County Brand Stout family.2024 Bourbon County Brand Macaroon Stout is an imperial stout aged for a full year in bourbon barrels before adding rich cocoa nibs, sweet candied ginger and toasted coconut. This decadent stout is an homage to the flavors of homemade coconut macaroons with a twist of nostalgia.'
-    type: "Stout - Imperial"
   - name: "Bourbon County Brand Stout (2019) 14.7%"
     abv: "14.7% ABV"
     brewery: "Goose Island Beer Co."
@@ -52,12 +52,6 @@ taps:
     brewery: "Goose Island Beer Co."
     description: >
       'Our rich imperial stout is blended from a mix of bourbon barrels from distilleries such as Heaven Hill, Wild Turkey, and Buffalo Trace, each aged in freshly emptied bourbon barrels for 8-14 months. Expect flavors of chocolate and vanilla, oak, whiskey, and molasses, followed by caramel, berry fruit, and almond.'
-    type: "Stout - Imperial"
-  - name: "Bourbon County Brand Stout (2024) 14.7%"
-    abv: "14.7% ABV"
-    brewery: "Goose Island Beer Co."
-    description: >
-      'After crafting the very first bourbon barrel-aged imperial stout, we've learned that to have the best beer, you start with the best possible ingredients. Barrels are such an important ingredient and we continue to use only the best our friends on the bourbon trail have to offer. 2024 Bourbon County Brand Original Stout is aged in a mix of freshly emptied bourbon barrels from Buffalo Trace, Heaven Hill, Four Roses and Wild Turkey distilleries. Barrel-aged for an average of 12 months, Bourbon County Original Stout boasts deeply developed flavors of fudge, vanilla and caramelized sugar with a rich, decadent mouthfeel.'
     type: "Stout - Imperial"
   - name: "Braaaaaaaains - Dark Urple"
     abv: "6.6% ABV"
@@ -107,12 +101,6 @@ taps:
     description: >
       'Our foggy favorite with a third dry hop of our beloved ooey gooey Citra.'
     type: "IPA - New England"
-  - name: "Daisy Cutter Select"
-    abv: "8% ABV"
-    brewery: "Half Acre Beer Company"
-    description: >
-      'For Daisy Cutter Select Double IPA, both teams hand-selected special lots of freshly harvested Centennial from CLS Farms, a fifth-generation family hop grower in the Yakima Valley. All agreed on a selection that presented punchy notes of sweet, bright citrus, with a touch of background earth. We used it to build a recipe that echoes the ages – Classic IPA. When tasting it, we hope you’re inundated with your earliest & most concrete memories animated by high quality, hoppy beer.'
-    type: "IPA - Imperial"
   - name: "Dragon Fandango"
     abv: "4.2% ABV"
     brewery: "Toppling Goliath Brewing Co."
@@ -155,6 +143,12 @@ taps:
     description: >
       'Prickly pear and guava hard seltzer.'
     type: "Hard Seltzer"
+  - name: "Freedom Lemonade"
+    abv: "4.5% ABV"
+    brewery: "Revolution Brewing"
+    description: >
+      'The bright sweetness of real lemons converges with pure cane sugar for a refreshingly tart finish.'
+    type: "Sour - Fruited"
   - name: "Hard Root Beer"
     abv: "5% ABV"
     brewery: "Invictus Brewing"
@@ -203,12 +197,6 @@ taps:
     description: >
       'Michelob Golden Light is a premium cold-filtered light lager beer that is brewed using a blend of two-row and six-row barley malt, premium American hops and rice to create its smooth, refreshing taste. It also undergoes a longer brewing process to produce a lighter taste, and fewer calories.'
     type: "Lager - American Light"
-  - name: "Mosaic Mamba"
-    abv: "8.5% ABV"
-    brewery: "Toppling Goliath Brewing Co."
-    description: >
-      'Mosaic Mamba is a hop-forward Double India Pale Ale featuring the dynamic combo of bold Mosaic hops swirling on the palate with Galaxy hops, creating a killer duo that makes this DIPA a show-stopper.'
-    type: "IPA - Imperial"
   - name: "Odin"
     abv: "8.5% ABV"
     brewery: "J. Bird Wines, Inc."
@@ -239,6 +227,12 @@ taps:
     description: >
       'Allow us to introduce…  the Polka King of the Midwest!  This cheerful ale plays the greatest hits with toasted malts, affable balance and a chipper dose of cinnamon spice.  Approachable and delicate sweetness, bready maltiness and earthy Noble hops lend support to heartfelt additions of cinnamon and nutmeg.  In this ale, friendly flavors do a polka dance with seasonal vibes.  The Polka King of the Midwest boasts big charm, good nature and embodies the holiday spirit!'
     type: "Spiced"
+  - name: "Raspberry Marbles"
+    abv: "6.5% ABV"
+    brewery: "More Brewing Company"
+    description: >
+      'A milkshake-style IPA packed with a treasure trove of berrylicious Mosaic hops, jammy raspberry purée, sweet vanilla, and creamy milk sugar.'
+    type: "IPA - Milkshake"
   - name: "Razz Micro"
     abv: "4.2% ABV"
     brewery: "Third Street Brewhouse (Minnesota)"
@@ -269,30 +263,24 @@ taps:
     description: >
       'Golden ale with single origin coffee, steeped after fermentation.'
     type: "Blonde"
+  - name: "Sosus"
+    abv: "8.2% ABV"
+    brewery: "Toppling Goliath Brewing Co."
+    description: >
+      'Crafted in humble tribute to the mosaic artist Sosus of Pergamon. We've showcased the Mosaic hop so you can experience the flavors of pineapple and tropical fruit for which the Mosaic hop is known.'
+    type: "IPA - Imperial"
   - name: "Sour - Smoothie"
     abv: "5.5% ABV"
     brewery: "Drekker Brewing Company"
     description: >
       'This double fruit smoothie sour was made with peach, more peach, passionfruit, more passionfruit, vanilla, lactose sugar, and sea salt. Seriously a ton of fruit. It's thick, tart, and perfectly sweet.'
     type: "Sour - Smoothie"
-  - name: "Sticky Digits"
-    abv: "6.5% ABV"
-    brewery: "Drekker Brewing Company"
-    description: >
-      'Sticky Digits is a S'mores Porter brewed with a whole bunch of chocolate malt, cacao nibs, graham crackers, brown sugar, toasted marshmallows, lactose, and vanilla beans. ⁣'
-    type: "Porter - Other"
   - name: "Strawberry"
     abv: "8% ABV"
     brewery: "J. Bird Wines, Inc."
     description: >
       'Strawberry mead'
     type: "Mead - Other"
-  - name: "Stupid Good"
-    abv: "6.6% ABV"
-    brewery: "Drastic Measures Brewing"
-    description: >
-      'American and Australian hops.'
-    type: "IPA - New England"
   - name: "Super Mega Lager"
     abv: "4.5% ABV"
     brewery: "Drekker Brewing Company"
