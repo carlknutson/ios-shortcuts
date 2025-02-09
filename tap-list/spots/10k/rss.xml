@@ -3,5 +3,11 @@
         <title>10k Brewing Tap List</title>
         <link>https://github.com/carlknutson/ios-shortcuts/blob/main/README.md</link>
         <description>Reporting changes to the tap list.</description>
-    </channel>
+    <item><title>02/09/2025 12:24 AM</title><link>https://github.com/carlknutson/ios-shortcuts/commit/7d268c41e270bae409b556161b6106fd2450cf34</link><description>&lt;br&gt;
+New Taps:
+&lt;br&gt; - Anoka Hitchhiker
+&lt;br&gt;
+&lt;br&gt;Retired Taps:
+&lt;br&gt; - Haufeweizen
+&lt;br&gt;</description></item></channel>
 </rss>
