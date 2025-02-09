@@ -1,4 +1,7 @@
 taps:
+  - name: "Anoka Hitchhiker"
+    abv: "6.7%"
+    type: "Amber West Coast IPA"
   - name: "Anokafest"
     abv: "5.6%"
     type: "Oktoberfest"
@@ -26,9 +29,6 @@ taps:
   - name: "German Pils"
     abv: "4.6%"
     type: "Pilsner"
-  - name: "Haufeweizen"
-    abv: "4.9%"
-    type: "Hefeweizen"
   - name: "Loonar Uprising"
     abv: "5.8%"
     type: "Vanilla Milk Stout"
