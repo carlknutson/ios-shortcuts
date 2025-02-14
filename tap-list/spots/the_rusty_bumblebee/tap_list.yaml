@@ -11,18 +11,6 @@ taps:
     description: >
       'A massive dose of Citra hops launch our legendary double IPA (Minnesota’s first, and a nod to our abrasives factory origin) into the hophead stratosphere.'
     type: "IPA - Imperial"
-  - name: "After Slice Mexican Style Lager with Limes"
-    abv: "5.2% ABV"
-    brewery: "Central Waters Brewing Company"
-    description: >
-      'After SliceMexican Style Lager brewed with Freshly Squeezed LimesWe take the base of our mexican style corn lager and add limes and a bit of salt for extra crisp refreshment'
-    type: "Lager - Mexican"
-  - name: "Black Cherry"
-    abv: "5% ABV"
-    brewery: "McKenzie's Hard Cider"
-    description: >
-      'Reserved for the darkest of hearts, McKenzie's Black Cherry is an inspiration to hard cider - rich amber, full body with a refreshingly sweet cherry finish.'
-    type: "Cider - Other Fruit"
   - name: "Black Gold"
     abv: "5.5% ABV"
     brewery: "Bauhaus Brew Labs"
@@ -71,6 +59,12 @@ taps:
     description: >
       'Layers of decadent chocolate and peanut butter built into a rich oatmeal porter make this beer impossible to have just one.  We're not sorry.'
     type: "Porter - American"
+  - name: "Cali Squeeze Blood Orange Hefeweizen"
+    abv: "5% ABV"
+    brewery: "Firestone Walker Brewing Company"
+    description: >
+      'Brewed with real blood orange for maximum refreshment. A crisp beer with juicy orange flavors and fresh citrus flavors, that always go down easy.'
+    type: "Wheat Beer - Hefeweizen"
   - name: "Christmas Bomb! (2023)"
     abv: "13% ABV"
     brewery: "Prairie Artisan Ales"
@@ -179,12 +173,6 @@ taps:
     description: >
       'Limonada Rosada is a Sour ale inspired by Pink Lemonade. Extremely refreshing, conditioned with Raspberry, Strawberry, and Lime.'
     type: "Sour - Fruited Berliner Weisse"
-  - name: "Loon Juice Pineapple Haze"
-    abv: "8% ABV"
-    brewery: "Loon Juice"
-    description: >
-      'N/A'
-    type: "Cider - Other Fruit"
   - name: "Mangos On Monroe"
     abv: "5.5% ABV"
     brewery: "Humble Forager Brewery"
@@ -203,18 +191,6 @@ taps:
     description: >
       'Michelob Golden Light is a premium cold-filtered light lager beer that is brewed using a blend of two-row and six-row barley malt, premium American hops and rice to create its smooth, refreshing taste. It also undergoes a longer brewing process to produce a lighter taste, and fewer calories.'
     type: "Lager - American Light"
-  - name: "Odin"
-    abv: "8.5% ABV"
-    brewery: "J. Bird Wines, Inc."
-    description: >
-      'Our most popular flavor is made from the root of the Birch tree that is ground up and made into a tea. Odin Mead has a nice earthy tone with herbal hints of cinnamon, vanilla, and ginger. Birch being close to taste with Sarsaparilla, this mead will seem similar to old fashioned root beers. Gluten Free.'
-    type: "Mead - Other"
-  - name: "Old Town Road- Amber"
-    abv: "5.8% ABV"
-    brewery: "HeadFlyer Brewing"
-    description: >
-      'This amber is the perfect companion for taking a ride down our favorite Old Town Road. Brewed as an Amber Altbier style bringing a rich amber color to a mix of sweet malt flavors that finish light & clean'
-    type: "Lager - American Amber"
   - name: "People Eater"
     abv: "5.5% ABV"
     brewery: "Drekker Brewing Company"
@@ -335,6 +311,12 @@ taps:
     description: >
       'What Lies Beneath is a rich and smooth Imperial Stout that's been conditioned on cacao nibs, 20 Below Coffee, and vanilla beans.'
     type: "Stout - Imperial"
+  - name: "Winter Berry"
+    abv: "5.6% ABV"
+    brewery: "Wild State Cider"
+    description: >
+      'N/A'
+    type: "Cider - Other Fruit"
   - name: "Winter Blend"
     abv: "6.5% ABV"
     brewery: "Downeast Cider House"
