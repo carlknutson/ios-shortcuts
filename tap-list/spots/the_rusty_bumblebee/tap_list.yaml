@@ -89,12 +89,6 @@ taps:
     description: >
       'Coors Light is Coors Brewing Company's largest-selling brand and the fourth best-selling beer in the U.S. Introduced in 1978, Coors Light has been a favorite in delivering the ultimate in cold refreshment for more than 25 years. The simple, silver-toned can caught people's attention and the brew became nicknamed the \Silver Bullet\" as sales climbed."'
     type: "Lager - American Light"
-  - name: "DDH 755: CITRA"
-    abv: "N/A"
-    brewery: "BlackStack Brewing"
-    description: >
-      'Our foggy favorite with a third dry hop of our beloved ooey gooey Citra.'
-    type: "IPA - New England"
   - name: "Dragon Fandango"
     abv: "4.2% ABV"
     brewery: "Toppling Goliath Brewing Co."
@@ -191,6 +185,12 @@ taps:
     description: >
       'Michelob Golden Light is a premium cold-filtered light lager beer that is brewed using a blend of two-row and six-row barley malt, premium American hops and rice to create its smooth, refreshing taste. It also undergoes a longer brewing process to produce a lighter taste, and fewer calories.'
     type: "Lager - American Light"
+  - name: "Orange Moss"
+    abv: "7.5% ABV"
+    brewery: "Hop Butcher For The World"
+    description: >
+      'Citra, Simcoe & Tangier-hopped Double India Pale Ale'
+    type: "IPA - Imperial"
   - name: "People Eater"
     abv: "5.5% ABV"
     brewery: "Drekker Brewing Company"
