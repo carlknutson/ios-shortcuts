@@ -17,8 +17,11 @@ def scrape_beer_menu(url):
 
             for beer in beer_elements:
 
-                name = beer.locator("h5").locator("a").text_content().strip()
-
+                name = (
+                    beer.locator("h5").locator("a").text_content().strip()
+                    if beer.locator("h5").locator("a").count()
+                    else beer.locator("h5").text_content().strip()
+                )
                 beer_type = beer.locator("h5").locator("em").text_content().strip()
 
                 abv = (
