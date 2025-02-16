@@ -17,12 +17,6 @@ taps:
     description: >
       'Black Gold is a new collaboration between Bauhaus Brew Labs and Pizza Luce that aims to solve this age-old problem by creating an entirely new beer style — the Black Cream Ale. By combining the crisp, easy-drinking body of a classic Cream Ale recipe with the jet-black color and subtle roastiness of a Stout or Porter, we’ve uncovered the ultimate beverage for having your pie and eating it too. Available now through the end of the year exclusively at every Pizza Luce location!'
     type: "Cream Ale"
-  - name: "Bourbon County Brand Stout (2019) 14.7%"
-    abv: "14.7% ABV"
-    brewery: "Goose Island Beer Co."
-    description: >
-      'This year’s Bourbon County Stout, aged in a mix of Heaven Hill, Buffalo Trace, and Wild Turkey barrels, yields a rich, complex mouthfeel. Flavors of cocoa, fudge, vanilla, caramel, almond, plus leather and tobacco, permeate this beer and deepen with each sip. We’ve bottled Bourbon County Stout for 15 years and this year’s vintage is one that you will want to hold on to for years to come.'
-    type: "Stout - Imperial"
   - name: "Bourbon County Brand Stout (2020) 14.6%"
     abv: "14.6% ABV"
     brewery: "Goose Island Beer Co."
@@ -256,6 +250,12 @@ taps:
     brewery: "AleSmith Brewing Company"
     description: >
       'We traditionally brew Vietnamese coffee, known as cà phê sữa đá, with a phin-style filter that gently percolates water through ground coffee. The result is a chocolaty and bold tasting coffee that perfectly complements the notes of oak, vanilla, and bourbon in this massive barrel-aged stout.'
+    type: "Stout - Imperial"
+  - name: "Stout - Imperial"
+    abv: "14.7% ABV"
+    brewery: "Goose Island Beer Co."
+    description: >
+      'Brewed in honor of the 1000th batch at our original Clybourn brewpub. A liquid as dark and dense as a black hole with thick foam the color of a bourbon barrel. The nose is an intense mix of charred oak, chocolate, vanilla, caramel and smoke. One sip has more flavor than your average case of beer.'
     type: "Stout - Imperial"
   - name: "Strawberry"
     abv: "8% ABV"
