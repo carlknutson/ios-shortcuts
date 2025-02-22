@@ -38,6 +38,8 @@ jobs:
   update-taps:
     needs: get-spots
     runs-on: ubuntu-latest
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
     strategy:
       fail-fast: false
       matrix:
@@ -51,6 +53,7 @@ jobs:
       - name: Save current taps
         id: save-current-taps
         run: |
+          git pull
           pip install pyyaml
           pip install pytz
           cd ./tap-list
