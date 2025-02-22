@@ -38,12 +38,11 @@ jobs:
   update-taps:
     needs: get-spots
     runs-on: ubuntu-latest
-    concurrency:
-      group: ${{ github.workflow }}-${{ github.ref }}
     strategy:
       fail-fast: false
       matrix:
         spot: ${{  fromJson(needs.get-spots.outputs.spots)  }}
+      max-parallel: 1
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
