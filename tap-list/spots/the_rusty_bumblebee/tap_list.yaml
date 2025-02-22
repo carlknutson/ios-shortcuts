@@ -113,12 +113,6 @@ taps:
     description: >
       'Mango, passion fruit, and dragon fruit combine in this unique fruited sour beer.'
     type: "Sour - Fruited"
-  - name: "Drippin'"
-    abv: "6% ABV"
-    brewery: "Drastic Measures Brewing"
-    description: >
-      'Blue raspberry,  tangerine,  and marshmallow fluff.'
-    type: "Sour - Fruited"
   - name: "Ectogasm"
     abv: "7% ABV"
     brewery: "Drekker Brewing Company"
@@ -179,12 +173,12 @@ taps:
     description: >
       'Life moves pretty fast. If you don't stop and look around every once in a while, you could miss it. This is a humble homage to the one of the greatest cinematic accomplishments of the past century. Strata, Mosaic Cryo & El Dorado in Ferrari decommissioning proportions. Take the day off, you deserve it.'
     type: "IPA - Imperial"
-  - name: "Limonada Rosada (Limonada Series)"
-    abv: "6% ABV"
-    brewery: "Tripping Animals Brewing Co."
+  - name: "Mango Blonde"
+    abv: "4.8% ABV"
+    brewery: "Lift Bridge Brewing Company"
     description: >
-      'Limonada Rosada is a Sour ale inspired by Pink Lemonade. Extremely refreshing, conditioned with Raspberry, Strawberry, and Lime.'
-    type: "Sour - Fruited Berliner Weisse"
+      'The aroma of a tropical breeze from a fresh mango grove leads into a light bodied blonde ale, finishing with a subtle mango sweetness that does not overpower the golden malt.'
+    type: "Blonde"
   - name: "Mangos On Monroe"
     abv: "5.5% ABV"
     brewery: "Humble Forager Brewery"
@@ -196,12 +190,6 @@ taps:
     brewery: "Indeed Brewing Company"
     description: >
       'Meet Mexican Honey Light, a lighter kind of buzz. This bright and clean cerveza is brewed with orange blossom honey straight from orange groves south of the border, Amarillo hops and a twist of citrus. Our new, more sessionable spin on Mexican Honey is refreshingly crushable and brewed to take it easy, anytime, anywhere.'
-    type: "Lager - American Light"
-  - name: "Michelob Golden Light"
-    abv: "4.1% ABV"
-    brewery: "Anheuser-Busch"
-    description: >
-      'Michelob Golden Light is a premium cold-filtered light lager beer that is brewed using a blend of two-row and six-row barley malt, premium American hops and rice to create its smooth, refreshing taste. It also undergoes a longer brewing process to produce a lighter taste, and fewer calories.'
     type: "Lager - American Light"
   - name: "Orange Moss"
     abv: "7.5% ABV"
@@ -233,12 +221,6 @@ taps:
     description: >
       'A milkshake-style IPA packed with a treasure trove of berrylicious Mosaic hops, jammy raspberry purée, sweet vanilla, and creamy milk sugar.'
     type: "IPA - Milkshake"
-  - name: "Razz Micro"
-    abv: "4.2% ABV"
-    brewery: "Third Street Brewhouse (Minnesota)"
-    description: >
-      'American Lager with a hint of raspberry. This beer is considered a Mirco Raspberry american lager.'
-    type: "Lager - American"
   - name: "Run Wild IPA"
     abv: "0.5% ABV"
     brewery: "Athletic Brewing Company"
