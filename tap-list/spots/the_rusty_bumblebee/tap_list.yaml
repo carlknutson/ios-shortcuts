@@ -131,12 +131,6 @@ taps:
     description: >
       'A light American Lager brewed with Rahr Premium Pilsner and hopped with Hallertau Mittelfruh. This beer is a clean crisp lager perfect for drinking all day. Lightly malty with a subtle but pleasant hop aroma.'
     type: "Lager - American Light"
-  - name: "Fire, Skulls and Money"
-    abv: "7.8% ABV"
-    brewery: "Toppling Goliath Brewing Co."
-    description: >
-      'A rich and hazy DIPA featuring Citra, Mosaic, Galaxy and Nelson hops.'
-    type: "IPA - Imperial"
   - name: "Florida Seltzer Pineapple Mango"
     abv: "5% ABV"
     brewery: "Untitled Art"
@@ -215,6 +209,12 @@ taps:
     description: >
       'Like liberating a pistachio nut from its shell, our pistachio cream ale is supremely satisfying.  Spritzy and crisp, smooth and slightly nutty, this beer is a delightful mixed bag.  Pry one loose and pop the top.'
     type: "Cream Ale"
+  - name: "Rain Drops"
+    abv: "7.5% ABV"
+    brewery: "Barrel Theory Beer Company"
+    description: >
+      'Northeast Style IPA, dry hopped with Citra & Mosaic'
+    type: "IPA - New England"
   - name: "Raspberry Marbles"
     abv: "6.5% ABV"
     brewery: "More Brewing Company"
@@ -257,6 +257,12 @@ taps:
     description: >
       'We traditionally brew Vietnamese coffee, known as cà phê sữa đá, with a phin-style filter that gently percolates water through ground coffee. The result is a chocolaty and bold tasting coffee that perfectly complements the notes of oak, vanilla, and bourbon in this massive barrel-aged stout.'
     type: "Stout - Imperial"
+  - name: "Straight Outta Middletown"
+    abv: "10% ABV"
+    brewery: "Equilibrium Brewery"
+    description: >
+      'Straight out of Middletown is dHop2's big brother. dHop2 is a DIPA that investigates the interplay between our ale strain and an intensive Mosaic and Citra forward hop bill woven four times into its creative process. It pours a very murky tangerine color, releasing notes of orange juice (with pulp) and earthy grass. The taste is highly resinous, dank-citrus, pine juice, with a chewy mouth feel and a firm and pointed bitterness.'
+    type: "IPA - Triple"
   - name: "Super Mega Lager"
     abv: "4.5% ABV"
     brewery: "Drekker Brewing Company"
