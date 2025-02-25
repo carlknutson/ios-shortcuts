@@ -101,6 +101,12 @@ taps:
     description: >
       'Coors Light is Coors Brewing Company's largest-selling brand and the fourth best-selling beer in the U.S. Introduced in 1978, Coors Light has been a favorite in delivering the ultimate in cold refreshment for more than 25 years. The simple, silver-toned can caught people's attention and the brew became nicknamed the \Silver Bullet\" as sales climbed."'
     type: "Lager - American Light"
+  - name: "Corona Extra"
+    abv: "4.6% ABV"
+    brewery: "Grupo Modelo"
+    description: >
+      'Corona Extra Mexican Beer is a crisp, clean and well balanced cerveza with fruity-honey aromas and a touch of malt, making it a great tailgating beer, beach drink or barbecue refreshment.'
+    type: "Lager - Mexican"
   - name: "Cottage Mead"
     abv: "8% ABV"
     brewery: "J. Bird Wines, Inc."
