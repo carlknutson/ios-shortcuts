@@ -48,12 +48,6 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.13'
-      - name: Turnstyle
-        id: turnstyle
-        with:
-          job-to-wait-for: "update-taps"
-          step-to-wait-for: "Save current taps"
-        uses: softprops/turnstyle@v2
       - name: Save current taps
         id: save-current-taps
         run: |
@@ -62,6 +56,12 @@ jobs:
           pip install pytz
           cd ./tap-list
           echo "taps="$(python main.py get_taps ${{  matrix.spot  }})"" >> "$GITHUB_OUTPUT"
+      - name: Turnstyle
+        id: turnstyle
+        with:
+          job-to-wait-for: "update-taps"
+          step-to-wait-for: "Refresh taps"
+        uses: softprops/turnstyle@v2
       - name: Refresh taps
         id: refresh-taps
         run: |
