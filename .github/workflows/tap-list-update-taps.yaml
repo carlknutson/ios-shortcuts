@@ -43,17 +43,17 @@ jobs:
       matrix:
         spot: ${{  fromJson(needs.get-spots.outputs.spots)  }}
     steps:
-      - name: Turnstyle
-        id: turnstyle
-        with:
-          job-to-wait-for: "update-taps"
-          step-to-wait-for: "Refresh taps"
-        uses: softprops/turnstyle@v2
       - name: Checkout repository
         uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: '3.13'
+      - name: Turnstyle
+        id: turnstyle
+        with:
+          job-to-wait-for: "update-taps"
+          step-to-wait-for: "Save current taps"
+        uses: softprops/turnstyle@v2
       - name: Save current taps
         id: save-current-taps
         run: |
