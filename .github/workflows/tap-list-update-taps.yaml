@@ -42,8 +42,10 @@ jobs:
       fail-fast: false
       matrix:
         spot: ${{  fromJson(needs.get-spots.outputs.spots)  }}
-      max-parallel: 1
     steps:
+      - name: Turnstyle
+        id: turnstyle
+        uses: softprops/turnstyle@v2
       - name: Checkout repository
         uses: actions/checkout@v4
       - uses: actions/setup-python@v5
