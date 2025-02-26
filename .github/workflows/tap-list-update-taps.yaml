@@ -45,6 +45,9 @@ jobs:
     steps:
       - name: Turnstyle
         id: turnstyle
+        with:
+          job-to-wait-for: "update-taps"
+          step-to-wait-for: "Refresh taps"
         uses: softprops/turnstyle@v2
       - name: Checkout repository
         uses: actions/checkout@v4
