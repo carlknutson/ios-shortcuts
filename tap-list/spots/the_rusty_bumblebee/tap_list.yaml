@@ -89,12 +89,6 @@ taps:
     description: >
       'N/A'
     type: "IPA - Imperial"
-  - name: "Coffeecake"
-    abv: "4.8% ABV"
-    brewery: "Portage Brewing Company"
-    description: >
-      'Get your day started off right with our most popular breakfast beer. Made with our house Guatemalan coffee bean, ceylon cinnamon, and vanilla bean.'
-    type: "Blonde"
   - name: "Coors Light"
     abv: "4.2% ABV"
     brewery: "Coors Brewing Company"
@@ -113,6 +107,12 @@ taps:
     description: >
       'This is the mead we have been producing for twenty-five years, using northern grown honey. After aging for four years and naturally cleared, pours a light pale golden color, lightly floral with lots of honey in the aroma.'
     type: "Mead - Traditional"
+  - name: "Double Stuffed Sandwich Cookie Imperial Stout"
+    abv: "10% ABV"
+    brewery: "Lupulin Brewing Company"
+    description: >
+      'This 10% ABV Imperial Pastry Stout is a true mouthful of indulgence, tantalizing the palate with the rich flavors of everyone’s favorite double-stuffed sandwich cookies. Immerse yourself in the luxurious complexity of this stout, a sensory delight that promises to elevate your beer-drinking experience to unparalleled heights.'
+    type: "Stout - Imperial"
   - name: "Dragon Fandango"
     abv: "4.2% ABV"
     brewery: "Toppling Goliath Brewing Co."
@@ -161,6 +161,12 @@ taps:
     description: >
       'N/A'
     type: "Root Beer"
+  - name: "Honees Honees - Peanut Butter & Honey Golden Ale"
+    abv: "5.6% ABV"
+    brewery: "Oliphant Brewing"
+    description: >
+      'Peanut Butter & Honey Golden Ale -- contains Lactose'
+    type: "Blonde"
   - name: "If It Wasn't for the Wind"
     abv: "7% ABV"
     brewery: "Drekker Brewing Company"
