@@ -179,6 +179,12 @@ taps:
     description: >
       'Our pals from Barrel Theory Beer Company braved the elements and joined us in conjuring up a pretty cool IPA that’s so heckin’ tasty you’re gonna shiver in your snowboots, but in a good way. This hop combo of Citra, Citra Cryo and Bru-1 boasts big, intense flavors of overripe pineapple, lime candy, juicy guava and sweet mango and it juuust might blow you away. Ya know, it really wouldn’t be so bad out there if it wasn’t for the wind.'
     type: "IPA - New England"
+  - name: "King Sue"
+    abv: "7.8% ABV"
+    brewery: "Toppling Goliath Brewing Co."
+    description: >
+      'Full-bodied, hazy double IPA Citra-hopped for a juicy combination of mango, orange, and pineapple flavors. Finishes with a grapefruit aroma and ferocious bite.'
+    type: "IPA - Imperial"
   - name: "LEOPARD PRINT"
     abv: "8.4% ABV"
     brewery: "BlackStack Brewing"
@@ -233,12 +239,6 @@ taps:
     description: >
       'Northeast Style IPA, dry hopped with Citra & Mosaic'
     type: "IPA - New England"
-  - name: "Raspberry Marbles"
-    abv: "6.5% ABV"
-    brewery: "More Brewing Company"
-    description: >
-      'A milkshake-style IPA packed with a treasure trove of berrylicious Mosaic hops, jammy raspberry purée, sweet vanilla, and creamy milk sugar.'
-    type: "IPA - Milkshake"
   - name: "Run Wild IPA"
     abv: "0.5% ABV"
     brewery: "Athletic Brewing Company"
