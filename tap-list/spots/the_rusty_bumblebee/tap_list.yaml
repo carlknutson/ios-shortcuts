@@ -11,6 +11,12 @@ taps:
     description: >
       'A massive dose of Citra hops launch our legendary double IPA (Minnesota’s first, and a nod to our abrasives factory origin) into the hophead stratosphere.'
     type: "IPA - Imperial"
+  - name: "Apple Shine - Apple Pie"
+    abv: "6% ABV"
+    brewery: "Invictus Brewing"
+    description: >
+      'N/A'
+    type: "Cider - Herbed"
   - name: "Black Gold"
     abv: "5.5% ABV"
     brewery: "Bauhaus Brew Labs"
