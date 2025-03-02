@@ -203,12 +203,6 @@ taps:
     description: >
       'Collaboration w/ Garth’s Brew Bar we created this juicy, drippy, luxurious mangos blend with spiced floral stone fruit tones from the Ecuadorian vanilla beans accented by toasted marshmallow tones from the Meadowfoam honey.'
     type: "Hard Seltzer"
-  - name: "Mexican Honey Light"
-    abv: "5.2% ABV"
-    brewery: "Indeed Brewing Company"
-    description: >
-      'Meet Mexican Honey Light, a lighter kind of buzz. This bright and clean cerveza is brewed with orange blossom honey straight from orange groves south of the border, Amarillo hops and a twist of citrus. Our new, more sessionable spin on Mexican Honey is refreshingly crushable and brewed to take it easy, anytime, anywhere.'
-    type: "Lager - American Light"
   - name: "Orange Moss"
     abv: "7.5% ABV"
     brewery: "Hop Butcher For The World"
@@ -245,6 +239,12 @@ taps:
     description: >
       'The ultimate session-able IPA. Brewed with a blend of Northwest hops with Citra and Mosaic at the forefront. Body of premium organic malts from US & Germany. Subtle yet complex malt profile.'
     type: "Non-Alcoholic - IPA"
+  - name: "Sangria"
+    abv: "4.7% ABV"
+    brewery: "Schell’s Brewery"
+    description: >
+      'Schell’s Sangria is refreshingly sweet and full of juicy citrus flavor. These tropical vibes will transport you to a new relaxation destination. So grab your can, find the nearest hammock, and enter Vacation Mode.'
+    type: "Lager - American Amber"
   - name: "Skölsch!"
     abv: "4.9% ABV"
     brewery: "Utepils Brewing Co."
@@ -281,6 +281,12 @@ taps:
     description: >
       'Straight out of Middletown is dHop2's big brother. dHop2 is a DIPA that investigates the interplay between our ale strain and an intensive Mosaic and Citra forward hop bill woven four times into its creative process. It pours a very murky tangerine color, releasing notes of orange juice (with pulp) and earthy grass. The taste is highly resinous, dank-citrus, pine juice, with a chewy mouth feel and a firm and pointed bitterness.'
     type: "IPA - Triple"
+  - name: "Strawberry Pickle Beer"
+    abv: "4% ABV"
+    brewery: "Oliphant Brewing"
+    description: >
+      'Brined Lager juiced with strawberry!'
+    type: "Lager - Other"
   - name: "Super Mega Lager"
     abv: "4.5% ABV"
     brewery: "Drekker Brewing Company"
@@ -317,12 +323,6 @@ taps:
     description: >
       'This beer has gone many monikers since being one of the 4 beers on tap when we opened. Brewed with a touch of Coriander & Orange Peel. This time around fermented in a French Oak Foeder.'
     type: "Wheat Beer - Witbier"
-  - name: "Watermelon Pickle Beer"
-    abv: "4% ABV"
-    brewery: "Oliphant Brewing"
-    description: >
-      'Brined Lager with Watermelon'
-    type: "Lager - American Light"
   - name: "What Lies Beneath"
     abv: "11.6% ABV"
     brewery: "Drekker Brewing Company"
