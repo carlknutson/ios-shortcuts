@@ -1,7 +1,4 @@
 taps:
-  - name: "Apple Shine - Apple Pie"
-    abv: "6%"
-    type: "Cider - Herbed / Spiced / Hopped"
   - name: "Apple Shine - Green Apple"
     abv: "6%"
     type: "Cider - Dry"
