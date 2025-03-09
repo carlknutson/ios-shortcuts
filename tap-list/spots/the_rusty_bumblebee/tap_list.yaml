@@ -53,12 +53,6 @@ taps:
     description: >
       'Our rich imperial stout is blended from a mix of bourbon barrels from distilleries such as Heaven Hill, Wild Turkey, and Buffalo Trace, each aged in freshly emptied bourbon barrels for 8-14 months. Expect flavors of chocolate and vanilla, oak, whiskey, and molasses, followed by caramel, berry fruit, and almond.'
     type: "Stout - Imperial"
-  - name: "Braaaaaaaains - Dark Urple"
-    abv: "6.6% ABV"
-    brewery: "Drekker Brewing Company"
-    description: >
-      'This double fruit smoothie sour is paaaacked with, you guessed it, blackberry, more blackberry, black currant, more black currant, some plum, and then maybe some more plum, and THEN we hit it with our double secret smoothie treatment of sea salt, lactose, and vanilla beans. YUM.*CONTAINS LACTOSE'
-    type: "Sour - Smoothie"
   - name: "Brewer's Reserve Cassian Sunset (2024)"
     abv: "11.7% ABV"
     brewery: "Central Waters Brewing Company"
@@ -70,12 +64,6 @@ taps:
     brewery: "Drekker Brewing Company"
     description: >
       'Oh lawd, he back! Our favorite hefty boi returns with our latest ridiculous creation - Banana Split Chonk Sundae Sour! This one combines an ungodly amount of bananas with strawberries and chocolate for a thick and absurd challenge to everything you ever dreamed beer could be.⠀*CONTAINS LACTOSE'
-    type: "Sour - Smoothie"
-  - name: "CHONK: Spumoni"
-    abv: "6.3% ABV"
-    brewery: "Drekker Brewing Company"
-    description: >
-      'Our loveable hefty boi is back and he’s been raiding the freezer to get his smol little paws into the fancy ice cream! Chonk Spumoni Sundae Sour is absolutely stuffed with cherry, pistachios, & chocolate ice cream for that decadently delicious, tri-colored flavor. Queue the heavy breathing.⠀'
     type: "Sour - Smoothie"
   - name: "CPB"
     abv: "5.2% ABV"
@@ -95,6 +83,12 @@ taps:
     description: >
       'N/A'
     type: "IPA - Imperial"
+  - name: "Clover Shake Cream Ale"
+    abv: "5.5% ABV"
+    brewery: "Indeed Brewing Company"
+    description: >
+      'Green Cream Ale with peppermint and vanilla.'
+    type: "Cream Ale"
   - name: "Coors Light"
     abv: "4.2% ABV"
     brewery: "Coors Brewing Company"
@@ -173,12 +167,6 @@ taps:
     description: >
       'Peanut Butter & Honey Golden Ale -- contains Lactose'
     type: "Blonde"
-  - name: "If It Wasn't for the Wind"
-    abv: "7% ABV"
-    brewery: "Drekker Brewing Company"
-    description: >
-      'Our pals from Barrel Theory Beer Company braved the elements and joined us in conjuring up a pretty cool IPA that’s so heckin’ tasty you’re gonna shiver in your snowboots, but in a good way. This hop combo of Citra, Citra Cryo and Bru-1 boasts big, intense flavors of overripe pineapple, lime candy, juicy guava and sweet mango and it juuust might blow you away. Ya know, it really wouldn’t be so bad out there if it wasn’t for the wind.'
-    type: "IPA - New England"
   - name: "King Sue"
     abv: "7.8% ABV"
     brewery: "Toppling Goliath Brewing Co."
@@ -215,12 +203,6 @@ taps:
     description: >
       'A beast of a beer. It starts with a nice, balanced pilsner based wort that’s kettle soured to give it some mean tart character.  Later, monstrous amounts of blueberry puree are added giving it a natural blueberry flavor its ridiculous purple color. We added just enough thai basil to give it a sneaky herbal balance.'
     type: "Sour - Fruited"
-  - name: "Pink Pony Pils"
-    abv: "4.5% ABV"
-    brewery: "HeadFlyer Brewing"
-    description: >
-      'N/A'
-    type: "Pilsner - German"
   - name: "Pistachio Cream Ale"
     abv: "5.5% ABV"
     brewery: "Indeed Brewing Company"
