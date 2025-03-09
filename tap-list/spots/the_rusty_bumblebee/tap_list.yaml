@@ -95,12 +95,6 @@ taps:
     description: >
       'Coors Light is Coors Brewing Company's largest-selling brand and the fourth best-selling beer in the U.S. Introduced in 1978, Coors Light has been a favorite in delivering the ultimate in cold refreshment for more than 25 years. The simple, silver-toned can caught people's attention and the brew became nicknamed the \Silver Bullet\" as sales climbed."'
     type: "Lager - American Light"
-  - name: "Corona Extra"
-    abv: "4.6% ABV"
-    brewery: "Grupo Modelo"
-    description: >
-      'Corona Extra Mexican Beer is a crisp, clean and well balanced cerveza with fruity-honey aromas and a touch of malt, making it a great tailgating beer, beach drink or barbecue refreshment.'
-    type: "Lager - Mexican"
   - name: "Cottage Mead"
     abv: "8% ABV"
     brewery: "J. Bird Wines, Inc."
@@ -221,6 +215,12 @@ taps:
     description: >
       'The ultimate session-able IPA. Brewed with a blend of Northwest hops with Citra and Mosaic at the forefront. Body of premium organic malts from US & Germany. Subtle yet complex malt profile.'
     type: "Non-Alcoholic - IPA"
+  - name: "Ryeway To Heaven"
+    abv: "15% ABV"
+    brewery: "Revolution Brewing"
+    description: >
+      'Bourbon and rye barrels work together in harmony to breathe life into our Ryewine. This unforgettable ale is brewed with over 60% rye, yielding entirely unique malt- and barrel-derived complexities. Enjoy an ample body that suggests sweetness but still finishes smooth and dry.'
+    type: "Rye Wine"
   - name: "Sangria"
     abv: "4.7% ABV"
     brewery: "Schell’s Brewery"
@@ -275,12 +275,12 @@ taps:
     description: >
       'It's Super! It's Mega! It's a new lager! Super Mega Lager is a super classy, mega crispy lager that's all kinds of light and crushable and we can't wait to raise a bunch of glasses of this with all of you wonderful weirdos!'
     type: "Lager - American Light"
-  - name: "The Nightman Cometh"
-    abv: "9.5% ABV"
-    brewery: "Drekker Brewing Company"
+  - name: "Surly Lemonade"
+    abv: "5.5% ABV"
+    brewery: "Surly Brewing Company"
     description: >
-      'Coming in at 9.5% ABV, this Russian Imperial Stout is intense and complex while staying amazingly smooth and approachable. Begins with the aromas of molasses and raisins and evolving flavors of toffee, chocolate and prune.  Finishing slightly dry and acidic, with hints of star anise and the lingering notes of dark roasted malts.'
-    type: "Stout - Russian Imperial"
+      'Slightly tart with balanced sweetness, Surly Lemonade squeezes fresh flavor into every single drop. Bright, crisp, and lemony, this incredibly drinkable ale quenches and refreshes.'
+    type: "Fruit Beer"
   - name: "The Sideshow"
     abv: "5.2% ABV"
     brewery: "Trove Brewing Company"
