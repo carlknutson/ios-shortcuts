@@ -77,6 +77,12 @@ taps:
     description: >
       'Green Cream Ale with peppermint and vanilla.'
     type: "Cream Ale"
+  - name: "Coffee Abraxas (2018)"
+    abv: "11.5% ABV"
+    brewery: "Perennial Artisan Ales"
+    description: >
+      'Imperial Stout brewed with Ancho Chiles, Cacao Nibs, and Cinnamon Sticks with Sump Colombia Cauca coffee beans.'
+    type: "Stout - Imperial"
   - name: "Coors Light"
     abv: "4.2% ABV"
     brewery: "Coors Brewing Company"
@@ -221,12 +227,12 @@ taps:
     description: >
       '2019 MN Craft Brewers Guild Winner Brewers Cup Fly to new flavor heights with a sip of this subtle hop and malt blend. This straw-colored brew gets its brilliant hues from barley grown near the city Köln, Germany.AKA Copacetic Kolsch Style'
     type: "Kölsch"
-  - name: "So Help Me PRRRT"
-    abv: "6.6% ABV"
+  - name: "Slang Du Jour - Raspberry Cinnamon Toast Crunch"
+    abv: "6.4% ABV"
     brewery: "Drekker Brewing Company"
     description: >
-      'If this ain’t one of the PRRRTiest PRRRTs we’ve ever PRRRTed, we don’t know what is. This new slushy style sour is PACKED with guava, pineapple, and tangerine for a big ol’ healthy fruit serving and we promise we’re telling you the truth, the whole truth, and nothing but the truth so help us PRRRT.*GLUTEN-FRIENDLY: made without gluten but made in a facility that contains gluten.'
-    type: "Sour - Other"
+      'This new Slang is such a bangin’ breakfast bevvy you might accidentally pour it into a bowl and try to eat it with a spoon. Raspberry Cinnamon Toast Crunch is fully loaded with raspberry, strawberry, plum, lactose and... is... is that Cinnamon Toast Crunch cereal!? You bet it is.*CONTAINS LACTOSE'
+    type: "Sour - Smoothie"
   - name: "Somos Extremos"
     abv: "6.5% ABV"
     brewery: "Oliphant Brewing"
