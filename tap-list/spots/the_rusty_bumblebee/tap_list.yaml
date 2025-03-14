@@ -155,6 +155,12 @@ taps:
     description: >
       'Peanut Butter & Honey Golden Ale -- contains Lactose'
     type: "Blonde"
+  - name: "KPIs"
+    abv: "8.3% ABV"
+    brewery: "BlackStack Brewing"
+    description: >
+      'Well, Well, Well, If it isn’t everyone’s favorite way to judge their self worth… Brewed with our Buds at Yakima Chief Hops & NZ Hops with some lots of Experimental HBC 602 from Yakima in Washington & Nectaron from New Zealand that are really checking all the boxes. Yeah, it looks, tastes & smells amazing… But what do the numbers say?'
+    type: "IPA - Imperial"
   - name: "King Sue"
     abv: "7.8% ABV"
     brewery: "Toppling Goliath Brewing Co."
@@ -179,12 +185,6 @@ taps:
     description: >
       'Collaboration w/ Garth’s Brew Bar we created this juicy, drippy, luxurious mangos blend with spiced floral stone fruit tones from the Ecuadorian vanilla beans accented by toasted marshmallow tones from the Meadowfoam honey.'
     type: "Hard Seltzer"
-  - name: "Orange Moss"
-    abv: "7.5% ABV"
-    brewery: "Hop Butcher For The World"
-    description: >
-      'Citra, Simcoe & Tangier-hopped Double India Pale Ale'
-    type: "IPA - Imperial"
   - name: "People Eater"
     abv: "5.5% ABV"
     brewery: "Drekker Brewing Company"
@@ -233,12 +233,6 @@ taps:
     description: >
       'This new Slang is such a bangin’ breakfast bevvy you might accidentally pour it into a bowl and try to eat it with a spoon. Raspberry Cinnamon Toast Crunch is fully loaded with raspberry, strawberry, plum, lactose and... is... is that Cinnamon Toast Crunch cereal!? You bet it is.*CONTAINS LACTOSE'
     type: "Sour - Smoothie"
-  - name: "Somos Extremos"
-    abv: "6.5% ABV"
-    brewery: "Oliphant Brewing"
-    description: >
-      'Golden ale with single origin coffee, steeped after fermentation.'
-    type: "Blonde"
   - name: "Sosus"
     abv: "8.2% ABV"
     brewery: "Toppling Goliath Brewing Co."
@@ -287,18 +281,18 @@ taps:
     description: >
       'Sour ale with Skittles'
     type: "Sour - Other"
+  - name: "Tomm's"
+    abv: "4.8% ABV"
+    brewery: "Falling Knife Brewing Company"
+    description: >
+      'Our take on a Classic American Lager, the kind of beer you pound while building a brewery'
+    type: "Lager - American"
   - name: "Uncut Jams: Strawberry Rhubarb"
     abv: "5% ABV"
     brewery: "BlackStack Brewing"
     description: >
       'Finding a muse in Strawberry & Rhubarb with this jewel of a just tart enough base. This one’s tasty… you can bet on it.'
     type: "Sour - Fruited"
-  - name: "WORKING TITLE"
-    abv: "5.1% ABV"
-    brewery: "BlackStack Brewing"
-    description: >
-      'This beer has gone many monikers since being one of the 4 beers on tap when we opened. Brewed with a touch of Coriander & Orange Peel. This time around fermented in a French Oak Foeder.'
-    type: "Wheat Beer - Witbier"
   - name: "What Lies Beneath"
     abv: "11.6% ABV"
     brewery: "Drekker Brewing Company"
