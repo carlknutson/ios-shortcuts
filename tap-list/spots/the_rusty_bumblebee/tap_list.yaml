@@ -95,30 +95,24 @@ taps:
     description: >
       'This is the mead we have been producing for twenty-five years, using northern grown honey. After aging for four years and naturally cleared, pours a light pale golden color, lightly floral with lots of honey in the aroma.'
     type: "Mead - Traditional"
+  - name: "DDH 755 : CASHMERE"
+    abv: "6.8% ABV"
+    brewery: "BlackStack Brewing"
+    description: >
+      'Our forever favorite fog dog gets an extra layer of dry hop dopeness in the form of our supremely juicy lot of Cashmere. Even more lupulin laden love on top of our hand-selected Azacca, Amarillo & Citra. Saturated salutations from our house to yours.'
+    type: "IPA - New England"
   - name: "Double Stuffed Sandwich Cookie Imperial Stout"
     abv: "10% ABV"
     brewery: "Lupulin Brewing Company"
     description: >
       'This 10% ABV Imperial Pastry Stout is a true mouthful of indulgence, tantalizing the palate with the rich flavors of everyone’s favorite double-stuffed sandwich cookies. Immerse yourself in the luxurious complexity of this stout, a sensory delight that promises to elevate your beer-drinking experience to unparalleled heights.'
     type: "Stout - Imperial"
-  - name: "Dragon Fandango"
-    abv: "4.2% ABV"
-    brewery: "Toppling Goliath Brewing Co."
-    description: >
-      'Mango, passion fruit, and dragon fruit combine in this unique fruited sour beer.'
-    type: "Sour - Fruited"
   - name: "Drunken Lullaby"
     abv: "7.5% ABV"
     brewery: "Mikerphone Brewing"
     description: >
       'Irish Milkshake IPA w/ Vanilla, Lactose and Tugboat Coffee'
     type: "IPA - Milkshake"
-  - name: "Eight Billion Genies"
-    abv: "8% ABV"
-    brewery: "Half Acre Beer Company"
-    description: >
-      'Double India pale ale Hops : strata / mosaic / citra'
-    type: "IPA - Imperial"
   - name: "Elm Creek Light"
     abv: "4.2% ABV"
     brewery: "Elm Creek Brewing Co."
@@ -221,6 +215,12 @@ taps:
     description: >
       'Bourbon and rye barrels work together in harmony to breathe life into our Ryewine. This unforgettable ale is brewed with over 60% rye, yielding entirely unique malt- and barrel-derived complexities. Enjoy an ample body that suggests sweetness but still finishes smooth and dry.'
     type: "Rye Wine"
+  - name: "SLUSHY XL: Flamingo Fangs"
+    abv: "4.5% ABV"
+    brewery: "450 North Brewing Company"
+    description: >
+      'Flamingo Fangs XL is a collab with A La Carte & Invasive Species Brewing and is conditioned on Raspberry, Almonds & Vanilla. This slushy is Gluten Free'
+    type: "Sour - Smoothie"
   - name: "Sangria"
     abv: "4.7% ABV"
     brewery: "Schell’s Brewery"
@@ -275,6 +275,12 @@ taps:
     description: >
       'Slightly tart with balanced sweetness, Surly Lemonade squeezes fresh flavor into every single drop. Bright, crisp, and lemony, this incredibly drinkable ale quenches and refreshes.'
     type: "Fruit Beer"
+  - name: "Swirlee - Mango Creamsicle"
+    abv: "6.6% ABV"
+    brewery: "Drekker Brewing Company"
+    description: >
+      'Swirlee is a creamsicle sour series that is far beyond your wildest, swirliest dreams, but don’t you worry, we went out and scooped it all up for you. This first one we’re launching is a tasty pairing of a whole buncha mango and vanilla ice cream, and if you drink too many, your noggin might turn into an ice cream cone so enjoy responsibly!'
+    type: "Sour - Fruited"
   - name: "The Sideshow"
     abv: "5.2% ABV"
     brewery: "Trove Brewing Company"
@@ -293,12 +299,6 @@ taps:
     description: >
       'Our take on a Classic American Lager, the kind of beer you pound while building a brewery'
     type: "Lager - American"
-  - name: "Uncut Jams: Strawberry Rhubarb"
-    abv: "5% ABV"
-    brewery: "BlackStack Brewing"
-    description: >
-      'Finding a muse in Strawberry & Rhubarb with this jewel of a just tart enough base. This one’s tasty… you can bet on it.'
-    type: "Sour - Fruited"
   - name: "What Lies Beneath"
     abv: "11.6% ABV"
     brewery: "Drekker Brewing Company"
