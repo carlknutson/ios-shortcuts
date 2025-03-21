@@ -23,12 +23,6 @@ taps:
     description: >
       'Black Gold is a new collaboration between Bauhaus Brew Labs and Pizza Luce that aims to solve this age-old problem by creating an entirely new beer style — the Black Cream Ale. By combining the crisp, easy-drinking body of a classic Cream Ale recipe with the jet-black color and subtle roastiness of a Stout or Porter, we’ve uncovered the ultimate beverage for having your pie and eating it too. Available now through the end of the year exclusively at every Pizza Luce location!'
     type: "Cream Ale"
-  - name: "Blackberry Tart"
-    abv: "8.5% ABV"
-    brewery: "J. Bird Wines, Inc."
-    description: >
-      'Made from succulent, slightly unripe Blackberries that give this mead a tart forward flavor while keeping a hint a sweetness. Gluten Free'
-    type: "Mead - Other"
   - name: "Bloody Braaaaaaaains"
     abv: "6.2% ABV"
     brewery: "Drekker Brewing Company"
@@ -113,6 +107,12 @@ taps:
     description: >
       'Irish Milkshake IPA w/ Vanilla, Lactose and Tugboat Coffee'
     type: "IPA - Milkshake"
+  - name: "Egypt' N Mead"
+    abv: "8% ABV"
+    brewery: "J. Bird Wines, Inc."
+    description: >
+      'This Mead is based on a popular hibiscus, honey and lemon tea that is widely enjoyed in middle eastern countries, It pours a clear beautiful red with decent ‘legs’ on the sides of the glass, lightly tangy and mildly floral in aroma with a light fresh honey scent.'
+    type: "Mead - Other"
   - name: "Elm Creek Light"
     abv: "4.2% ABV"
     brewery: "Elm Creek Brewing Co."
