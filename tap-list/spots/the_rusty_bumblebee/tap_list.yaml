@@ -83,12 +83,6 @@ taps:
     description: >
       'Coors Light is Coors Brewing Company's largest-selling brand and the fourth best-selling beer in the U.S. Introduced in 1978, Coors Light has been a favorite in delivering the ultimate in cold refreshment for more than 25 years. The simple, silver-toned can caught people's attention and the brew became nicknamed the \Silver Bullet\" as sales climbed."'
     type: "Lager - American Light"
-  - name: "Cottage Mead"
-    abv: "8% ABV"
-    brewery: "J. Bird Wines, Inc."
-    description: >
-      'This is the mead we have been producing for twenty-five years, using northern grown honey. After aging for four years and naturally cleared, pours a light pale golden color, lightly floral with lots of honey in the aroma.'
-    type: "Mead - Traditional"
   - name: "DDH 755 : CASHMERE"
     abv: "6.8% ABV"
     brewery: "BlackStack Brewing"
@@ -131,6 +125,12 @@ taps:
     description: >
       'Prickly pear and guava hard seltzer.'
     type: "Hard Seltzer"
+  - name: "Forest Fruit Mead"
+    abv: "8% ABV"
+    brewery: "J. Bird Wines, Inc."
+    description: >
+      'Forest Fruit is a blend of forest raspberries, bilberries, and chokeberries. This fruit wine has a wonderful aroma of fruit and a nice sweet flavor.'
+    type: "Mead - Melomel"
   - name: "Freedom Lemonade"
     abv: "4.5% ABV"
     brewery: "Revolution Brewing"
