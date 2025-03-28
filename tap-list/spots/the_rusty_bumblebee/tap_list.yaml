@@ -77,6 +77,12 @@ taps:
     description: >
       'Imperial Stout brewed with Ancho Chiles, Cacao Nibs, and Cinnamon Sticks with Sump Colombia Cauca coffee beans.'
     type: "Stout - Imperial"
+  - name: "Cookie Monstrosity"
+    abv: "11% ABV"
+    brewery: "Lupulin Brewing Company"
+    description: >
+      'Brace yourself for indulgence with Cookie Monstrosity, an imperial stout that delivers a rich and decadent liquid pastry experience. Brimming with coconut, salted caramel, cacao nibs, graham cracker, honey, and vanilla, each sip offers a symphony of cookie flavors, that will have you yelling, "Me want more!"'
+    type: "Stout - Imperial"
   - name: "Coors Light"
     abv: "4.2% ABV"
     brewery: "Coors Brewing Company"
@@ -299,12 +305,6 @@ taps:
     description: >
       'Our take on a Classic American Lager, the kind of beer you pound while building a brewery'
     type: "Lager - American"
-  - name: "What Lies Beneath"
-    abv: "11.6% ABV"
-    brewery: "Drekker Brewing Company"
-    description: >
-      'What Lies Beneath is a rich and smooth Imperial Stout that's been conditioned on cacao nibs, 20 Below Coffee, and vanilla beans.'
-    type: "Stout - Imperial"
   - name: "Winter Berry"
     abv: "5.6% ABV"
     brewery: "Wild State Cider"
