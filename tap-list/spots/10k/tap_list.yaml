@@ -1,7 +1,4 @@
 taps:
-  - name: "-BE BACK SOON/OUT-Northwoods Blonde"
-    abv: "5.6%"
-    type: "Blonde Ale"
   - name: "Anoka Hitchhiker"
     abv: "6.7%"
     type: "Amber West Coast IPA"
@@ -35,6 +32,9 @@ taps:
   - name: "Loonar Uprising"
     abv: "5.8%"
     type: "Vanilla Milk Stout"
+  - name: "Northwoods Blonde"
+    abv: "5.6%"
+    type: "Blonde Ale"
   - name: "Oak Stout"
     abv: "7.7%"
     type: "Oak Stout"
