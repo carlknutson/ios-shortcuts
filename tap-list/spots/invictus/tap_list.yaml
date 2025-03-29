@@ -1,4 +1,7 @@
 taps:
+  - name: "Apple Shine - Green Apple"
+    abv: "6%"
+    type: "Cider - Dry"
   - name: "Apple Shine"
     abv: "6%"
     type: "Cider - Sweet"
