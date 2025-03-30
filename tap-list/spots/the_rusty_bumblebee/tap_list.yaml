@@ -35,6 +35,12 @@ taps:
     description: >
       'Brewed in honor of the 1000th batch at our original Clybourn brewpub. A liquid as dark and dense as a black hole with thick foam the color of a bourbon barrel. The nose is an intense mix of charred oak, chocolate, vanilla, caramel and smoke. One sip has more flavor than your average case of beer.'
     type: "Stout - Imperial"
+  - name: "Brewer's Reserve Bourbon Barrel Stout (2024)"
+    abv: "10.5% ABV"
+    brewery: "Central Waters Brewing Company"
+    description: >
+      'N/A'
+    type: "Stout - Imperial"
   - name: "Brewer's Reserve Cassian Sunset (2024)"
     abv: "11.7% ABV"
     brewery: "Central Waters Brewing Company"
@@ -95,12 +101,6 @@ taps:
     description: >
       'Our forever favorite fog dog gets an extra layer of dry hop dopeness in the form of our supremely juicy lot of Cashmere. Even more lupulin laden love on top of our hand-selected Azacca, Amarillo & Citra. Saturated salutations from our house to yours.'
     type: "IPA - New England"
-  - name: "Double Stuffed Sandwich Cookie Imperial Stout"
-    abv: "10% ABV"
-    brewery: "Lupulin Brewing Company"
-    description: >
-      'This 10% ABV Imperial Pastry Stout is a true mouthful of indulgence, tantalizing the palate with the rich flavors of everyone’s favorite double-stuffed sandwich cookies. Immerse yourself in the luxurious complexity of this stout, a sensory delight that promises to elevate your beer-drinking experience to unparalleled heights.'
-    type: "Stout - Imperial"
   - name: "Drunken Lullaby"
     abv: "7.5% ABV"
     brewery: "Mikerphone Brewing"
