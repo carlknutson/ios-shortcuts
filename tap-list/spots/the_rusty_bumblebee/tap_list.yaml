@@ -245,12 +245,6 @@ taps:
     description: >
       'Crafted in humble tribute to the mosaic artist Sosus of Pergamon. We've showcased the Mosaic hop so you can experience the flavors of pineapple and tropical fruit for which the Mosaic hop is known.'
     type: "IPA - Imperial"
-  - name: "Speedway Stout (Vietnamese Coffee Barrel Aged)"
-    abv: "14.2% ABV"
-    brewery: "AleSmith Brewing Company"
-    description: >
-      'We traditionally brew Vietnamese coffee, known as cà phê sữa đá, with a phin-style filter that gently percolates water through ground coffee. The result is a chocolaty and bold tasting coffee that perfectly complements the notes of oak, vanilla, and bourbon in this massive barrel-aged stout.'
-    type: "Stout - Imperial"
   - name: "Straight Outta Middletown"
     abv: "10% ABV"
     brewery: "Equilibrium Brewery"
@@ -299,6 +293,12 @@ taps:
     description: >
       'Our take on a Classic American Lager, the kind of beer you pound while building a brewery'
     type: "Lager - American"
+  - name: "White Russian"
+    abv: "6.5% ABV"
+    brewery: "903 Brewers"
+    description: >
+      'Abide with this decadent golden milk stout inspired by the Classic White Russian cocktail. This creamy concoction rolls in with rich waves of milk chocolate, silky milk sugar sweetness, and a bold kick of coffee. Despite its golden hue, it's as full-bodied as the Dude's favorite drink, with a smooth, velvety finish.Just like the Dude, this brew abides-and we're sure you will, too.'
+    type: "Stout - White"
   - name: "Winter Berry"
     abv: "5.6% ABV"
     brewery: "Wild State Cider"
