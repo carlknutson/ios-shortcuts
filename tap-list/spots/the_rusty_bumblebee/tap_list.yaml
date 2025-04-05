@@ -65,12 +65,6 @@ taps:
     description: >
       'Layers of decadent chocolate and peanut butter built into a rich oatmeal porter make this beer impossible to have just one.  We're not sorry.'
     type: "Porter - American"
-  - name: "Cali Squeeze Blood Orange Hefeweizen"
-    abv: "5% ABV"
-    brewery: "Firestone Walker Brewing Company"
-    description: >
-      'Brewed with real blood orange for maximum refreshment. A crisp beer with juicy orange flavors and fresh citrus flavors, that always go down easy.'
-    type: "Wheat Beer - Hefeweizen"
   - name: "Cloud Dweller"
     abv: "8.5% ABV"
     brewery: "Elm Creek Brewing Co."
@@ -125,6 +119,12 @@ taps:
     description: >
       'Forest Fruit is a blend of forest raspberries, bilberries, and chokeberries. This fruit wine has a wonderful aroma of fruit and a nice sweet flavor.'
     type: "Mead - Melomel"
+  - name: "Fractured Prism"
+    abv: "8.5% ABV"
+    brewery: "Elm Creek Brewing Co."
+    description: >
+      'N/A'
+    type: "IPA - Imperial"
   - name: "Freedom Lemonade"
     abv: "4.5% ABV"
     brewery: "Revolution Brewing"
@@ -149,6 +149,12 @@ taps:
     description: >
       'N/A'
     type: "Stout - Milk"
+  - name: "It Was All A Dream"
+    abv: "7.2% ABV"
+    brewery: "HeadFlyer Brewing"
+    description: >
+      'This IPA is from northeast, inspired by the popular style from the northeast. Thick and hazy looking with a hefty load of Citra and El Dorado hops providing a juicy aroma and taste.'
+    type: "IPA - New England"
   - name: "Jefferson Street DIPA"
     abv: "8% ABV"
     brewery: "Drastic Measures Brewing"
@@ -185,6 +191,12 @@ taps:
     description: >
       'Collaboration w/ Garth’s Brew Bar we created this juicy, drippy, luxurious mangos blend with spiced floral stone fruit tones from the Ecuadorian vanilla beans accented by toasted marshmallow tones from the Meadowfoam honey.'
     type: "Hard Seltzer"
+  - name: "PRRRTs These Days"
+    abv: "6.8% ABV"
+    brewery: "Drekker Brewing Company"
+    description: >
+      'A sour brewed with more Sour Patch Kids® than we'd ever seen before. We've also added lemon, lime, orange, raspberry, pink guava, and sea salt for a flavor that'll take you way, way back to that time a few days ago when you ate a huge pile of Sour Patch Kids®.... or was that just us?⁣'
+    type: "Sour - Smoothie"
   - name: "People Eater"
     abv: "5.5% ABV"
     brewery: "Drekker Brewing Company"
@@ -227,18 +239,6 @@ taps:
     description: >
       'Schell’s Sangria is refreshingly sweet and full of juicy citrus flavor. These tropical vibes will transport you to a new relaxation destination. So grab your can, find the nearest hammock, and enter Vacation Mode.'
     type: "Lager - American Amber"
-  - name: "Skölsch!"
-    abv: "4.9% ABV"
-    brewery: "Utepils Brewing Co."
-    description: >
-      '2019 MN Craft Brewers Guild Winner Brewers Cup Fly to new flavor heights with a sip of this subtle hop and malt blend. This straw-colored brew gets its brilliant hues from barley grown near the city Köln, Germany.AKA Copacetic Kolsch Style'
-    type: "Kölsch"
-  - name: "Slang Du Jour - Raspberry Cinnamon Toast Crunch"
-    abv: "6.4% ABV"
-    brewery: "Drekker Brewing Company"
-    description: >
-      'This new Slang is such a bangin’ breakfast bevvy you might accidentally pour it into a bowl and try to eat it with a spoon. Raspberry Cinnamon Toast Crunch is fully loaded with raspberry, strawberry, plum, lactose and... is... is that Cinnamon Toast Crunch cereal!? You bet it is.*CONTAINS LACTOSE'
-    type: "Sour - Smoothie"
   - name: "Sosus"
     abv: "8.2% ABV"
     brewery: "Toppling Goliath Brewing Co."
