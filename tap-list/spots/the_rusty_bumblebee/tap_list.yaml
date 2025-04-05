@@ -59,6 +59,12 @@ taps:
     description: >
       'Oh lawd, he back! Our favorite hefty boi returns with our latest ridiculous creation - Banana Split Chonk Sundae Sour! This one combines an ungodly amount of bananas with strawberries and chocolate for a thick and absurd challenge to everything you ever dreamed beer could be.⠀*CONTAINS LACTOSE'
     type: "Sour - Smoothie"
+  - name: "CHONK: Dark Cherry"
+    abv: "6.6% ABV"
+    brewery: "Drekker Brewing Company"
+    description: >
+      'OH LAWD HE BACK AGAIN! Our lovable absolute unit returns with our latest exploration into complete absurdity. This chonky boi is diggin’ deep within the darkest corners of the freezer, scoopin’ up gobs of dark cherry and decadent dark chocolate. Cue the intensified heavy breathing.*CONTAINS LACTOSE'
+    type: "Sour - Smoothie"
   - name: "CPB"
     abv: "5.2% ABV"
     brewery: "Lupulin Brewing Company"
