@@ -1,6 +1,6 @@
 ## HDHomeRun DVR Tookit
 
-#### Download [link](https://www.icloud.com/shortcuts/7a132920a7924d438499c018188617d0)
+#### Download [link](https://www.icloud.com/shortcuts/db6a1801e56e4c4bba40a3821a3b8247)
 
 The HDHomeRun DVR Toolkit is an iOS shortcut designed to simplify and enhance the management of your HDHomeRun DVR. While the native HDHomeRun DVR is stable and reliable, it lacks features that make maintaining recordings easier. This toolkit bridges those gaps with:
 - **Series Recording Tracking**: By leveraging the TVmaze API, the shortcut can estimate how many episodes of a season you’ve already recorded. While not perfect, it works effectively in most cases.
