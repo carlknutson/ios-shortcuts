@@ -40,19 +40,28 @@ def delete_recording(title):
     print(f'Deleted {deleted_count} recording(s) of {title}.')
 
 def get_recording_counts(title):
-    all_recorded_file_info = requests.get(f'http://{url}/recorded_files.json').json()
+    recordings = requests.get(f'http://{url}/recorded_files.json').json()
+    gb = None
+
+    for series in recordings:
+
+        if series["Title"] == title:
+            amount = 0
+
+            for episode in requests.get(series["EpisodesURL"]).json():
+                amount += int(requests.head(episode["PlayURL"], allow_redirects=True).headers['Content-Length'])
+
+            gb = f'{amount / 1_000_000_000:.2f}'
+            break
 
     recorded = {}
-    output_text = []
+    output_text = [f"{title} - {gb}GB"] if gb else ["f{title}"]
+    output_text.append('-----------------------')
 
-    for recording in all_recorded_file_info:
+    for recording in recordings:
         if recording['Title'] == title:
             if recording['Category'] != 'series':
-                print(f'{title} is not categorized as a series, no recording counts to display.')
-                return
-            
-            output_text.append(f'{title} recordings')
-            output_text.append('-----------------------')
+                break
                 
             episodes = requests.get(recording['EpisodesURL']).json()
         
@@ -69,13 +78,12 @@ def get_recording_counts(title):
                     pass # ignore for now - numerous reasons why EpisodeNumber does not exist
     
 
+    episodes = []
     try:
         id = requests.get(f'https://api.tvmaze.com/singlesearch/shows?q={title}').json()['id']
+        episodes = requests.get(f'https://api.tvmaze.com/shows/{id}/episodes').json()
     except:
-        print(f'Unable to retrieve series details for {title}.')
-        return
-    
-    episodes = requests.get(f'https://api.tvmaze.com/shows/{id}/episodes').json()
+        output_text.append(f'- unable to retrieve series details')    
 
     actual = {}
 
@@ -99,11 +107,10 @@ def get_recording_counts(title):
         
         output_text.append(f'S{season_number}: {recorded_episodes}/{actual[season_number]}')
     
-    if not total_recorded_episodes:
-        print(f'Unable to retrieve series details for {title}.')
-    else:
+    if total_recorded_episodes:
         output_text.append(f'{round(total_recorded_episodes / total_aired_episodes * 100, 2)}% recorded')
-        print('\n'.join(output_text))
+    
+    print('\n'.join(output_text))
     
 
 def get_storage_details():
