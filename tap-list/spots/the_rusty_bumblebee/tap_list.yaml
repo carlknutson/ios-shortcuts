@@ -71,6 +71,12 @@ taps:
     description: >
       'Layers of decadent chocolate and peanut butter built into a rich oatmeal porter make this beer impossible to have just one.  We're not sorry.'
     type: "Porter - American"
+  - name: "Caramel Cookie Bar"
+    abv: "10% ABV"
+    brewery: "Southern Tier Brewing Company"
+    description: >
+      'Satisfy your sweet tooth! Milk chocolate and gooey caramel wrap around sweet cookie for a smooth taste of your favorite candy bar. Take a break from ordinary and taste something so crave-worthy, one is never enough!'
+    type: "Stout - Imperial"
   - name: "Cloud Dweller"
     abv: "8.5% ABV"
     brewery: "Elm Creek Brewing Co."
@@ -149,12 +155,6 @@ taps:
     description: >
       'Peanut Butter & Honey Golden Ale -- contains Lactose'
     type: "Blonde"
-  - name: "Irish Cream Cow Cow Chocolate Milk Stout"
-    abv: "6.1% ABV"
-    brewery: "The Brewing Projekt"
-    description: >
-      'N/A'
-    type: "Stout - Milk"
   - name: "It Was All A Dream"
     abv: "7.2% ABV"
     brewery: "HeadFlyer Brewing"
