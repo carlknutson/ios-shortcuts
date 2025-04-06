@@ -1,7 +1,4 @@
 taps:
-  - name: "Apple Shine - Green Apple"
-    abv: "6%"
-    type: "Cider - Dry"
   - name: "Apple Shine"
     abv: "6%"
     type: "Cider - Sweet"
@@ -47,9 +44,6 @@ taps:
   - name: "Sturdy Girl Apple Cinnamon"
     abv: "0.5%"
     type: "Hard Kombucha / Jun"
-  - name: "Vaughn's Fastball"
-    abv: "4.7%"
-    type: "Blonde / Golden Ale - Other"
   - name: "Wrath & Tears Strawberry Lychee Smoothie Sour"
     abv: "5.5%"
     type: "Sour - Smoothie / Pastry"
