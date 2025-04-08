@@ -35,11 +35,11 @@ taps:
     description: >
       'N/A'
     type: "Hard Seltzer"
-  - name: "Bourbon County Brand Stout (2018) 14.7%"
-    abv: "14.7% ABV"
+  - name: "Bourbon County Brand Stout (2020) 14.6%"
+    abv: "14.6% ABV"
     brewery: "Goose Island Beer Co."
     description: >
-      'Brewed in honor of the 1000th batch at our original Clybourn brewpub. A liquid as dark and dense as a black hole with thick foam the color of a bourbon barrel. The nose is an intense mix of charred oak, chocolate, vanilla, caramel and smoke. One sip has more flavor than your average case of beer.'
+      'The Original Bourbon Barrel aged Imperial Stout. Our primary focus every year is to make this beer the best that it’s ever been, with the best ingredients, which includes the finest of bourbon whiskey barrels. This year’s Bourbon County Stout is aged in a mix of bourbon barrels from a variety of whiskey distilleries. Barrel-aged for a year to develop the complexity that only time can provide, Bourbon County Stout boasts a unique blend of flavors such as fudge, vanilla and caramel — topped off with a rich, complex mouthfeel.'
     type: "Stout - Imperial"
   - name: "Brewer's Reserve Bourbon Barrel Stout (2024)"
     abv: "10.5% ABV"
