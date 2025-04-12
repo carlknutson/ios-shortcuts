@@ -197,24 +197,30 @@ taps:
     description: >
       'Collaboration w/ Garth’s Brew Bar we created this juicy, drippy, luxurious mangos blend with spiced floral stone fruit tones from the Ecuadorian vanilla beans accented by toasted marshmallow tones from the Meadowfoam honey.'
     type: "Hard Seltzer"
+  - name: "Nano Pomegranate Blueberry Shandy"
+    abv: "5% ABV"
+    brewery: "Mankato Brewery"
+    description: >
+      'Sweet, tart shandy perfect for a sunny day!'
+    type: "Shandy"
   - name: "PRRRTs These Days"
     abv: "6.8% ABV"
     brewery: "Drekker Brewing Company"
     description: >
       'A sour brewed with more Sour Patch Kids® than we'd ever seen before. We've also added lemon, lime, orange, raspberry, pink guava, and sea salt for a flavor that'll take you way, way back to that time a few days ago when you ate a huge pile of Sour Patch Kids®.... or was that just us?⁣'
     type: "Sour - Smoothie"
+  - name: "Peach Berliner Weisse"
+    abv: "4.2% ABV"
+    brewery: "Perennial Artisan Ales"
+    description: >
+      'Peach Berliner Weisse is a German-style tart wheat beer that’s perfect for the hot summer months. Using only the best Missouri peaches, weturned an easily overdone style into a refreshing and light bodied summer beer.'
+    type: "Sour - Fruited Berliner Weisse"
   - name: "People Eater"
     abv: "5.5% ABV"
     brewery: "Drekker Brewing Company"
     description: >
       'A beast of a beer. It starts with a nice, balanced pilsner based wort that’s kettle soured to give it some mean tart character.  Later, monstrous amounts of blueberry puree are added giving it a natural blueberry flavor its ridiculous purple color. We added just enough thai basil to give it a sneaky herbal balance.'
     type: "Sour - Fruited"
-  - name: "Pistachio Cream Ale"
-    abv: "5.5% ABV"
-    brewery: "Indeed Brewing Company"
-    description: >
-      'Like liberating a pistachio nut from its shell, our pistachio cream ale is supremely satisfying.  Spritzy and crisp, smooth and slightly nutty, this beer is a delightful mixed bag.  Pry one loose and pop the top.'
-    type: "Cream Ale"
   - name: "Rain Drops"
     abv: "7.5% ABV"
     brewery: "Barrel Theory Beer Company"
@@ -281,12 +287,6 @@ taps:
     description: >
       'Swirlee is a creamsicle sour series that is far beyond your wildest, swirliest dreams, but don’t you worry, we went out and scooped it all up for you. This first one we’re launching is a tasty pairing of a whole buncha mango and vanilla ice cream, and if you drink too many, your noggin might turn into an ice cream cone so enjoy responsibly!'
     type: "Sour - Fruited"
-  - name: "The Sideshow"
-    abv: "5.2% ABV"
-    brewery: "Trove Brewing Company"
-    description: >
-      'Color - bold.Malt aroma & flavor - low with a soft sweetness.Hop aroma & flavor - noble hop character.Perceived bitterness - medium to high.Body - dry & crisp.'
-    type: "Kölsch"
   - name: "Tiny Esses"
     abv: "5.9% ABV"
     brewery: "Prairie Artisan Ales"
