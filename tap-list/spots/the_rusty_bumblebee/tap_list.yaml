@@ -257,18 +257,18 @@ taps:
     description: >
       'Crafted in humble tribute to the mosaic artist Sosus of Pergamon. We've showcased the Mosaic hop so you can experience the flavors of pineapple and tropical fruit for which the Mosaic hop is known.'
     type: "IPA - Imperial"
-  - name: "Straight Outta Middletown"
-    abv: "10% ABV"
-    brewery: "Equilibrium Brewery"
-    description: >
-      'Straight out of Middletown is dHop2's big brother. dHop2 is a DIPA that investigates the interplay between our ale strain and an intensive Mosaic and Citra forward hop bill woven four times into its creative process. It pours a very murky tangerine color, releasing notes of orange juice (with pulp) and earthy grass. The taste is highly resinous, dank-citrus, pine juice, with a chewy mouth feel and a firm and pointed bitterness.'
-    type: "IPA - Triple"
   - name: "Strawberry Pickle Beer"
     abv: "4% ABV"
     brewery: "Oliphant Brewing"
     description: >
       'Brined Lager juiced with strawberry!'
     type: "Lager - Other"
+  - name: "Stupid Good"
+    abv: "6.6% ABV"
+    brewery: "Drastic Measures Brewing"
+    description: >
+      'American and Australian hops.'
+    type: "IPA - New England"
   - name: "Super Mega Lager"
     abv: "4.5% ABV"
     brewery: "Drekker Brewing Company"
