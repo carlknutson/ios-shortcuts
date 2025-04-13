@@ -185,12 +185,6 @@ taps:
     description: >
       'Life moves pretty fast. If you don't stop and look around every once in a while, you could miss it. This is a humble homage to the one of the greatest cinematic accomplishments of the past century. Strata, Mosaic Cryo & El Dorado in Ferrari decommissioning proportions. Take the day off, you deserve it.'
     type: "IPA - Imperial"
-  - name: "Mango Blonde"
-    abv: "4.8% ABV"
-    brewery: "Lift Bridge Brewing Company"
-    description: >
-      'The aroma of a tropical breeze from a fresh mango grove leads into a light bodied blonde ale, finishing with a subtle mango sweetness that does not overpower the golden malt.'
-    type: "Blonde"
   - name: "Mangos On Monroe"
     abv: "5.5% ABV"
     brewery: "Humble Forager Brewery"
@@ -203,6 +197,12 @@ taps:
     description: >
       'Sweet, tart shandy perfect for a sunny day!'
     type: "Shandy"
+  - name: "Orange Ave. Wit"
+    abv: "5.2% ABV"
+    brewery: "Coronado Brewing Company"
+    description: >
+      'A coastal classic since '96, Orange Ave. Wit is a refreshing, light-bodied wheat beer bolstered by orange zest, coriander, and orange blossom honey. This award-winner is loaded with sunny citrus and a slight hint of sweet honey on the finish. While trendy styles come and go, this California original stays true to its Coronado Island roots.'
+    type: "Wheat Beer - Witbier"
   - name: "PRRRTs These Days"
     abv: "6.8% ABV"
     brewery: "Drekker Brewing Company"
