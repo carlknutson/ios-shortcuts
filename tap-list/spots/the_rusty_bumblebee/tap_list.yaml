@@ -53,12 +53,6 @@ taps:
     description: >
       'A bourbon barrel aged imperial stout with local @emyjscoffeehouse Emy J's coffee, whole vanilla beans, and cinnamon. The flavor profile of this wonderful beer boasts a lush mouthfeel, with just the right amount of creamy spice character to meld with the rich malt and barrel-aged profile.'
     type: "Stout - Imperial"
-  - name: "CHONK: Banana Split"
-    abv: "6.6% ABV"
-    brewery: "Drekker Brewing Company"
-    description: >
-      'Oh lawd, he back! Our favorite hefty boi returns with our latest ridiculous creation - Banana Split Chonk Sundae Sour! This one combines an ungodly amount of bananas with strawberries and chocolate for a thick and absurd challenge to everything you ever dreamed beer could be.⠀*CONTAINS LACTOSE'
-    type: "Sour - Smoothie"
   - name: "CHONK: Dark Cherry"
     abv: "6.6% ABV"
     brewery: "Drekker Brewing Company"
@@ -119,12 +113,6 @@ taps:
     description: >
       'This Mead is based on a popular hibiscus, honey and lemon tea that is widely enjoyed in middle eastern countries, It pours a clear beautiful red with decent ‘legs’ on the sides of the glass, lightly tangy and mildly floral in aroma with a light fresh honey scent.'
     type: "Mead - Other"
-  - name: "Elm Creek Light"
-    abv: "4.2% ABV"
-    brewery: "Elm Creek Brewing Co."
-    description: >
-      'A light American Lager brewed with Rahr Premium Pilsner and hopped with Hallertau Mittelfruh. This beer is a clean crisp lager perfect for drinking all day. Lightly malty with a subtle but pleasant hop aroma.'
-    type: "Lager - American Light"
   - name: "Forest Fruit Mead"
     abv: "8% ABV"
     brewery: "J. Bird Wines, Inc."
@@ -191,6 +179,12 @@ taps:
     description: >
       'Collaboration w/ Garth’s Brew Bar we created this juicy, drippy, luxurious mangos blend with spiced floral stone fruit tones from the Ecuadorian vanilla beans accented by toasted marshmallow tones from the Meadowfoam honey.'
     type: "Hard Seltzer"
+  - name: "Mister Surly's Orange Whip"
+    abv: "5.5% ABV"
+    brewery: "Surly Brewing Company"
+    description: >
+      'Mister Surly's Orange Whip Cream Ale is coming to your neighborhood. A dreamy concoction of vanilla, blood orange, hops, and malt, Mister Surly's Orange Whip is sweet, citrusy, and balanced. Treat yourself.'
+    type: "Cream Ale"
   - name: "Nano Pomegranate Blueberry Shandy"
     abv: "5% ABV"
     brewery: "Mankato Brewery"
@@ -215,12 +209,6 @@ taps:
     description: >
       'Peach Berliner Weisse is a German-style tart wheat beer that’s perfect for the hot summer months. Using only the best Missouri peaches, weturned an easily overdone style into a refreshing and light bodied summer beer.'
     type: "Sour - Fruited Berliner Weisse"
-  - name: "People Eater"
-    abv: "5.5% ABV"
-    brewery: "Drekker Brewing Company"
-    description: >
-      'A beast of a beer. It starts with a nice, balanced pilsner based wort that’s kettle soured to give it some mean tart character.  Later, monstrous amounts of blueberry puree are added giving it a natural blueberry flavor its ridiculous purple color. We added just enough thai basil to give it a sneaky herbal balance.'
-    type: "Sour - Fruited"
   - name: "Rain Drops"
     abv: "7.5% ABV"
     brewery: "Barrel Theory Beer Company"
@@ -251,6 +239,12 @@ taps:
     description: >
       'Schell’s Sangria is refreshingly sweet and full of juicy citrus flavor. These tropical vibes will transport you to a new relaxation destination. So grab your can, find the nearest hammock, and enter Vacation Mode.'
     type: "Lager - American Amber"
+  - name: "Slang Du Jour - Key Lime Pie"
+    abv: "6.9% ABV"
+    brewery: "Drekker Brewing Company"
+    description: >
+      'Slang Du Jour Key Lime Pie was brewed with tons of lime, graham crackers, cinnamon, nutmeg, lactose, vanilla, and brown sugar to taste just like pie in a glass.'
+    type: "Sour - Smoothie"
   - name: "Sosus"
     abv: "8.2% ABV"
     brewery: "Toppling Goliath Brewing Co."
@@ -287,6 +281,12 @@ taps:
     description: >
       'Swirlee is a creamsicle sour series that is far beyond your wildest, swirliest dreams, but don’t you worry, we went out and scooped it all up for you. This first one we’re launching is a tasty pairing of a whole buncha mango and vanilla ice cream, and if you drink too many, your noggin might turn into an ice cream cone so enjoy responsibly!'
     type: "Sour - Fruited"
+  - name: "The Breakfast Gang"
+    abv: "6% ABV"
+    brewery: "Drekker Brewing Company"
+    description: >
+      'Time to tee up the ultimate morning transfusion! We teamed up with our pals at Waggle to craft the perfect pre-round pick-me-up, loaded with concord grape, lime, cara cara orange and ginger ale. One sip, and you’ll be dialed in, ready to bomb drives, sink putts and maybe even talk yourself into buying new clubs.'
+    type: "Sour - Other"
   - name: "Tiny Esses"
     abv: "5.9% ABV"
     brewery: "Prairie Artisan Ales"
