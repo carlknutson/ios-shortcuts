@@ -167,12 +167,6 @@ taps:
     description: >
       'Full-bodied, hazy double IPA Citra-hopped for a juicy combination of mango, orange, and pineapple flavors. Finishes with a grapefruit aroma and ferocious bite.'
     type: "IPA - Imperial"
-  - name: "LEOPARD PRINT"
-    abv: "8.4% ABV"
-    brewery: "BlackStack Brewing"
-    description: >
-      'Life moves pretty fast. If you don't stop and look around every once in a while, you could miss it. This is a humble homage to the one of the greatest cinematic accomplishments of the past century. Strata, Mosaic Cryo & El Dorado in Ferrari decommissioning proportions. Take the day off, you deserve it.'
-    type: "IPA - Imperial"
   - name: "Mangos On Monroe"
     abv: "5.5% ABV"
     brewery: "Humble Forager Brewery"
@@ -281,6 +275,12 @@ taps:
     description: >
       'Swirlee is a creamsicle sour series that is far beyond your wildest, swirliest dreams, but don’t you worry, we went out and scooped it all up for you. This first one we’re launching is a tasty pairing of a whole buncha mango and vanilla ice cream, and if you drink too many, your noggin might turn into an ice cream cone so enjoy responsibly!'
     type: "Sour - Fruited"
+  - name: "Tampa Native"
+    abv: "8% ABV"
+    brewery: "Angry Chair Brewing"
+    description: >
+      'DDH IPA w/ Citra & Citra Incognito'
+    type: "IPA - Imperial"
   - name: "The Breakfast Gang"
     abv: "6% ABV"
     brewery: "Drekker Brewing Company"
