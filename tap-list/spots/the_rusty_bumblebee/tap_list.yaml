@@ -29,9 +29,9 @@ taps:
     description: >
       'This Double Fruit Smoothie Sour is dripping with Blood (oranges), Strawberry, and Pineapple, then of course we slashed it with our double secret smoothie treatment of sea salt, lactose, and vanilla. It’s horrifically tasty and we’re sure you’re gonna love it as much as we do!*CONTAINS LACTOSE'
     type: "Sour - Smoothie"
-  - name: "Bomb: Creamsicle"
-    abv: "6% ABV"
-    brewery: "The Brewing Projekt"
+  - name: "Blueberry Lemon"
+    abv: "5% ABV"
+    brewery: "Elm Creek Brewing Co."
     description: >
       'N/A'
     type: "Hard Seltzer"
@@ -77,12 +77,6 @@ taps:
     description: >
       'N/A'
     type: "IPA - Imperial"
-  - name: "Clover Shake Cream Ale"
-    abv: "5.5% ABV"
-    brewery: "Indeed Brewing Company"
-    description: >
-      'Green Cream Ale with peppermint and vanilla.'
-    type: "Cream Ale"
   - name: "Coffee Abraxas (2018)"
     abv: "11.5% ABV"
     brewery: "Perennial Artisan Ales"
@@ -137,12 +131,6 @@ taps:
     description: >
       'N/A'
     type: "Root Beer"
-  - name: "Honees Honees - Peanut Butter & Honey Golden Ale"
-    abv: "5.6% ABV"
-    brewery: "Oliphant Brewing"
-    description: >
-      'Peanut Butter & Honey Golden Ale -- contains Lactose'
-    type: "Blonde"
   - name: "Ice Ice PRRRTY - Cherry Guava Coconut"
     abv: "6.6% ABV"
     brewery: "Drekker Brewing Company"
@@ -173,12 +161,6 @@ taps:
     description: >
       'Full-bodied, hazy double IPA Citra-hopped for a juicy combination of mango, orange, and pineapple flavors. Finishes with a grapefruit aroma and ferocious bite.'
     type: "IPA - Imperial"
-  - name: "Mangos On Monroe"
-    abv: "5.5% ABV"
-    brewery: "Humble Forager Brewery"
-    description: >
-      'Collaboration w/ Garth’s Brew Bar we created this juicy, drippy, luxurious mangos blend with spiced floral stone fruit tones from the Ecuadorian vanilla beans accented by toasted marshmallow tones from the Meadowfoam honey.'
-    type: "Hard Seltzer"
   - name: "Mister Surly's Orange Whip"
     abv: "5.5% ABV"
     brewery: "Surly Brewing Company"
