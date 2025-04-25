@@ -233,6 +233,12 @@ taps:
     description: >
       'Flamingo Fangs XL is a collab with A La Carte & Invasive Species Brewing and is conditioned on Raspberry, Almonds & Vanilla. This slushy is Gluten Free'
     type: "Sour - Smoothie"
+  - name: "Salted Nut Roll"
+    abv: "5.2% ABV"
+    brewery: "Invictus Brewing"
+    description: >
+      'We partnered with Pearson’s Candy Company in St. Paul to create a clean and crisp Golden Ale loaded with 200 pounds of Salted Nut Rolls. The Flavors of roasted peanuts, golden caramel and fluffy nougat with a hint of salt. Perfectly paired with a Salted Nut Roll. This brew has the qualities of the quintessential St Paul candy we know and love.'
+    type: "Golden Ale - Other"
   - name: "Sangria"
     abv: "4.7% ABV"
     brewery: "Schell’s Brewery"
@@ -263,12 +269,6 @@ taps:
     description: >
       'American and Australian hops.'
     type: "IPA - New England"
-  - name: "Super Mega Lager"
-    abv: "4.5% ABV"
-    brewery: "Drekker Brewing Company"
-    description: >
-      'It's Super! It's Mega! It's a new lager! Super Mega Lager is a super classy, mega crispy lager that's all kinds of light and crushable and we can't wait to raise a bunch of glasses of this with all of you wonderful weirdos!'
-    type: "Lager - American Light"
   - name: "Surly Lemonade"
     abv: "5.5% ABV"
     brewery: "Surly Brewing Company"
