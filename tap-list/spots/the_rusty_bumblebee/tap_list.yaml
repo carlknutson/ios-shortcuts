@@ -107,6 +107,12 @@ taps:
     description: >
       'This Mead is based on a popular hibiscus, honey and lemon tea that is widely enjoyed in middle eastern countries, It pours a clear beautiful red with decent ‘legs’ on the sides of the glass, lightly tangy and mildly floral in aroma with a light fresh honey scent.'
     type: "Mead - Other"
+  - name: "Ewald the Golden"
+    abv: "5.2% ABV"
+    brewery: "Utepils Brewing Co."
+    description: >
+      '2019 Best of Show - MN Craft Brewers Guild Brewers Cup AwardsA heavenly Hefeweizen created by our head brewer. With a hazy golden hue and aromas of banana and clove, this Bavarian style brew pairs pale wheat with malted barley and finishes with a bubbly foam halo.'
+    type: "Wheat Beer - Hefeweizen"
   - name: "Forest Fruit Mead"
     abv: "8% ABV"
     brewery: "J. Bird Wines, Inc."
@@ -245,6 +251,12 @@ taps:
     description: >
       'Brined Lager juiced with strawberry!'
     type: "Lager - Other"
+  - name: "Strawberry-infused Shortpants"
+    abv: "N/A"
+    brewery: "Bauhaus Brew Labs"
+    description: >
+      'N/A'
+    type: "Shandy"
   - name: "Stupid Good"
     abv: "6.6% ABV"
     brewery: "Drastic Measures Brewing"
