@@ -17,12 +17,24 @@ taps:
     description: >
       'N/A'
     type: "Cider - Herbed"
+  - name: "Black Currant Mead"
+    abv: "8.5% ABV"
+    brewery: "J. Bird Wines, Inc."
+    description: >
+      'Black Currants are a deep dark berry with a rich flavor and a slight tangy almost tart finish. Gluten Free.'
+    type: "Mead - Melomel"
   - name: "Black Gold"
     abv: "5.5% ABV"
     brewery: "Bauhaus Brew Labs"
     description: >
       'Black Gold is a new collaboration between Bauhaus Brew Labs and Pizza Luce that aims to solve this age-old problem by creating an entirely new beer style — the Black Cream Ale. By combining the crisp, easy-drinking body of a classic Cream Ale recipe with the jet-black color and subtle roastiness of a Stout or Porter, we’ve uncovered the ultimate beverage for having your pie and eating it too. Available now through the end of the year exclusively at every Pizza Luce location!'
     type: "Cream Ale"
+  - name: "Blood Orange Mead"
+    abv: "8% ABV"
+    brewery: "J. Bird Wines, Inc."
+    description: >
+      'Mead made with Blood Oranges'
+    type: "Mead - Traditional"
   - name: "Bloody Braaaaaaaains"
     abv: "6.2% ABV"
     brewery: "Drekker Brewing Company"
