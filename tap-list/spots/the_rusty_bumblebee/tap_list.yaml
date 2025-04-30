@@ -17,6 +17,12 @@ taps:
     description: >
       'N/A'
     type: "Cider - Herbed"
+  - name: "Barrel Aged Snowball (2024)"
+    abv: "12.5% ABV"
+    brewery: "Angry Chair Brewing"
+    description: >
+      'Experience rich, decadent waves of toasted coconut, marshmallow, Madagascar vanilla beans and Ecuadorian cacao nibs envelope your palate leaving you longing for another sip.Rested in Heaven Hill and Buffalo Trace bourbon barrels for 24 months, BA Snowball has the perfect balance of aggressive barrel character and serendipitously sweet adjuncts. Inspired by the tasty treat from the hostess with the mostest. 12.5% ABV.'
+    type: "Stout - Imperial"
   - name: "Black Currant Mead"
     abv: "8.5% ABV"
     brewery: "J. Bird Wines, Inc."
@@ -35,12 +41,6 @@ taps:
     description: >
       'Mead made with Blood Oranges'
     type: "Mead - Traditional"
-  - name: "Bloody Braaaaaaaains"
-    abv: "6.2% ABV"
-    brewery: "Drekker Brewing Company"
-    description: >
-      'This Double Fruit Smoothie Sour is dripping with Blood (oranges), Strawberry, and Pineapple, then of course we slashed it with our double secret smoothie treatment of sea salt, lactose, and vanilla. It’s horrifically tasty and we’re sure you’re gonna love it as much as we do!*CONTAINS LACTOSE'
-    type: "Sour - Smoothie"
   - name: "Blueberry Lemon"
     abv: "5% ABV"
     brewery: "Elm Creek Brewing Co."
@@ -125,6 +125,12 @@ taps:
     description: >
       'N/A'
     type: "Root Beer"
+  - name: "Hydra | Luck"
+    abv: "7% ABV"
+    brewery: "Mortalis Brewing Company"
+    description: >
+      'This Fruited Smoothie Sour blends Apricot, Pineapple, and Valencia Orange with Pistachio ice cream to form just one of this monster’s many heads. Keep your eyes peeled for even more flavor combinations. Lucky like a three-headed Hydra!'
+    type: "Sour - Smoothie"
   - name: "Ice Ice PRRRTY - Cherry Guava Coconut"
     abv: "6.6% ABV"
     brewery: "Drekker Brewing Company"
@@ -275,6 +281,12 @@ taps:
     description: >
       'Time to tee up the ultimate morning transfusion! We teamed up with our pals at Waggle to craft the perfect pre-round pick-me-up, loaded with concord grape, lime, cara cara orange and ginger ale. One sip, and you’ll be dialed in, ready to bomb drives, sink putts and maybe even talk yourself into buying new clubs.'
     type: "Sour - Other"
+  - name: "The Rake"
+    abv: "8% ABV"
+    brewery: "Angry Chair Brewing"
+    description: >
+      'Double Dry Hopped Double IPA with Mosaic and Citra.'
+    type: "IPA - Imperial"
   - name: "Tiny Esses"
     abv: "5.9% ABV"
     brewery: "Prairie Artisan Ales"
@@ -287,12 +299,6 @@ taps:
     description: >
       'Our take on a Classic American Lager, the kind of beer you pound while building a brewery'
     type: "Lager - American"
-  - name: "White Russian"
-    abv: "6.5% ABV"
-    brewery: "903 Brewers"
-    description: >
-      'Abide with this decadent golden milk stout inspired by the Classic White Russian cocktail. This creamy concoction rolls in with rich waves of milk chocolate, silky milk sugar sweetness, and a bold kick of coffee. Despite its golden hue, it's as full-bodied as the Dude's favorite drink, with a smooth, velvety finish.Just like the Dude, this brew abides-and we're sure you will, too.'
-    type: "Stout - White"
   - name: "Winter Berry"
     abv: "5.6% ABV"
     brewery: "Wild State Cider"
