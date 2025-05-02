@@ -47,6 +47,12 @@ taps:
     description: >
       'N/A'
     type: "Hard Seltzer"
+  - name: "Bomb: Piña Colada"
+    abv: "6% ABV"
+    brewery: "The Brewing Projekt"
+    description: >
+      'Fermented malt beverage with pineapple, coconut and natural flavors.'
+    type: "Hard Seltzer"
   - name: "Bourbon County Brand Stout (2020) 14.6%"
     abv: "14.6% ABV"
     brewery: "Goose Island Beer Co."
@@ -58,12 +64,6 @@ taps:
     brewery: "Central Waters Brewing Company"
     description: >
       'N/A'
-    type: "Stout - Imperial"
-  - name: "Brewer's Reserve Cassian Sunset (2024)"
-    abv: "11.7% ABV"
-    brewery: "Central Waters Brewing Company"
-    description: >
-      'A bourbon barrel aged imperial stout with local @emyjscoffeehouse Emy J's coffee, whole vanilla beans, and cinnamon. The flavor profile of this wonderful beer boasts a lush mouthfeel, with just the right amount of creamy spice character to meld with the rich malt and barrel-aged profile.'
     type: "Stout - Imperial"
   - name: "CHONK: Dark Cherry"
     abv: "6.6% ABV"
@@ -161,6 +161,12 @@ taps:
     description: >
       'Full-bodied, hazy double IPA Citra-hopped for a juicy combination of mango, orange, and pineapple flavors. Finishes with a grapefruit aroma and ferocious bite.'
     type: "IPA - Imperial"
+  - name: "Minister of State Speedway Stout"
+    abv: "14% ABV"
+    brewery: "AleSmith Brewing Company"
+    description: >
+      'Brewer's Cut Blended Imperial Stout aged in Premier Bourbon Barrels with Jamaica Blue Mountain Coffee from Jaunt Coffee Roasters'
+    type: "Stout - Russian Imperial"
   - name: "Mister Surly's Orange Whip"
     abv: "5.5% ABV"
     brewery: "Surly Brewing Company"
