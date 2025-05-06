@@ -29,12 +29,6 @@ taps:
     description: >
       'Black Currants are a deep dark berry with a rich flavor and a slight tangy almost tart finish. Gluten Free.'
     type: "Mead - Melomel"
-  - name: "Black Gold"
-    abv: "5.5% ABV"
-    brewery: "Bauhaus Brew Labs"
-    description: >
-      'Black Gold is a new collaboration between Bauhaus Brew Labs and Pizza Luce that aims to solve this age-old problem by creating an entirely new beer style — the Black Cream Ale. By combining the crisp, easy-drinking body of a classic Cream Ale recipe with the jet-black color and subtle roastiness of a Stout or Porter, we’ve uncovered the ultimate beverage for having your pie and eating it too. Available now through the end of the year exclusively at every Pizza Luce location!'
-    type: "Cream Ale"
   - name: "Blood Orange Mead"
     abv: "8% ABV"
     brewery: "J. Bird Wines, Inc."
@@ -191,6 +185,12 @@ taps:
     description: >
       'Peach Berliner Weisse is a German-style tart wheat beer that’s perfect for the hot summer months. Using only the best Missouri peaches, weturned an easily overdone style into a refreshing and light bodied summer beer.'
     type: "Sour - Fruited Berliner Weisse"
+  - name: "Pistachio Cream Ale"
+    abv: "5.5% ABV"
+    brewery: "Indeed Brewing Company"
+    description: >
+      'Like liberating a pistachio nut from its shell, our pistachio cream ale is supremely satisfying.  Spritzy and crisp, smooth and slightly nutty, this beer is a delightful mixed bag.  Pry one loose and pop the top.'
+    type: "Cream Ale"
   - name: "Rain Drops"
     abv: "7.5% ABV"
     brewery: "Barrel Theory Beer Company"
