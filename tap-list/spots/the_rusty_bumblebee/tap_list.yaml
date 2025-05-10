@@ -11,12 +11,6 @@ taps:
     description: >
       'A massive dose of Citra hops launch our legendary double IPA (Minnesota’s first, and a nod to our abrasives factory origin) into the hophead stratosphere.'
     type: "IPA - Imperial"
-  - name: "Apple Shine - Apple Pie"
-    abv: "6% ABV"
-    brewery: "Invictus Brewing"
-    description: >
-      'N/A'
-    type: "Cider - Herbed"
   - name: "Barrel Aged Snowball (2024)"
     abv: "12.5% ABV"
     brewery: "Angry Chair Brewing"
@@ -53,17 +47,23 @@ taps:
     description: >
       'The Original Bourbon Barrel aged Imperial Stout. Our primary focus every year is to make this beer the best that it’s ever been, with the best ingredients, which includes the finest of bourbon whiskey barrels. This year’s Bourbon County Stout is aged in a mix of bourbon barrels from a variety of whiskey distilleries. Barrel-aged for a year to develop the complexity that only time can provide, Bourbon County Stout boasts a unique blend of flavors such as fudge, vanilla and caramel — topped off with a rich, complex mouthfeel.'
     type: "Stout - Imperial"
+  - name: "Braaaaaaaains - Monkey Business"
+    abv: "6.3% ABV"
+    brewery: "Drekker Brewing Company"
+    description: >
+      'Monkey Business Braaaaaaaains is stuffed with banana, lime, and tart cherry and then we hit it with our double secret smoothie treatment of sea salt, lactose, and vanilla for a super delicious flavor we just know you’re gonna love!'
+    type: "Sour - Smoothie"
   - name: "Brewer's Reserve Bourbon Barrel Stout (2024)"
     abv: "10.5% ABV"
     brewery: "Central Waters Brewing Company"
     description: >
       'N/A'
     type: "Stout - Imperial"
-  - name: "CHONK: Dark Cherry"
-    abv: "6.6% ABV"
+  - name: "CHONK: Blueberry White Chocolate"
+    abv: "6.5% ABV"
     brewery: "Drekker Brewing Company"
     description: >
-      'OH LAWD HE BACK AGAIN! Our lovable absolute unit returns with our latest exploration into complete absurdity. This chonky boi is diggin’ deep within the darkest corners of the freezer, scoopin’ up gobs of dark cherry and decadent dark chocolate. Cue the intensified heavy breathing.*CONTAINS LACTOSE'
+      'OH LAWD HE COMIN! Our newest Chonk Sundae Sour is absolutely dripping with blueberries & white chocolate and packs that absurdly decadently sweet, tart, rich chonky flavor you've come to expect and love from our favorite hefty boi!'
     type: "Sour - Smoothie"
   - name: "CPB"
     abv: "5.2% ABV"
@@ -107,6 +107,12 @@ taps:
     description: >
       'N/A'
     type: "IPA - Imperial"
+  - name: "Guava Passion Fruit"
+    abv: "5% ABV"
+    brewery: "Downeast Cider House"
+    description: >
+      'Tart and tangy passion fruit balances perfectly with sweet and mild guava to create the tropical cider dreams are made of. We really like this one. you will too. (trust us, or don't, and get some to try for yourself).'
+    type: "Cider - Other Fruit"
   - name: "Hard Root Beer"
     abv: "5% ABV"
     brewery: "Invictus Brewing"
@@ -209,12 +215,6 @@ taps:
     description: >
       'Bourbon and rye barrels work together in harmony to breathe life into our Ryewine. This unforgettable ale is brewed with over 60% rye, yielding entirely unique malt- and barrel-derived complexities. Enjoy an ample body that suggests sweetness but still finishes smooth and dry.'
     type: "Rye Wine"
-  - name: "SLUSHY XL: Flamingo Fangs"
-    abv: "4.5% ABV"
-    brewery: "450 North Brewing Company"
-    description: >
-      'Flamingo Fangs XL is a collab with A La Carte & Invasive Species Brewing and is conditioned on Raspberry, Almonds & Vanilla. This slushy is Gluten Free'
-    type: "Sour - Smoothie"
   - name: "Salted Nut Roll"
     abv: "5.2% ABV"
     brewery: "Invictus Brewing"
@@ -227,12 +227,12 @@ taps:
     description: >
       'Schell’s Sangria is refreshingly sweet and full of juicy citrus flavor. These tropical vibes will transport you to a new relaxation destination. So grab your can, find the nearest hammock, and enter Vacation Mode.'
     type: "Lager - American Amber"
-  - name: "Slang Du Jour - Key Lime Pie"
-    abv: "6.9% ABV"
-    brewery: "Drekker Brewing Company"
+  - name: "Scorpius Morchella"
+    abv: "7.8% ABV"
+    brewery: "Toppling Goliath Brewing Co."
     description: >
-      'Slang Du Jour Key Lime Pie was brewed with tons of lime, graham crackers, cinnamon, nutmeg, lactose, vanilla, and brown sugar to taste just like pie in a glass.'
-    type: "Sour - Smoothie"
+      'Brewed each spring to celebrate our brewery’s annual day off to go morel mushroom hunting, this excitingly hazy double IPA is a tribute to our love of great hops and morels. Created with a combination of Pacific Northwest and Southern Hemisphere hops, Scorpius Morchella is meant to be shared with friends on a warm spring afternoon.'
+    type: "IPA - Imperial"
   - name: "Smooth or Die"
     abv: "6.6% ABV"
     brewery: "Drekker Brewing Company"
@@ -269,6 +269,12 @@ taps:
     description: >
       'Slightly tart with balanced sweetness, Surly Lemonade squeezes fresh flavor into every single drop. Bright, crisp, and lemony, this incredibly drinkable ale quenches and refreshes.'
     type: "Fruit Beer"
+  - name: "Swirlee - Raspberry Creamsicle"
+    abv: "6.7% ABV"
+    brewery: "Drekker Brewing Company"
+    description: >
+      'Swirlee is a creamsicle sour series that is far beyond your wildest, swirliest dreams, but don’t you worry, we went out and scooped it all up for you. This one is a tasty pairing of a whole buncha raspberry and vanilla ice cream, and if you drink too many, your noggin might turn into an ice cream cone so enjoy responsibly!'
+    type: "Sour - Fruited"
   - name: "Tampa Native"
     abv: "8% ABV"
     brewery: "Angry Chair Brewing"
@@ -305,15 +311,3 @@ taps:
     description: >
       'Pink Guava Funk with Tropical Skittles added'
     type: "Sour - Fruited"
-  - name: "Winter Berry"
-    abv: "5.6% ABV"
-    brewery: "Wild State Cider"
-    description: >
-      'N/A'
-    type: "Cider - Other Fruit"
-  - name: "Winter Blend"
-    abv: "6.5% ABV"
-    brewery: "Downeast Cider House"
-    description: >
-      'Aged on toasted oak chips with cinnamon & nutmeg'
-    type: "Cider - Herbed"
