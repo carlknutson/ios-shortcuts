@@ -1,4 +1,7 @@
 taps:
+  - name: "Apricot Hefe"
+    abv: "5.0%"
+    type: "Apricot Hefeweizen"
   - name: "B/A Natural 20"
     abv: "10.4% (10oz.)"
     type: "Bourbon B/A Choc. Vanilla Imperial Stout"
@@ -41,6 +44,9 @@ taps:
   - name: "Oatmeal Pale Ale"
     abv: "5.5%"
     type: "OPA"
+  - name: "Raspberry Moose Nuts"
+    abv: "4.7%"
+    type: "Raspberry Chocolate Porter"
   - name: "Snake BanishMint"
     abv: "4.6%"
     type: "Mint Irish Stout"
