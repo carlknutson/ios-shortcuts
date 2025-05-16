@@ -185,6 +185,12 @@ taps:
     description: >
       'A sour brewed with more Sour Patch Kids® than we'd ever seen before. We've also added lemon, lime, orange, raspberry, pink guava, and sea salt for a flavor that'll take you way, way back to that time a few days ago when you ate a huge pile of Sour Patch Kids®.... or was that just us?⁣'
     type: "Sour - Smoothie"
+  - name: "Pacific Pineapple"
+    abv: "5% ABV"
+    brewery: "2 Towns Ciderhouse"
+    description: >
+      'Juicy and tropical, Pacific Pineapple rolls ripe Costa Rica golden pineapples into fresh-pressed Northwest apples. This refreshingly juicy and easy drinking session cider will relax your state of mind, no matter your locale!'
+    type: "Cider - Other Fruit"
   - name: "Peach Berliner Weisse"
     abv: "4.2% ABV"
     brewery: "Perennial Artisan Ales"
