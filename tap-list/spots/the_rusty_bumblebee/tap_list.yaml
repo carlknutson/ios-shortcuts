@@ -155,6 +155,12 @@ taps:
     description: >
       'Full-bodied, hazy double IPA Citra-hopped for a juicy combination of mango, orange, and pineapple flavors. Finishes with a grapefruit aroma and ferocious bite.'
     type: "IPA - Imperial"
+  - name: "Lemon Tea-Up"
+    abv: "6% ABV"
+    brewery: "Penrose Brewing Company"
+    description: >
+      'Next in the series of the sought after, Lemon Seltz-Up, Lemon Tea-Up arrives and brings a whole new idea to Craft Seltzers. This delicious hard seltzer with lemons and steeped in tea is the perfect addition to your day with it’s super refreshing flavor. Lemon Tea-Up is made for the golf cart cup holder or the 19th hole.'
+    type: "Hard Seltzer"
   - name: "Minister of State Speedway Stout"
     abv: "14% ABV"
     brewery: "AleSmith Brewing Company"
