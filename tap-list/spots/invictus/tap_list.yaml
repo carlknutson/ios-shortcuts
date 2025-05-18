@@ -74,6 +74,3 @@ taps:
   - name: "Troy"
     abv: "6.1%"
     type: "IPA - American"
-  - name: "Vaughn's Fastball"
-    abv: "4.7%"
-    type: "Blonde Ale"
