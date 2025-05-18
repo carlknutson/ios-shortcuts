@@ -143,6 +143,12 @@ taps:
     description: >
       'Hazy DIPA'
     type: "IPA - Imperial"
+  - name: "Juicy Tiles"
+    abv: "8.4% ABV"
+    brewery: "WeldWerks Brewing Co."
+    description: >
+      'Hazy Double India Pale Ale with Wild Flower Honey'
+    type: "IPA - Imperial"
   - name: "KPIs"
     abv: "8.3% ABV"
     brewery: "BlackStack Brewing"
@@ -203,6 +209,12 @@ taps:
     description: >
       'Peach Berliner Weisse is a German-style tart wheat beer that’s perfect for the hot summer months. Using only the best Missouri peaches, weturned an easily overdone style into a refreshing and light bodied summer beer.'
     type: "Sour - Fruited Berliner Weisse"
+  - name: "Pineapple Papaya Fandango"
+    abv: "5.1% ABV"
+    brewery: "Toppling Goliath Brewing Co."
+    description: >
+      'Flavors of tropical papaya and fresh-squeezed pineapple juice conjure up warm-weather vibes. This kettle sour is sweet, tart, then sweet again.'
+    type: "Sour - Fruited"
   - name: "Pistachio Cream Ale"
     abv: "5.5% ABV"
     brewery: "Indeed Brewing Company"
@@ -275,6 +287,12 @@ taps:
     description: >
       'American and Australian hops.'
     type: "IPA - New England"
+  - name: "Summer Shandy"
+    abv: "4.2% ABV"
+    brewery: "Jacob Leinenkugel Brewing Company"
+    description: >
+      'Our own unique take on Franz Kugler’s original Munich tavern tradition. Leinenkugel’s® Summer Shandy® is our traditional weiss beer with refreshing natural lemonade flavor that makes it the perfect summer beer.In 2012, Summer Shandy won a Silver medal at the Great American Beer Festival® in the Fruit Wheat Beer category.'
+    type: "Shandy"
   - name: "Surly Lemonade"
     abv: "5.5% ABV"
     brewery: "Surly Brewing Company"
