@@ -203,6 +203,12 @@ taps:
     description: >
       'Juicy and tropical, Pacific Pineapple rolls ripe Costa Rica golden pineapples into fresh-pressed Northwest apples. This refreshingly juicy and easy drinking session cider will relax your state of mind, no matter your locale!'
     type: "Cider - Other Fruit"
+  - name: "Patio Punch"
+    abv: "N/A"
+    brewery: "N/A"
+    description: >
+      'Find your nearest patio and post up for a peach-y good time. Kinky Blue, Peach Schnapps, Lemonade & lemon-lime soda.'
+    type: "N/A"
   - name: "Peach Berliner Weisse"
     abv: "4.2% ABV"
     brewery: "Perennial Artisan Ales"
