@@ -5,12 +5,6 @@ taps:
     description: >
       'Lots of vanilla, wintergreen, and other delicious roots along with real sucrose makes it the best root beer ever'
     type: "Root Beer"
-  - name: "Abrasive Double IPA"
-    abv: "9.2% ABV"
-    brewery: "Surly Brewing Company"
-    description: >
-      'A massive dose of Citra hops launch our legendary double IPA (Minnesota’s first, and a nod to our abrasives factory origin) into the hophead stratosphere.'
-    type: "IPA - Imperial"
   - name: "Barrel Aged Snowball (2024)"
     abv: "12.5% ABV"
     brewery: "Angry Chair Brewing"
@@ -34,12 +28,6 @@ taps:
     brewery: "Elm Creek Brewing Co."
     description: >
       'N/A'
-    type: "Hard Seltzer"
-  - name: "Bomb: Piña Colada"
-    abv: "6% ABV"
-    brewery: "The Brewing Projekt"
-    description: >
-      'Fermented malt beverage with pineapple, coconut and natural flavors.'
     type: "Hard Seltzer"
   - name: "Bourbon County Brand Stout (2020) 14.6%"
     abv: "14.6% ABV"
@@ -77,12 +65,6 @@ taps:
     description: >
       'Imperial Stout brewed with Ancho Chiles, Cacao Nibs, and Cinnamon Sticks with Sump Colombia Cauca coffee beans.'
     type: "Stout - Imperial"
-  - name: "Cookie Monstrosity"
-    abv: "11% ABV"
-    brewery: "Lupulin Brewing Company"
-    description: >
-      'Brace yourself for indulgence with Cookie Monstrosity, an imperial stout that delivers a rich and decadent liquid pastry experience. Brimming with coconut, salted caramel, cacao nibs, graham cracker, honey, and vanilla, each sip offers a symphony of cookie flavors, that will have you yelling, "Me want more!"'
-    type: "Stout - Imperial"
   - name: "Coors Light"
     abv: "4.2% ABV"
     brewery: "Coors Brewing Company"
@@ -95,6 +77,12 @@ taps:
     description: >
       'Our forever favorite fog dog gets an extra layer of dry hop dopeness in the form of our supremely juicy lot of Cashmere. Even more lupulin laden love on top of our hand-selected Azacca, Amarillo & Citra. Saturated salutations from our house to yours.'
     type: "IPA - New England"
+  - name: "Double Dry Hop Pseudo Sue"
+    abv: "5.8% ABV"
+    brewery: "Toppling Goliath Brewing Co."
+    description: >
+      'This double dry hopped pale ale showcases the Citra hop for a well balanced beer that is delicate in body with a mild bitterness in the finish. Ferocious aromas of citrus and mango give a refreshing taste that is bright with just enough bite!'
+    type: "Pale Ale - New England"
   - name: "Ewald the Golden"
     abv: "5.2% ABV"
     brewery: "Utepils Brewing Co."
@@ -125,12 +113,6 @@ taps:
     description: >
       'This Fruited Smoothie Sour blends Apricot, Pineapple, and Valencia Orange with Pistachio ice cream to form just one of this monster’s many heads. Keep your eyes peeled for even more flavor combinations. Lucky like a three-headed Hydra!'
     type: "Sour - Smoothie"
-  - name: "Ice Ice PRRRTY - Cherry Guava Coconut"
-    abv: "6.6% ABV"
-    brewery: "Drekker Brewing Company"
-    description: >
-      'Yo, VIP. Let’s kick it. This beer isn’t a brand new invention, but it is a brand new flavor of Ice Ice PRRRTy! It’s a slush-style sour packed with so much cherry, guava and coconut you’ll be asking, “Will it ever stop?” Yo, we don’t know. Word to your mother.'
-    type: "Sour - Smoothie"
   - name: "It Was All A Dream"
     abv: "7.2% ABV"
     brewery: "HeadFlyer Brewing"
@@ -154,12 +136,6 @@ taps:
     brewery: "BlackStack Brewing"
     description: >
       'Well, Well, Well, If it isn’t everyone’s favorite way to judge their self worth… Brewed with our Buds at Yakima Chief Hops & NZ Hops with some lots of Experimental HBC 602 from Yakima in Washington & Nectaron from New Zealand that are really checking all the boxes. Yeah, it looks, tastes & smells amazing… But what do the numbers say?'
-    type: "IPA - Imperial"
-  - name: "King Sue"
-    abv: "7.8% ABV"
-    brewery: "Toppling Goliath Brewing Co."
-    description: >
-      'Full-bodied, hazy double IPA Citra-hopped for a juicy combination of mango, orange, and pineapple flavors. Finishes with a grapefruit aroma and ferocious bite.'
     type: "IPA - Imperial"
   - name: "Lemon Tea-Up"
     abv: "6% ABV"
@@ -203,12 +179,6 @@ taps:
     description: >
       'Juicy and tropical, Pacific Pineapple rolls ripe Costa Rica golden pineapples into fresh-pressed Northwest apples. This refreshingly juicy and easy drinking session cider will relax your state of mind, no matter your locale!'
     type: "Cider - Other Fruit"
-  - name: "Patio Punch"
-    abv: "N/A"
-    brewery: "N/A"
-    description: >
-      'Find your nearest patio and post up for a peach-y good time. Kinky Blue, Peach Schnapps, Lemonade & lemon-lime soda.'
-    type: "N/A"
   - name: "Peach Berliner Weisse"
     abv: "4.2% ABV"
     brewery: "Perennial Artisan Ales"
@@ -227,12 +197,6 @@ taps:
     description: >
       'Like liberating a pistachio nut from its shell, our pistachio cream ale is supremely satisfying.  Spritzy and crisp, smooth and slightly nutty, this beer is a delightful mixed bag.  Pry one loose and pop the top.'
     type: "Cream Ale"
-  - name: "Rain Drops"
-    abv: "7.5% ABV"
-    brewery: "Barrel Theory Beer Company"
-    description: >
-      'Northeast Style IPA, dry hopped with Citra & Mosaic'
-    type: "IPA - New England"
   - name: "Run Wild IPA"
     abv: "0.5% ABV"
     brewery: "Athletic Brewing Company"
@@ -263,6 +227,12 @@ taps:
     description: >
       'Brewed each spring to celebrate our brewery’s annual day off to go morel mushroom hunting, this excitingly hazy double IPA is a tribute to our love of great hops and morels. Created with a combination of Pacific Northwest and Southern Hemisphere hops, Scorpius Morchella is meant to be shared with friends on a warm spring afternoon.'
     type: "IPA - Imperial"
+  - name: "Slang Du Jour - Cherry Cheesecake"
+    abv: "6.2% ABV"
+    brewery: "Drekker Brewing Company"
+    description: >
+      'Cherry Cheesecake Slang Du Jour is loaded up with a whole pile of cherries, granola, cream cheese, lactose, and brown sugar for a flavor to match the big boss of the dessert world!'
+    type: "Sour - Smoothie"
   - name: "Smooth or Die"
     abv: "6.6% ABV"
     brewery: "Drekker Brewing Company"
@@ -305,12 +275,6 @@ taps:
     description: >
       'Slightly tart with balanced sweetness, Surly Lemonade squeezes fresh flavor into every single drop. Bright, crisp, and lemony, this incredibly drinkable ale quenches and refreshes.'
     type: "Fruit Beer"
-  - name: "Swirlee - Raspberry Creamsicle"
-    abv: "6.7% ABV"
-    brewery: "Drekker Brewing Company"
-    description: >
-      'Swirlee is a creamsicle sour series that is far beyond your wildest, swirliest dreams, but don’t you worry, we went out and scooped it all up for you. This one is a tasty pairing of a whole buncha raspberry and vanilla ice cream, and if you drink too many, your noggin might turn into an ice cream cone so enjoy responsibly!'
-    type: "Sour - Smoothie"
   - name: "Tampa Native"
     abv: "8% ABV"
     brewery: "Angry Chair Brewing"
@@ -335,12 +299,6 @@ taps:
     description: >
       'Sour ale with Skittles'
     type: "Sour - Other"
-  - name: "Tomm's"
-    abv: "4.8% ABV"
-    brewery: "Falling Knife Brewing Company"
-    description: >
-      'Our take on a Classic American Lager, the kind of beer you pound while building a brewery'
-    type: "Lager - American"
   - name: "Tropical Esses"
     abv: "5% ABV"
     brewery: "Prairie Artisan Ales"
