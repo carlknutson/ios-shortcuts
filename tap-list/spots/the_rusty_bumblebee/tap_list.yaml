@@ -59,11 +59,11 @@ taps:
     description: >
       'Layers of decadent chocolate and peanut butter built into a rich oatmeal porter make this beer impossible to have just one.  We're not sorry.'
     type: "Porter - American"
-  - name: "Coffee Abraxas (2018)"
-    abv: "11.5% ABV"
-    brewery: "Perennial Artisan Ales"
+  - name: "Coconut Medianoche (2025)"
+    abv: "12.6% ABV"
+    brewery: "WeldWerks Brewing Co."
     description: >
-      'Imperial Stout brewed with Ancho Chiles, Cacao Nibs, and Cinnamon Sticks with Sump Colombia Cauca coffee beans.'
+      '2025 Coconut Medianoche is a blend of Medianoche batches aged for over 28 months in a variety of barrels, including; 11-year Dickel Bourbon barrels, 15-year Sazerac Rye Whiskey barrels, 10-year Blanton's Bourbon barrels, 10-year Buffalo Trace barrels, nine-year Stagg Jr. Bourbon barrels, seven-year Weller Bourbon barrels, and 15-year Old Fitzgerald Bourbon barrels. After weeks of meticulous blending, this imperial stout was further aged on our signature mix of toasted coconut flakes and unsweetened raw coconut chips. The result is a beer celebrated for its rich and complex flavor profile, prominently featuring freshly baked coconut macaroons, melted chocolate ganache, and an oaky bourbon warmth.'
     type: "Stout - Imperial"
   - name: "Coors Light"
     abv: "4.2% ABV"
@@ -197,6 +197,12 @@ taps:
     description: >
       'Like liberating a pistachio nut from its shell, our pistachio cream ale is supremely satisfying.  Spritzy and crisp, smooth and slightly nutty, this beer is a delightful mixed bag.  Pry one loose and pop the top.'
     type: "Cream Ale"
+  - name: "Preserved In Three Dimensions"
+    abv: "7.5% ABV"
+    brewery: "Hop Butcher For The World"
+    description: >
+      'Sabro & Simcoe-hopped Double India Pale Ale'
+    type: "IPA - Imperial"
   - name: "Run Wild IPA"
     abv: "0.5% ABV"
     brewery: "Athletic Brewing Company"
@@ -275,12 +281,6 @@ taps:
     description: >
       'Slightly tart with balanced sweetness, Surly Lemonade squeezes fresh flavor into every single drop. Bright, crisp, and lemony, this incredibly drinkable ale quenches and refreshes.'
     type: "Fruit Beer"
-  - name: "Tampa Native"
-    abv: "8% ABV"
-    brewery: "Angry Chair Brewing"
-    description: >
-      'DDH IPA w/ Citra & Citra Incognito'
-    type: "IPA - Imperial"
   - name: "The Breakfast Gang"
     abv: "6% ABV"
     brewery: "Drekker Brewing Company"
