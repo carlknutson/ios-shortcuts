@@ -1,7 +1,4 @@
 taps:
-  - name: "Apple Shine - Cranberry"
-    abv: "6%"
-    type: "Cider - Other Fruit"
   - name: "Apple Shine - Green Apple"
     abv: "6%"
     type: "Cider - Dry"
