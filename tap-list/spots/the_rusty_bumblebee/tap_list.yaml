@@ -5,6 +5,12 @@ taps:
     description: >
       'Lots of vanilla, wintergreen, and other delicious roots along with real sucrose makes it the best root beer ever'
     type: "Root Beer"
+  - name: "Arnie PRRRTY"
+    abv: "5.9% ABV"
+    brewery: "Drekker Brewing Company"
+    description: >
+      'Arnie PRRRTY is a lemonade iced tea sour and you know nothing hits the spot like a good Arnie P. This Arnie P is loaded up with lemon, lemonade mix, a little bit of apple, and iced tea so it’s hella refreshing and perfect for a warm spring day!'
+    type: "Sour - Fruited"
   - name: "Barrel Aged Snowball (2024)"
     abv: "12.5% ABV"
     brewery: "Angry Chair Brewing"
@@ -53,12 +59,6 @@ taps:
     description: >
       'N/A'
     type: "Stout - Imperial"
-  - name: "CHONK: Blueberry White Chocolate"
-    abv: "6.5% ABV"
-    brewery: "Drekker Brewing Company"
-    description: >
-      'OH LAWD HE COMIN! Our newest Chonk Sundae Sour is absolutely dripping with blueberries & white chocolate and packs that absurdly decadently sweet, tart, rich chonky flavor you've come to expect and love from our favorite hefty boi!'
-    type: "Sour - Smoothie"
   - name: "CPB"
     abv: "5.2% ABV"
     brewery: "Lupulin Brewing Company"
