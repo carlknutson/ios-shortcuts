@@ -11,12 +11,6 @@ taps:
     description: >
       'Arnie PRRRTY is a lemonade iced tea sour and you know nothing hits the spot like a good Arnie P. This Arnie P is loaded up with lemon, lemonade mix, a little bit of apple, and iced tea so it’s hella refreshing and perfect for a warm spring day!'
     type: "Sour - Fruited"
-  - name: "Barrel Aged Snowball (2024)"
-    abv: "12.5% ABV"
-    brewery: "Angry Chair Brewing"
-    description: >
-      'Experience rich, decadent waves of toasted coconut, marshmallow, Madagascar vanilla beans and Ecuadorian cacao nibs envelope your palate leaving you longing for another sip.Rested in Heaven Hill and Buffalo Trace bourbon barrels for 24 months, BA Snowball has the perfect balance of aggressive barrel character and serendipitously sweet adjuncts. Inspired by the tasty treat from the hostess with the mostest. 12.5% ABV.'
-    type: "Stout - Imperial"
   - name: "Black Currant Mead"
     abv: "8.5% ABV"
     brewery: "J. Bird Wines, Inc."
@@ -40,6 +34,12 @@ taps:
     brewery: "Goose Island Beer Co."
     description: >
       'The Original Bourbon Barrel aged Imperial Stout. Our primary focus every year is to make this beer the best that it’s ever been, with the best ingredients, which includes the finest of bourbon whiskey barrels. This year’s Bourbon County Stout is aged in a mix of bourbon barrels from a variety of whiskey distilleries. Barrel-aged for a year to develop the complexity that only time can provide, Bourbon County Stout boasts a unique blend of flavors such as fudge, vanilla and caramel — topped off with a rich, complex mouthfeel.'
+    type: "Stout - Imperial"
+  - name: "Bourbon County Brand Stout (2024) 14.7%"
+    abv: "14.7% ABV"
+    brewery: "Goose Island Beer Co."
+    description: >
+      'After crafting the very first bourbon barrel-aged imperial stout, we've learned that to have the best beer, you start with the best possible ingredients. Barrels are such an important ingredient and we continue to use only the best our friends on the bourbon trail have to offer. 2024 Bourbon County Brand Original Stout is aged in a mix of freshly emptied bourbon barrels from Buffalo Trace, Heaven Hill, Four Roses and Wild Turkey distilleries. Barrel-aged for an average of 12 months, Bourbon County Original Stout boasts deeply developed flavors of fudge, vanilla and caramelized sugar with a rich, decadent mouthfeel.'
     type: "Stout - Imperial"
   - name: "Braaaaaaaains - Billions of Peaches"
     abv: "6.5% ABV"
@@ -125,12 +125,6 @@ taps:
     description: >
       'This IPA is from northeast, inspired by the popular style from the northeast. Thick and hazy looking with a hefty load of Citra and El Dorado hops providing a juicy aroma and taste.'
     type: "IPA - New England"
-  - name: "Jefferson Street DIPA"
-    abv: "8% ABV"
-    brewery: "Drastic Measures Brewing"
-    description: >
-      'Hazy DIPA'
-    type: "IPA - Imperial"
   - name: "Juicy Tiles"
     abv: "8.4% ABV"
     brewery: "WeldWerks Brewing Co."
@@ -149,6 +143,12 @@ taps:
     description: >
       'Next in the series of the sought after, Lemon Seltz-Up, Lemon Tea-Up arrives and brings a whole new idea to Craft Seltzers. This delicious hard seltzer with lemons and steeped in tea is the perfect addition to your day with it’s super refreshing flavor. Lemon Tea-Up is made for the golf cart cup holder or the 19th hole.'
     type: "Hard Seltzer"
+  - name: "Mind Your Unwind"
+    abv: "8.5% ABV"
+    brewery: "Toppling Goliath Brewing Co."
+    description: >
+      'Cast a line, sit back and relax. This collab lures you in with adelightful combination of Nelson Sauvin, Simcoe, and Krushhops. so take a sip and unwind.'
+    type: "IPA - Imperial"
   - name: "Minister of State Speedway Stout"
     abv: "14% ABV"
     brewery: "AleSmith Brewing Company"
@@ -161,6 +161,12 @@ taps:
     description: >
       'Mister Surly's Orange Whip Cream Ale is coming to your neighborhood. A dreamy concoction of vanilla, blood orange, hops, and malt, Mister Surly's Orange Whip is sweet, citrusy, and balanced. Treat yourself.'
     type: "Cream Ale"
+  - name: "Mornin’ Delight (2023)"
+    abv: "10.8% ABV"
+    brewery: "Toppling Goliath Brewing Co."
+    description: >
+      'A huge imperial stout with an explosive espresso aroma followed by strong notes of maple syrup and coffee.'
+    type: "Stout - Imperial"
   - name: "Nano Pomegranate Blueberry Shandy"
     abv: "5% ABV"
     brewery: "Mankato Brewery"
@@ -281,6 +287,12 @@ taps:
     description: >
       'Our own unique take on Franz Kugler’s original Munich tavern tradition. Leinenkugel’s® Summer Shandy® is our traditional weiss beer with refreshing natural lemonade flavor that makes it the perfect summer beer.In 2012, Summer Shandy won a Silver medal at the Great American Beer Festival® in the Fruit Wheat Beer category.'
     type: "Shandy"
+  - name: "Summer Sue"
+    abv: "5.2% ABV"
+    brewery: "Toppling Goliath Brewing Co."
+    description: >
+      'A refreshing Citrus Ale brimming with sweet tropical citrus notes that are perfect for warm afternoons. Aromas of bright citrus bring a vibrant pop to this summertime ale.'
+    type: "Belgian Blonde"
   - name: "Surly Lemonade"
     abv: "5.5% ABV"
     brewery: "Surly Brewing Company"
