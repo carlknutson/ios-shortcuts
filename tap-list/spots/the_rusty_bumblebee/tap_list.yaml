@@ -197,6 +197,12 @@ taps:
     description: >
       'Peach Berliner Weisse is a German-style tart wheat beer that’s perfect for the hot summer months. Using only the best Missouri peaches, weturned an easily overdone style into a refreshing and light bodied summer beer.'
     type: "Sour - Fruited Berliner Weisse"
+  - name: "Pineapple Mead"
+    abv: "8% ABV"
+    brewery: "J. Bird Wines, Inc."
+    description: >
+      'Mead made with pineapples'
+    type: "Mead - Traditional"
   - name: "Pineapple Papaya Fandango"
     abv: "5.1% ABV"
     brewery: "Toppling Goliath Brewing Co."
@@ -215,6 +221,12 @@ taps:
     description: >
       'Sabro & Simcoe-hopped Double India Pale Ale'
     type: "IPA - Imperial"
+  - name: "Raspberry"
+    abv: "8% ABV"
+    brewery: "J. Bird Wines, Inc."
+    description: >
+      'N/A'
+    type: "Mead - Melomel"
   - name: "Run Wild IPA"
     abv: "0.5% ABV"
     brewery: "Athletic Brewing Company"
