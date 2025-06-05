@@ -11,18 +11,6 @@ taps:
     description: >
       'Arnie PRRRTY is a lemonade iced tea sour and you know nothing hits the spot like a good Arnie P. This Arnie P is loaded up with lemon, lemonade mix, a little bit of apple, and iced tea so it’s hella refreshing and perfect for a warm spring day!'
     type: "Sour - Fruited"
-  - name: "Black Currant Mead"
-    abv: "8.5% ABV"
-    brewery: "J. Bird Wines, Inc."
-    description: >
-      'Black Currants are a deep dark berry with a rich flavor and a slight tangy almost tart finish. Gluten Free.'
-    type: "Mead - Melomel"
-  - name: "Blood Orange Mead"
-    abv: "8% ABV"
-    brewery: "J. Bird Wines, Inc."
-    description: >
-      'Mead made with Blood Oranges'
-    type: "Mead - Traditional"
   - name: "Blueberry Lemon"
     abv: "5% ABV"
     brewery: "Elm Creek Brewing Co."
