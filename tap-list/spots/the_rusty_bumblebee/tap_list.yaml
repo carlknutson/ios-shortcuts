@@ -47,12 +47,6 @@ taps:
     description: >
       'N/A'
     type: "Stout - Imperial"
-  - name: "CPB"
-    abv: "5.2% ABV"
-    brewery: "Lupulin Brewing Company"
-    description: >
-      'Layers of decadent chocolate and peanut butter built into a rich oatmeal porter make this beer impossible to have just one.  We're not sorry.'
-    type: "Porter - American"
   - name: "Coconut Medianoche (2025)"
     abv: "12.6% ABV"
     brewery: "WeldWerks Brewing Co."
@@ -317,3 +311,9 @@ taps:
     description: >
       'Pink Guava Funk with Tropical Skittles added'
     type: "Sour - Fruited"
+  - name: "Vanilla Bean Porter"
+    abv: "5.8% ABV"
+    brewery: "HeadFlyer Brewing"
+    description: >
+      'This is a dark porter that has a complex body of roasted malts and has a creamy finish with a hint of vanilla.'
+    type: "Porter - American"
