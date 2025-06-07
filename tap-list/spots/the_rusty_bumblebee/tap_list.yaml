@@ -29,6 +29,12 @@ taps:
     description: >
       'After crafting the very first bourbon barrel-aged imperial stout, we've learned that to have the best beer, you start with the best possible ingredients. Barrels are such an important ingredient and we continue to use only the best our friends on the bourbon trail have to offer. 2024 Bourbon County Brand Original Stout is aged in a mix of freshly emptied bourbon barrels from Buffalo Trace, Heaven Hill, Four Roses and Wild Turkey distilleries. Barrel-aged for an average of 12 months, Bourbon County Original Stout boasts deeply developed flavors of fudge, vanilla and caramelized sugar with a rich, decadent mouthfeel.'
     type: "Stout - Imperial"
+  - name: "Bourbon County Brand Wheatwine (2019)"
+    abv: "15.4% ABV"
+    brewery: "Goose Island Beer Co."
+    description: >
+      'The 2018 Festival of Wood and Barrel-Aged Beers (FoBAB) award-winning variant is back for its second year, this year aged 100% in Larceny wheated bourbon casks from our partners at Heaven Hill. The result is a softer flavor profile, full of caramel, vanilla, butterscotch, and toffee flavors, all while carrying the nuances of Larceny bourbon barrels.'
+    type: "Wheat Beer - Wheat Wine"
   - name: "Braaaaaaaains - Billions of Peaches"
     abv: "6.5% ABV"
     brewery: "Drekker Brewing Company"
@@ -47,6 +53,12 @@ taps:
     description: >
       'N/A'
     type: "Stout - Imperial"
+  - name: "Chonees Chonees"
+    abv: "5.6% ABV"
+    brewery: "Oliphant Brewing"
+    description: >
+      'Chocolate, Peanut Butter, and Honey Golden Ale with Lactose'
+    type: "Blonde"
   - name: "Coconut Medianoche (2025)"
     abv: "12.6% ABV"
     brewery: "WeldWerks Brewing Co."
@@ -70,6 +82,12 @@ taps:
     brewery: "Toppling Goliath Brewing Co."
     description: >
       'This double dry hopped pale ale showcases the Citra hop for a well balanced beer that is delicate in body with a mild bitterness in the finish. Ferocious aromas of citrus and mango give a refreshing taste that is bright with just enough bite!'
+    type: "Pale Ale - New England"
+  - name: "Dusty"
+    abv: "6% ABV"
+    brewery: "More Brewing Company"
+    description: >
+      'A New England-style Pale Ale brewed and dry hopped with loads of Citra hops to create flavors of grapefruit, passionfruit, lychee, and orange zest.'
     type: "Pale Ale - New England"
   - name: "Ewald the Golden"
     abv: "5.2% ABV"
@@ -221,12 +239,6 @@ taps:
     description: >
       'Bourbon and rye barrels work together in harmony to breathe life into our Ryewine. This unforgettable ale is brewed with over 60% rye, yielding entirely unique malt- and barrel-derived complexities. Enjoy an ample body that suggests sweetness but still finishes smooth and dry.'
     type: "Rye Wine"
-  - name: "Salted Nut Roll"
-    abv: "5.2% ABV"
-    brewery: "Invictus Brewing"
-    description: >
-      'We partnered with Pearson’s Candy Company in St. Paul to create a clean and crisp Golden Ale loaded with 200 pounds of Salted Nut Rolls. The Flavors of roasted peanuts, golden caramel and fluffy nougat with a hint of salt. Perfectly paired with a Salted Nut Roll. This brew has the qualities of the quintessential St Paul candy we know and love.'
-    type: "Golden Ale - Other"
   - name: "Sangria"
     abv: "4.7% ABV"
     brewery: "Schell’s Brewery"
@@ -245,12 +257,12 @@ taps:
     description: >
       'Cherry Cheesecake Slang Du Jour is loaded up with a whole pile of cherries, granola, cream cheese, lactose, and brown sugar for a flavor to match the big boss of the dessert world!'
     type: "Sour - Smoothie"
-  - name: "Smooth or Die"
-    abv: "6.6% ABV"
-    brewery: "Drekker Brewing Company"
+  - name: "Smoked Pineapple Dream"
+    abv: "4.2% ABV"
+    brewery: "Invictus Brewing"
     description: >
-      'Time to draw a line in the sand. We need to put this out there and we hope this doesn’t mean we can’t be friends anymore, but it needs to be known. We only like creamy peanut butter. We think the only peanut butter on the planet should be creamy and that crunchy peanut butter is an abomination before the gods that should be stricken from the earth. There, we said it. We feel better, how about you?⠀So to declare this love for the creamy overlord of peanuts in butter form we’re dropping a brand new Peanut Butter Milk Stout called Smooth Or Die. It’s packed with chocolatey, peanut buttery flavor and aroma and it’s rich and unapologetically smooth, so smooth, like the Gods intended.⠀'
-    type: "Stout - Milk"
+      'Brewed in collaboration with Smokey's Pub N' Grill for their 11th anniversary. Smoked Pineapple Dream - Cream Ale has the perfect balance flavors. You will get notes of pineapple up front, with a touch of smoke on the back end, with a nice smooth finish. Over 100lbs of grains were smoked in Smokey's bbq pit for this beer.'
+    type: "Cream Ale"
   - name: "Sosus"
     abv: "8.2% ABV"
     brewery: "Toppling Goliath Brewing Co."
@@ -269,12 +281,6 @@ taps:
     description: >
       'N/A'
     type: "Shandy"
-  - name: "Stupid Good"
-    abv: "6.6% ABV"
-    brewery: "Drastic Measures Brewing"
-    description: >
-      'American and Australian hops.'
-    type: "IPA - New England"
   - name: "Summer Shandy"
     abv: "4.2% ABV"
     brewery: "Jacob Leinenkugel Brewing Company"
@@ -287,18 +293,6 @@ taps:
     description: >
       'A refreshing Citrus Ale brimming with sweet tropical citrus notes that are perfect for warm afternoons. Aromas of bright citrus bring a vibrant pop to this summertime ale.'
     type: "Belgian Blonde"
-  - name: "Surly Lemonade"
-    abv: "5.5% ABV"
-    brewery: "Surly Brewing Company"
-    description: >
-      'Slightly tart with balanced sweetness, Surly Lemonade squeezes fresh flavor into every single drop. Bright, crisp, and lemony, this incredibly drinkable ale quenches and refreshes.'
-    type: "Fruit Beer"
-  - name: "The Rake"
-    abv: "8% ABV"
-    brewery: "Angry Chair Brewing"
-    description: >
-      'Double Dry Hopped Double IPA with Mosaic and Citra.'
-    type: "IPA - Imperial"
   - name: "Tiny Esses"
     abv: "5.9% ABV"
     brewery: "Prairie Artisan Ales"
