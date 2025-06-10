@@ -149,6 +149,12 @@ taps:
     description: >
       'Cast a line, sit back and relax. This collab lures you in with adelightful combination of Nelson Sauvin, Simcoe, and Krushhops. so take a sip and unwind.'
     type: "IPA - Imperial"
+  - name: "Mindspark"
+    abv: "7.8% ABV"
+    brewery: "Phase Three Brewing"
+    description: >
+      'Bzzt bzzt! Feel the spark of hazy inspiration with this 7.8% double dry-hopped hazy double IPA. Mindspark is loaded with tasty notes of berry smoothie & tangerine in every sip. Hops: Mosaic + Cryo Mosaic'
+    type: "IPA - Imperial"
   - name: "Minister of State Speedway Stout"
     abv: "14% ABV"
     brewery: "AleSmith Brewing Company"
