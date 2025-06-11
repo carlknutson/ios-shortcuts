@@ -113,12 +113,6 @@ taps:
     description: >
       'N/A'
     type: "Root Beer"
-  - name: "Hydra | Luck"
-    abv: "7% ABV"
-    brewery: "Mortalis Brewing Company"
-    description: >
-      'This Fruited Smoothie Sour blends Apricot, Pineapple, and Valencia Orange with Pistachio ice cream to form just one of this monster’s many heads. Keep your eyes peeled for even more flavor combinations. Lucky like a three-headed Hydra!'
-    type: "Sour - Smoothie"
   - name: "It Was All A Dream"
     abv: "7.2% ABV"
     brewery: "HeadFlyer Brewing"
@@ -257,11 +251,11 @@ taps:
     description: >
       'Brewed each spring to celebrate our brewery’s annual day off to go morel mushroom hunting, this excitingly hazy double IPA is a tribute to our love of great hops and morels. Created with a combination of Pacific Northwest and Southern Hemisphere hops, Scorpius Morchella is meant to be shared with friends on a warm spring afternoon.'
     type: "IPA - Imperial"
-  - name: "Slang Du Jour - Cherry Cheesecake"
-    abv: "6.2% ABV"
+  - name: "Slang Du Jour - Mixed Berry Cobbler"
+    abv: "6.5% ABV"
     brewery: "Drekker Brewing Company"
     description: >
-      'Cherry Cheesecake Slang Du Jour is loaded up with a whole pile of cherries, granola, cream cheese, lactose, and brown sugar for a flavor to match the big boss of the dessert world!'
+      'Say hello to Slang du Jour: Mixed Berry Cobbler—the beer version of your grandma’s sweetest kitchen rendering (if your grandma was a punk rock fruit wizard with a PhD in flavor explosions). We blasted this beaut with strawberry, blackberry, raspberry, blueberry and plum, then dusted it with cinnamon and granola like a cozy blanket made of desserty dreams. It’s thicc, it’s jammy, it’s baked-but-chuggable chaos. Warning: may cause dessert-based euphoria and a sudden urge to call your meemaw.'
     type: "Sour - Smoothie"
   - name: "Smoked Pineapple Dream"
     abv: "4.2% ABV"
@@ -299,6 +293,12 @@ taps:
     description: >
       'A refreshing Citrus Ale brimming with sweet tropical citrus notes that are perfect for warm afternoons. Aromas of bright citrus bring a vibrant pop to this summertime ale.'
     type: "Belgian Blonde"
+  - name: "Swirlee - Strawberry Creamsicle"
+    abv: "6.5% ABV"
+    brewery: "Drekker Brewing Company"
+    description: >
+      'Swirlee is a creamsicle sour series that is far beyond your wildest, swirliest dreams, but don’t you worry, we went out and scooped it all up for you. This one is a tasty pairing of a whole buncha strawberry and vanilla ice cream, and if you drink too many, your noggin might turn into an ice cream cone so enjoy responsibly!'
+    type: "Sour - Fruited"
   - name: "Tiny Esses"
     abv: "5.9% ABV"
     brewery: "Prairie Artisan Ales"
