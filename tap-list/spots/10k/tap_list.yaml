@@ -1,7 +1,4 @@
 taps:
-  - name: "Apricot Hefe"
-    abv: "5.0%"
-    type: "Apricot Hefeweizen"
   - name: "B/A Natural 20"
     abv: "10.4% (10oz.)"
     type: "Bourbon B/A Choc. Vanilla Imperial Stout"
@@ -44,6 +41,9 @@ taps:
   - name: "Oatmeal Pale Ale"
     abv: "5.5%"
     type: "OPA"
+  - name: "Pop Machine"
+    abv: "5.4%"
+    type: "British Golden Ale"
   - name: "Reycito"
     abv: "5.1%"
     type: "Salted Lime Mexican Lager"
