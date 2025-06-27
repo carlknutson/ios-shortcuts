@@ -41,12 +41,6 @@ taps:
     description: >
       'The 2018 Festival of Wood and Barrel-Aged Beers (FoBAB) award-winning variant is back for its second year, this year aged 100% in Larceny wheated bourbon casks from our partners at Heaven Hill. The result is a softer flavor profile, full of caramel, vanilla, butterscotch, and toffee flavors, all while carrying the nuances of Larceny bourbon barrels.'
     type: "Wheat Beer - Wheat Wine"
-  - name: "Braaaaaaaains - Billions of Peaches"
-    abv: "6.5% ABV"
-    brewery: "Drekker Brewing Company"
-    description: >
-      'Billions of Peaches Braaaaaaaains is loaded up with three commas worth of peaches, more peaches, a few more peaches, apricot and some more apricot. Then we hit it with our double secret smoothie treatment of sea salt, lactose and vanilla beans.'
-    type: "Sour - Smoothie"
   - name: "Brewer's Reserve Bourbon Barrel Stout (2024)"
     abv: "10.5% ABV"
     brewery: "Central Waters Brewing Company"
@@ -317,3 +311,9 @@ taps:
     description: >
       'This is a dark porter that has a complex body of roasted malts and has a creamy finish with a hint of vanilla.'
     type: "Porter - American"
+  - name: "What So Proudly We PRRRT"
+    abv: "6.2% ABV"
+    brewery: "Drekker Brewing Company"
+    description: >
+      'What So Proudly We PRRRT might be the most perfect summer PRRRT we've every PRRRTed! It's loaded up with Blueberry, Raspberry, Tart Cherry, Pineapple & Lime for that delicious Rocket Pop flavor that just can't be beat on a hot summer day.'
+    type: "Sour - Fruited"
