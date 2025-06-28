@@ -89,12 +89,6 @@ taps:
     description: >
       'A New England-style Pale Ale brewed and dry hopped with loads of Citra hops to create flavors of grapefruit, passionfruit, lychee, and orange zest.'
     type: "Pale Ale - New England"
-  - name: "Ewald the Golden"
-    abv: "5.2% ABV"
-    brewery: "Utepils Brewing Co."
-    description: >
-      '2019 Best of Show - MN Craft Brewers Guild Brewers Cup AwardsA heavenly Hefeweizen created by our head brewer. With a hazy golden hue and aromas of banana and clove, this Bavarian style brew pairs pale wheat with malted barley and finishes with a bubbly foam halo.'
-    type: "Wheat Beer - Hefeweizen"
   - name: "Fractured Prism"
     abv: "8.5% ABV"
     brewery: "Elm Creek Brewing Co."
@@ -251,6 +245,18 @@ taps:
     description: >
       'Crafted in humble tribute to the mosaic artist Sosus of Pergamon. We've showcased the Mosaic hop so you can experience the flavors of pineapple and tropical fruit for which the Mosaic hop is known.'
     type: "IPA - Imperial"
+  - name: "Strawberry Double Marbles"
+    abv: "8% ABV"
+    brewery: "More Brewing Company"
+    description: >
+      'The beefier sibling to Strawberry Marbles, this Milkshake-style Double IPA is brewed with Mosaic hops, milk sugar, vanilla, & a whole lotta strawberry.'
+    type: "IPA - Imperial"
+  - name: "Strawberry Whip"
+    abv: "5.4% ABV"
+    brewery: "HeadFlyer Brewing"
+    description: >
+      'This fruited pale features strawberry puree, milk sugar, and Belma hops. The balance of sweet and fruit make this a refreshing patio beer!'
+    type: "Pale Ale - American"
   - name: "Strawberry-infused Shortpants"
     abv: "N/A"
     brewery: "Bauhaus Brew Labs"
