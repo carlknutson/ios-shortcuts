@@ -125,6 +125,12 @@ taps:
     description: >
       'Well, Well, Well, If it isn’t everyone’s favorite way to judge their self worth… Brewed with our Buds at Yakima Chief Hops & NZ Hops with some lots of Experimental HBC 602 from Yakima in Washington & Nectaron from New Zealand that are really checking all the boxes. Yeah, it looks, tastes & smells amazing… But what do the numbers say?'
     type: "IPA - Imperial"
+  - name: "Labatt Blue"
+    abv: "5% ABV"
+    brewery: "Labatt Brewing Company"
+    description: >
+      'Labatt Blue is the best-selling Canadian beer in the world. Introduced in 1951 as Labatt Pilsener, it was named for the colour of its label by fans of the Winnipeg Blue Bombers football team. Blue was the first brand in Canada with a twist-off cap and won the silver medal in the International Lager category at the 1998 Brewing Industry International Awards. Labatt Blue, brewed using specially selected aromatic hops, is a well-balanced, fully matured, full-flavoured beer with a fruity character and a slightly sweet aftertaste.'
+    type: "Pilsner - Other"
   - name: "Lemon Tea-Up"
     abv: "6% ABV"
     brewery: "Penrose Brewing Company"
@@ -149,24 +155,12 @@ taps:
     description: >
       'Brewer's Cut Blended Imperial Stout aged in Premier Bourbon Barrels with Jamaica Blue Mountain Coffee from Jaunt Coffee Roasters'
     type: "Stout - Russian Imperial"
-  - name: "Mister Surly's Orange Whip"
-    abv: "5.5% ABV"
-    brewery: "Surly Brewing Company"
-    description: >
-      'Mister Surly's Orange Whip Cream Ale is coming to your neighborhood. A dreamy concoction of vanilla, blood orange, hops, and malt, Mister Surly's Orange Whip is sweet, citrusy, and balanced. Treat yourself.'
-    type: "Cream Ale"
   - name: "Mornin’ Delight (2023)"
     abv: "10.8% ABV"
     brewery: "Toppling Goliath Brewing Co."
     description: >
       'A huge imperial stout with an explosive espresso aroma followed by strong notes of maple syrup and coffee.'
     type: "Stout - Imperial"
-  - name: "Nano Pomegranate Blueberry Shandy"
-    abv: "5% ABV"
-    brewery: "Mankato Brewery"
-    description: >
-      'Sweet, tart shandy perfect for a sunny day!'
-    type: "Shandy"
   - name: "Orange Ave. Wit"
     abv: "5.2% ABV"
     brewery: "Coronado Brewing Company"
@@ -257,12 +251,6 @@ taps:
     description: >
       'Crafted in humble tribute to the mosaic artist Sosus of Pergamon. We've showcased the Mosaic hop so you can experience the flavors of pineapple and tropical fruit for which the Mosaic hop is known.'
     type: "IPA - Imperial"
-  - name: "Strawberry Pickle Beer"
-    abv: "4% ABV"
-    brewery: "Oliphant Brewing"
-    description: >
-      'Brined Lager juiced with strawberry!'
-    type: "Lager - Other"
   - name: "Strawberry-infused Shortpants"
     abv: "N/A"
     brewery: "Bauhaus Brew Labs"
