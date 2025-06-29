@@ -149,6 +149,12 @@ taps:
     description: >
       'Brewer's Cut Blended Imperial Stout aged in Premier Bourbon Barrels with Jamaica Blue Mountain Coffee from Jaunt Coffee Roasters'
     type: "Stout - Russian Imperial"
+  - name: "Moosehead Canadian Lager"
+    abv: "5% ABV"
+    brewery: "Moosehead Breweries Limited"
+    description: >
+      'Moosehead Breweries’ flagship brand is a golden lager that is light in body and highly refreshing, offering a fine balance between malt sweetness and hop bitterness.  Made from an age-old yeast culture, Moosehead Lager is brewed longer to impart its unique flavor.'
+    type: "Lager - American"
   - name: "Mornin’ Delight (2023)"
     abv: "10.8% ABV"
     brewery: "Toppling Goliath Brewing Co."
