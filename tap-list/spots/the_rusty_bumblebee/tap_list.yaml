@@ -125,11 +125,11 @@ taps:
     description: >
       'Labatt Blue is the best-selling Canadian beer in the world. Introduced in 1951 as Labatt Pilsener, it was named for the colour of its label by fans of the Winnipeg Blue Bombers football team. Blue was the first brand in Canada with a twist-off cap and won the silver medal in the International Lager category at the 1998 Brewing Industry International Awards. Labatt Blue, brewed using specially selected aromatic hops, is a well-balanced, fully matured, full-flavoured beer with a fruity character and a slightly sweet aftertaste.'
     type: "Pilsner - Other"
-  - name: "Lemon Tea-Up"
+  - name: "Lemon Seltz-Up"
     abv: "6% ABV"
     brewery: "Penrose Brewing Company"
     description: >
-      'Next in the series of the sought after, Lemon Seltz-Up, Lemon Tea-Up arrives and brings a whole new idea to Craft Seltzers. This delicious hard seltzer with lemons and steeped in tea is the perfect addition to your day with it’s super refreshing flavor. Lemon Tea-Up is made for the golf cart cup holder or the 19th hole.'
+      'We created our unique twist on a lemon shake-up with a house made hard seltzer and pureed lemons for a throwback to warm weather and county fairs.2023 BTI Gold Medal2023 & 2024 US Open Hard Seltzer Championship Gold Medal'
     type: "Hard Seltzer"
   - name: "Mind Your Unwind"
     abv: "8.5% ABV"
@@ -221,12 +221,6 @@ taps:
     description: >
       'The ultimate session-able IPA. Brewed with a blend of Northwest hops with Citra and Mosaic at the forefront. Body of premium organic malts from US & Germany. Subtle yet complex malt profile.'
     type: "Non-Alcoholic - IPA"
-  - name: "Sangria"
-    abv: "4.7% ABV"
-    brewery: "Schell’s Brewery"
-    description: >
-      'Schell’s Sangria is refreshingly sweet and full of juicy citrus flavor. These tropical vibes will transport you to a new relaxation destination. So grab your can, find the nearest hammock, and enter Vacation Mode.'
-    type: "Lager - American Amber"
   - name: "Scorpius Morchella"
     abv: "7.8% ABV"
     brewery: "Toppling Goliath Brewing Co."
