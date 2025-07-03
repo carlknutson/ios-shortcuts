@@ -53,6 +53,12 @@ taps:
     description: >
       'There's nothing our favorite hefty boy loves more than a little midnight snacky snack and this CHONK is loaded up with some late-night favorites. Midnight Snack CHONK is completely stuffed with Blueberry, Boysenberry, Plum, Thunder Coffee, lactose and actual Chocolate Soft Serve Ice Cream. It's midnight… no one's watching… treat yourself!'
     type: "Sour - Smoothie"
+  - name: "Cherry Pickle Beer"
+    abv: "5% ABV"
+    brewery: "Oliphant Brewing"
+    description: >
+      'Brined Lager juiced with Cherry!'
+    type: "Lager - Other"
   - name: "Chonees Chonees"
     abv: "5.6% ABV"
     brewery: "Oliphant Brewing"
@@ -209,18 +215,6 @@ taps:
     description: >
       'Sabro & Simcoe-hopped Double India Pale Ale'
     type: "IPA - Imperial"
-  - name: "Raspberry"
-    abv: "8% ABV"
-    brewery: "J. Bird Wines, Inc."
-    description: >
-      'N/A'
-    type: "Mead - Melomel"
-  - name: "Run Wild IPA"
-    abv: "0.5% ABV"
-    brewery: "Athletic Brewing Company"
-    description: >
-      'The ultimate session-able IPA. Brewed with a blend of Northwest hops with Citra and Mosaic at the forefront. Body of premium organic malts from US & Germany. Subtle yet complex malt profile.'
-    type: "Non-Alcoholic - IPA"
   - name: "Scorpius Morchella"
     abv: "7.8% ABV"
     brewery: "Toppling Goliath Brewing Co."
