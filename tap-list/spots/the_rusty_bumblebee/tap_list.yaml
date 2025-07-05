@@ -11,12 +11,6 @@ taps:
     description: >
       'Arnie PRRRTY is a lemonade iced tea sour and you know nothing hits the spot like a good Arnie P. This Arnie P is loaded up with lemon, lemonade mix, a little bit of apple, and iced tea so it’s hella refreshing and perfect for a warm spring day!'
     type: "Sour - Fruited"
-  - name: "Blueberry Lemon"
-    abv: "5% ABV"
-    brewery: "Elm Creek Brewing Co."
-    description: >
-      'N/A'
-    type: "Hard Seltzer"
   - name: "Bomb!"
     abv: "13% ABV"
     brewery: "Prairie Artisan Ales"
@@ -95,6 +89,12 @@ taps:
     description: >
       'A New England-style Pale Ale brewed and dry hopped with loads of Citra hops to create flavors of grapefruit, passionfruit, lychee, and orange zest.'
     type: "Pale Ale - New England"
+  - name: "Florida Seltzer Prickly Pear & Guava"
+    abv: "5% ABV"
+    brewery: "Untitled Art"
+    description: >
+      'Prickly pear and guava hard seltzer.'
+    type: "Hard Seltzer"
   - name: "Fractured Prism"
     abv: "8.5% ABV"
     brewery: "Elm Creek Brewing Co."
