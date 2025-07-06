@@ -41,6 +41,12 @@ taps:
     description: >
       'N/A'
     type: "Stout - Imperial"
+  - name: "CHONK: 'Merica Cake"
+    abv: "6.3% ABV"
+    brewery: "Drekker Brewing Company"
+    description: >
+      'OH LAWD HE COMIN AGAIN TO SAVE THE MFing DAY YEAH! Our favorite hefty boi is back and livin his best summer life. This Chonk is inspired by the best part of summer picnics - the dessert table. ‘Merica Cake Chonk is fruited with strawberries, blueberries, banana, and then loaded up with cake batter, vanilla beans, and lactose for that star-spangled decadence.'
+    type: "Sour - Smoothie"
   - name: "CHONK: Midnight Snack"
     abv: "6.4% ABV"
     brewery: "Drekker Brewing Company"
@@ -95,6 +101,12 @@ taps:
     description: >
       'Prickly pear and guava hard seltzer.'
     type: "Hard Seltzer"
+  - name: "Fluff Stuff - Lemon Lime"
+    abv: "6% ABV"
+    brewery: "Drekker Brewing Company"
+    description: >
+      'Fluff Stuff leans in hard on the tried and true crazy delicious combination of fruit and marshmallows and gives us a home for all the fluffy beers we want to make. So this Fluff Stuff is - you guessed it - STUFFED with lemon, lime and sweet & fluffy marshmallows for a perfect flavor combo we can’t wait for you guys to try!'
+    type: "Sour - Fruited"
   - name: "Fractured Prism"
     abv: "8.5% ABV"
     brewery: "Elm Creek Brewing Co."
@@ -173,12 +185,6 @@ taps:
     description: >
       'A coastal classic since '96, Orange Ave. Wit is a refreshing, light-bodied wheat beer bolstered by orange zest, coriander, and orange blossom honey. This award-winner is loaded with sunny citrus and a slight hint of sweet honey on the finish. While trendy styles come and go, this California original stays true to its Coronado Island roots.'
     type: "Wheat Beer - Witbier"
-  - name: "PRRRTs These Days"
-    abv: "6.8% ABV"
-    brewery: "Drekker Brewing Company"
-    description: >
-      'A sour brewed with more Sour Patch Kids® than we'd ever seen before. We've also added lemon, lime, orange, raspberry, pink guava, and sea salt for a flavor that'll take you way, way back to that time a few days ago when you ate a huge pile of Sour Patch Kids®.... or was that just us?⁣'
-    type: "Sour - Smoothie"
   - name: "Pacific Pineapple"
     abv: "5% ABV"
     brewery: "2 Towns Ciderhouse"
@@ -269,12 +275,6 @@ taps:
     description: >
       'A refreshing Citrus Ale brimming with sweet tropical citrus notes that are perfect for warm afternoons. Aromas of bright citrus bring a vibrant pop to this summertime ale.'
     type: "Belgian Blonde"
-  - name: "Swirlee - Strawberry Creamsicle"
-    abv: "6.5% ABV"
-    brewery: "Drekker Brewing Company"
-    description: >
-      'Swirlee is a creamsicle sour series that is far beyond your wildest, swirliest dreams, but don’t you worry, we went out and scooped it all up for you. This one is a tasty pairing of a whole buncha strawberry and vanilla ice cream, and if you drink too many, your noggin might turn into an ice cream cone so enjoy responsibly!'
-    type: "Sour - Fruited"
   - name: "THUNDER LIZARD"
     abv: "7.2% ABV"
     brewery: "BlackStack Brewing"
