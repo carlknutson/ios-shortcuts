@@ -41,6 +41,12 @@ taps:
     description: >
       'N/A'
     type: "Stout - Imperial"
+  - name: "Bughouse Square"
+    abv: "7.5% ABV"
+    brewery: "Hop Butcher For The World"
+    description: >
+      'Citra, Mosaic, Simcoe and Nelson Sauvin-hopped Double India Pale Ale'
+    type: "IPA - Imperial"
   - name: "CHONK: 'Merica Cake"
     abv: "6.3% ABV"
     brewery: "Drekker Brewing Company"
@@ -233,12 +239,6 @@ taps:
     description: >
       'Brewed in collaboration with Smokey's Pub N' Grill for their 11th anniversary. Smoked Pineapple Dream - Cream Ale has the perfect balance flavors. You will get notes of pineapple up front, with a touch of smoke on the back end, with a nice smooth finish. Over 100lbs of grains were smoked in Smokey's bbq pit for this beer.'
     type: "Cream Ale"
-  - name: "Sosus"
-    abv: "8.2% ABV"
-    brewery: "Toppling Goliath Brewing Co."
-    description: >
-      'Crafted in humble tribute to the mosaic artist Sosus of Pergamon. We've showcased the Mosaic hop so you can experience the flavors of pineapple and tropical fruit for which the Mosaic hop is known.'
-    type: "IPA - Imperial"
   - name: "Strawberry Double Marbles"
     abv: "8% ABV"
     brewery: "More Brewing Company"
