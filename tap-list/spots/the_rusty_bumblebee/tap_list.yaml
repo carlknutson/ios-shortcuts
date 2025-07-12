@@ -5,6 +5,18 @@ taps:
     description: >
       'Lots of vanilla, wintergreen, and other delicious roots along with real sucrose makes it the best root beer ever'
     type: "Root Beer"
+  - name: "All Day IPA"
+    abv: "4.7% ABV"
+    brewery: "Founders Brewing Co."
+    description: >
+      'Satisfies your tastes while keeping your senses sharp. Brewed with a complex array of ingredients. Balanced for optimal aromatics and a clean finish.'
+    type: "IPA - Session"
+  - name: "Apricot Wheat Ale"
+    abv: "4.5% ABV"
+    brewery: "Lake Monster Brewing"
+    description: >
+      'A simple german wheat ale with medium body and clean finish. Balanced fruit flavor and floral aroma are provided by using real apricots and a touch of Cashmere hops.'
+    type: "Wheat Beer - Fruited"
   - name: "Arnie PRRRTY"
     abv: "5.9% ABV"
     brewery: "Drekker Brewing Company"
@@ -35,12 +47,6 @@ taps:
     description: >
       'The 2018 Festival of Wood and Barrel-Aged Beers (FoBAB) award-winning variant is back for its second year, this year aged 100% in Larceny wheated bourbon casks from our partners at Heaven Hill. The result is a softer flavor profile, full of caramel, vanilla, butterscotch, and toffee flavors, all while carrying the nuances of Larceny bourbon barrels.'
     type: "Wheat Beer - Wheat Wine"
-  - name: "Brewer's Reserve Bourbon Barrel Stout (2024)"
-    abv: "10.5% ABV"
-    brewery: "Central Waters Brewing Company"
-    description: >
-      'N/A'
-    type: "Stout - Imperial"
   - name: "Bughouse Square"
     abv: "7.5% ABV"
     brewery: "Hop Butcher For The World"
@@ -71,12 +77,6 @@ taps:
     description: >
       'Chocolate, Peanut Butter, and Honey Golden Ale with Lactose'
     type: "Blonde"
-  - name: "Coconut Medianoche (2025)"
-    abv: "12.6% ABV"
-    brewery: "WeldWerks Brewing Co."
-    description: >
-      '2025 Coconut Medianoche is a blend of Medianoche batches aged for over 28 months in a variety of barrels, including; 11-year Dickel Bourbon barrels, 15-year Sazerac Rye Whiskey barrels, 10-year Blanton's Bourbon barrels, 10-year Buffalo Trace barrels, nine-year Stagg Jr. Bourbon barrels, seven-year Weller Bourbon barrels, and 15-year Old Fitzgerald Bourbon barrels. After weeks of meticulous blending, this imperial stout was further aged on our signature mix of toasted coconut flakes and unsweetened raw coconut chips. The result is a beer celebrated for its rich and complex flavor profile, prominently featuring freshly baked coconut macaroons, melted chocolate ganache, and an oaky bourbon warmth.'
-    type: "Stout - Imperial"
   - name: "Coors Light"
     abv: "4.2% ABV"
     brewery: "Coors Brewing Company"
@@ -89,6 +89,12 @@ taps:
     description: >
       'We're now so proud to announce this collaboration with Firestone Walker, as we brew a clear, bitter, hoppy, West Coast IPA that features a newly developed hop from the Hop Quality Group breeding program – HQG#4 – paired with Krush and Simcoe. We're honored to share the label with Firestone Walker and excited to share this West Coast IPA with you. HOPS: HQG#4, Krush, Simcoe'
     type: "IPA - American"
+  - name: "Darkness (2024) Barrel-Aged"
+    abv: "12% ABV"
+    brewery: "Surly Brewing Company"
+    description: >
+      'Darkness is a beer of fable and legend. Malty and intense, yet velvety smooth. This special edition of our massive Russian imperial stout matured in Elijah Craig 10 and 12-year bourbon barrels and features waves of chocolate, vanilla, dried fruit, and cherry flavors, enhanced by the oaky spice of the barrel and its previous occupant.Art by 2023 Darkness Artist Justin Boehne.'
+    type: "Stout - Russian Imperial"
   - name: "Double Dry Hop Pseudo Sue"
     abv: "5.8% ABV"
     brewery: "Toppling Goliath Brewing Co."
@@ -119,12 +125,6 @@ taps:
     description: >
       'N/A'
     type: "IPA - Imperial"
-  - name: "Guava Passion Fruit"
-    abv: "5% ABV"
-    brewery: "Downeast Cider House"
-    description: >
-      'Tart and tangy passion fruit balances perfectly with sweet and mild guava to create the tropical cider dreams are made of. We really like this one. you will too. (trust us, or don't, and get some to try for yourself).'
-    type: "Cider - Other Fruit"
   - name: "Hard Root Beer"
     abv: "5% ABV"
     brewery: "Invictus Brewing"
@@ -173,12 +173,6 @@ taps:
     description: >
       'Moosehead Breweries’ flagship brand is a golden lager that is light in body and highly refreshing, offering a fine balance between malt sweetness and hop bitterness.  Made from an age-old yeast culture, Moosehead Lager is brewed longer to impart its unique flavor.'
     type: "Lager - American"
-  - name: "Mornin’ Delight (2023)"
-    abv: "10.8% ABV"
-    brewery: "Toppling Goliath Brewing Co."
-    description: >
-      'A huge imperial stout with an explosive espresso aroma followed by strong notes of maple syrup and coffee.'
-    type: "Stout - Imperial"
   - name: "Orange Ave. Wit"
     abv: "5.2% ABV"
     brewery: "Coronado Brewing Company"
@@ -215,12 +209,12 @@ taps:
     description: >
       'Like liberating a pistachio nut from its shell, our pistachio cream ale is supremely satisfying.  Spritzy and crisp, smooth and slightly nutty, this beer is a delightful mixed bag.  Pry one loose and pop the top.'
     type: "Cream Ale"
-  - name: "Preserved In Three Dimensions"
-    abv: "7.5% ABV"
-    brewery: "Hop Butcher For The World"
+  - name: "Run Wild IPA"
+    abv: "0.5% ABV"
+    brewery: "Athletic Brewing Company"
     description: >
-      'Sabro & Simcoe-hopped Double India Pale Ale'
-    type: "IPA - Imperial"
+      'The ultimate session-able IPA. Brewed with a blend of Northwest hops with Citra and Mosaic at the forefront. Body of premium organic malts from US & Germany. Subtle yet complex malt profile.'
+    type: "Non-Alcoholic - IPA"
   - name: "Scorpius Morchella"
     abv: "7.8% ABV"
     brewery: "Toppling Goliath Brewing Co."
