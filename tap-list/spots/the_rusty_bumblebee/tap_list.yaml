@@ -11,6 +11,12 @@ taps:
     description: >
       'Satisfies your tastes while keeping your senses sharp. Brewed with a complex array of ingredients. Balanced for optimal aromatics and a clean finish.'
     type: "IPA - Session"
+  - name: "Apple Mead"
+    abv: "8% ABV"
+    brewery: "J. Bird Wines, Inc."
+    description: >
+      'Apple sweet mead. Quite sweet finishes with a slight cider spice.'
+    type: "Mead - Cyser"
   - name: "Apricot Wheat Ale"
     abv: "4.5% ABV"
     brewery: "Lake Monster Brewing"
@@ -137,6 +143,12 @@ taps:
     description: >
       'N/A'
     type: "Root Beer"
+  - name: "Honey Rhubarb Mead"
+    abv: "8% ABV"
+    brewery: "J. Bird Wines, Inc."
+    description: >
+      'N/A'
+    type: "Mead - Melomel"
   - name: "Juicy Tiles"
     abv: "8.4% ABV"
     brewery: "WeldWerks Brewing Co."
@@ -197,12 +209,6 @@ taps:
     description: >
       'Peach Berliner Weisse is a German-style tart wheat beer that’s perfect for the hot summer months. Using only the best Missouri peaches, weturned an easily overdone style into a refreshing and light bodied summer beer.'
     type: "Sour - Fruited Berliner Weisse"
-  - name: "Pineapple Mead"
-    abv: "8% ABV"
-    brewery: "J. Bird Wines, Inc."
-    description: >
-      'Mead made with pineapples'
-    type: "Mead - Traditional"
   - name: "Pineapple Papaya Fandango"
     abv: "5.1% ABV"
     brewery: "Toppling Goliath Brewing Co."
