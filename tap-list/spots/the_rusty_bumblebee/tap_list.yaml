@@ -137,6 +137,12 @@ taps:
     description: >
       'N/A'
     type: "IPA - Imperial"
+  - name: "Furious"
+    abv: "6.7% ABV"
+    brewery: "Surly Brewing Company"
+    description: >
+      'The beer that built Surly. Aggressively hopped and citrusy, but with a chewy, caramel malt backbone.'
+    type: "IPA - American"
   - name: "Hard Root Beer"
     abv: "5% ABV"
     brewery: "Invictus Brewing"
