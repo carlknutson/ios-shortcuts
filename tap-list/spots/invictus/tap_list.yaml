@@ -62,6 +62,3 @@ taps:
   - name: "Ruby Punch Jinx Tea                            Non_alcoholic"
     abv: ""
     type: "Non_alcoholic"
-  - name: "Troy"
-    abv: "6.1%"
-    type: "IPA - American"
