@@ -29,6 +29,12 @@ taps:
     description: >
       'Arnie PRRRTY is a lemonade iced tea sour and you know nothing hits the spot like a good Arnie P. This Arnie P is loaded up with lemon, lemonade mix, a little bit of apple, and iced tea so it’s hella refreshing and perfect for a warm spring day!'
     type: "Sour - Fruited"
+  - name: "Boardwalk Pink Lemonade"
+    abv: "5% ABV"
+    brewery: "Downeast Cider House"
+    description: >
+      'N/A'
+    type: "Flavored Malt Beverage"
   - name: "Bomb!"
     abv: "13% ABV"
     brewery: "Prairie Artisan Ales"
@@ -113,12 +119,12 @@ taps:
     description: >
       'This double dry hopped pale ale showcases the Citra hop for a well balanced beer that is delicate in body with a mild bitterness in the finish. Ferocious aromas of citrus and mango give a refreshing taste that is bright with just enough bite!'
     type: "Pale Ale - New England"
-  - name: "Dusty"
-    abv: "6% ABV"
-    brewery: "More Brewing Company"
+  - name: "Espresso Martini Stout"
+    abv: "12% ABV"
+    brewery: "Boulevard Brewing Co."
     description: >
-      'A New England-style Pale Ale brewed and dry hopped with loads of Citra hops to create flavors of grapefruit, passionfruit, lychee, and orange zest.'
-    type: "Pale Ale - New England"
+      'The original recipe for this decadent nightcap was a simple affair - vodka, espresso, and coffee liqueur, developed in the 1980s. We've taken a brewers spin on this classic cocktail by steeping soft, but rich, wheated imperial milk stout for 5 days on whole coffee beans, dry-hopping course ground Ethiopian espresso provided by our friends and roasters at Oddly Correct. The result is a smooth coffee-forward delectably full-bodied elegant way to end the perfect evening. Malt:  Pale, Weyerman Carafe iii, Weyerman Chocolate, Simpsons Light Crystal + Dark, Roasted Barley, Oats, WheatHops: MagnumAdjunctsLactoseEthiopian Espresso - Oddly Correct'
+    type: "Stout - Imperial"
   - name: "Florida Seltzer Prickly Pear & Guava"
     abv: "5% ABV"
     brewery: "Untitled Art"
@@ -227,6 +233,12 @@ taps:
     description: >
       'Like liberating a pistachio nut from its shell, our pistachio cream ale is supremely satisfying.  Spritzy and crisp, smooth and slightly nutty, this beer is a delightful mixed bag.  Pry one loose and pop the top.'
     type: "Cream Ale"
+  - name: "Plot Twist Vienna Lager With Lime"
+    abv: "5.3% ABV"
+    brewery: "Utepils Brewing Co."
+    description: >
+      'Emagine Theater and Utepils Brewing Collab! Plot Twist comes to you with a few stamps on its passport — via Mexico, by way of Germany. In the late 1800s, German immigrants to Mexicobrought their beer recipes from back home, including the classic Vienna Lager. Somewhere along the line, a bit of lime was added to the mix, because heck, why not? The result is full-bodied and smooth, with just atouch of tartness on the tip of the tongue.'
+    type: "Lager - Vienna"
   - name: "Run Wild IPA"
     abv: "0.5% ABV"
     brewery: "Athletic Brewing Company"
@@ -262,12 +274,6 @@ taps:
     brewery: "Bauhaus Brew Labs"
     description: >
       'N/A'
-    type: "Shandy"
-  - name: "Summer Shandy"
-    abv: "4.2% ABV"
-    brewery: "Jacob Leinenkugel Brewing Company"
-    description: >
-      'Our own unique take on Franz Kugler’s original Munich tavern tradition. Leinenkugel’s® Summer Shandy® is our traditional weiss beer with refreshing natural lemonade flavor that makes it the perfect summer beer.In 2012, Summer Shandy won a Silver medal at the Great American Beer Festival® in the Fruit Wheat Beer category.'
     type: "Shandy"
   - name: "Summer Sue"
     abv: "5.2% ABV"
