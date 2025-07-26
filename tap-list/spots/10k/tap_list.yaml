@@ -1,7 +1,4 @@
 taps:
-  - name: "Apricot Hefe"
-    abv: "5%"
-    type: "Apricot Hefeweizen"
   - name: "Big Ox Seltzer: Ginger Lime"
     abv: "5.4%"
     type: "Ginger Lime Seltzer"
