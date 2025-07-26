@@ -29,6 +29,12 @@ taps:
     description: >
       'Arnie PRRRTY is a lemonade iced tea sour and you know nothing hits the spot like a good Arnie P. This Arnie P is loaded up with lemon, lemonade mix, a little bit of apple, and iced tea so it’s hella refreshing and perfect for a warm spring day!'
     type: "Sour - Fruited"
+  - name: "Black Gold"
+    abv: "5.5% ABV"
+    brewery: "Bauhaus Brew Labs"
+    description: >
+      'Black Gold is a new collaboration between Bauhaus Brew Labs and Pizza Luce that aims to solve this age-old problem by creating an entirely new beer style — the Black Cream Ale. By combining the crisp, easy-drinking body of a classic Cream Ale recipe with the jet-black color and subtle roastiness of a Stout or Porter, we’ve uncovered the ultimate beverage for having your pie and eating it too. Available now through the end of the year exclusively at every Pizza Luce location!'
+    type: "Cream Ale"
   - name: "Boardwalk Pink Lemonade"
     abv: "5% ABV"
     brewery: "Downeast Cider House"
@@ -155,6 +161,12 @@ taps:
     description: >
       'N/A'
     type: "Root Beer"
+  - name: "Honey Blonde Ale"
+    abv: "4.5% ABV"
+    brewery: "Central Waters Brewing Company"
+    description: >
+      'Made using real Wisconsin honey, our Honey Blonde is a traditional cream ale featuring a breezy floral bouquet, subtle sweetness, and crisp, clean finish. When you're feeling like something a bit more refreshing, this little number is sure to please.'
+    type: "Cream Ale"
   - name: "Honey Rhubarb Mead"
     abv: "8% ABV"
     brewery: "J. Bird Wines, Inc."
