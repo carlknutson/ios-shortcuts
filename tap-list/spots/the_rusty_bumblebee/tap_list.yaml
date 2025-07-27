@@ -185,6 +185,12 @@ taps:
     description: >
       'Well, Well, Well, If it isn’t everyone’s favorite way to judge their self worth… Brewed with our Buds at Yakima Chief Hops & NZ Hops with some lots of Experimental HBC 602 from Yakima in Washington & Nectaron from New Zealand that are really checking all the boxes. Yeah, it looks, tastes & smells amazing… But what do the numbers say?'
     type: "IPA - Imperial"
+  - name: "King Sue"
+    abv: "7.8% ABV"
+    brewery: "Toppling Goliath Brewing Co."
+    description: >
+      'Full-bodied, hazy double IPA Citra-hopped for a juicy combination of mango, orange, and pineapple flavors. Finishes with a grapefruit aroma and ferocious bite.'
+    type: "IPA - Imperial"
   - name: "Lemon Seltz-Up"
     abv: "6% ABV"
     brewery: "Penrose Brewing Company"
