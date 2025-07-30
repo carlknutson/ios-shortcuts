@@ -71,6 +71,12 @@ taps:
     description: >
       'This Braaaaaaaains Double Fruit Smoothie Sour was blasted with blackberry & lime then we hit it with our double secret smoothie treatment of sea salt, lactose, and vanilla beans.'
     type: "Sour - Smoothie"
+  - name: "Braaaaaaaains - Citrus Twist"
+    abv: "6.5% ABV"
+    brewery: "Drekker Brewing Company"
+    description: >
+      'Citrus Twist Braaaaaaaains is stuffed and then stuffed again with lemon, lime, orange, pear, and apple, and then we hit it with our super secret smoothie treatment of sea salt, lactose, and vanilla. As you might imagine after reading that list, it’s absolutely fuggin delicious and we think you’re gonna love it as much as we do!'
+    type: "Sour - Smoothie"
   - name: "Bughouse Square"
     abv: "7.5% ABV"
     brewery: "Hop Butcher For The World"
@@ -137,12 +143,6 @@ taps:
     description: >
       'Prickly pear and guava hard seltzer.'
     type: "Hard Seltzer"
-  - name: "Fluff Stuff - Lemon Lime"
-    abv: "6% ABV"
-    brewery: "Drekker Brewing Company"
-    description: >
-      'Fluff Stuff leans in hard on the tried and true crazy delicious combination of fruit and marshmallows and gives us a home for all the fluffy beers we want to make. So this Fluff Stuff is - you guessed it - STUFFED with lemon, lime and sweet & fluffy marshmallows for a perfect flavor combo we can’t wait for you guys to try!'
-    type: "Sour - Fruited"
   - name: "Fractured Prism"
     abv: "8.5% ABV"
     brewery: "Elm Creek Brewing Co."
