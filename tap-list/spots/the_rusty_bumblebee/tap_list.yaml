@@ -155,6 +155,12 @@ taps:
     description: >
       'The beer that built Surly. Aggressively hopped and citrusy, but with a chewy, caramel malt backbone.'
     type: "IPA - American"
+  - name: "German Chocolate Cake - X-tra Special Delivery"
+    abv: "8.8% ABV"
+    brewery: "The Brewing Projekt"
+    description: >
+      'Stout brewed with Chocolate, Coconut, and Vanilla'
+    type: "Stout - Pastry"
   - name: "Hard Root Beer"
     abv: "5% ABV"
     brewery: "Invictus Brewing"
