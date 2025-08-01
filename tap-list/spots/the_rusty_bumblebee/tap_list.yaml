@@ -269,12 +269,6 @@ taps:
     description: >
       'Brewed in collaboration with Smokey's Pub N' Grill for their 11th anniversary. Smoked Pineapple Dream - Cream Ale has the perfect balance flavors. You will get notes of pineapple up front, with a touch of smoke on the back end, with a nice smooth finish. Over 100lbs of grains were smoked in Smokey's bbq pit for this beer.'
     type: "Cream Ale"
-  - name: "Strawberry Double Marbles"
-    abv: "8% ABV"
-    brewery: "More Brewing Company"
-    description: >
-      'The beefier sibling to Strawberry Marbles, this Milkshake-style Double IPA is brewed with Mosaic hops, milk sugar, vanilla, & a whole lotta strawberry.'
-    type: "IPA - Imperial"
   - name: "Strawberry Whip"
     abv: "5.4% ABV"
     brewery: "HeadFlyer Brewing"
