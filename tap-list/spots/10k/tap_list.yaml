@@ -1,4 +1,7 @@
 taps:
+  - name: "2 Huell 4 Skool"
+    abv: "5.9%"
+    type: "Pale Ale"
   - name: "Big Ox Seltzer: Ginger Lime"
     abv: "5.4%"
     type: "Ginger Lime Seltzer"
@@ -47,6 +50,9 @@ taps:
   - name: "Triple 777"
     abv: "10% (13oz)"
     type: "Triple IPA"
+  - name: "White Knuckle Lager"
+    abv: "4.6%"
+    type: "American Lager"
   - name: "Wort Drive"
     abv: "7.4% (13oz)"
     type: "American Amber IPA"
