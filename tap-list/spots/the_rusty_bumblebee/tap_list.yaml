@@ -89,12 +89,6 @@ taps:
     description: >
       'Monkey Business Braaaaaaaains is stuffed with banana, lime, and tart cherry and then we hit it with our double secret smoothie treatment of sea salt, lactose, and vanilla for a super delicious flavor we just know you’re gonna love!'
     type: "Sour - Smoothie"
-  - name: "Bughouse Square"
-    abv: "7.5% ABV"
-    brewery: "Hop Butcher For The World"
-    description: >
-      'Citra, Mosaic, Simcoe and Nelson Sauvin-hopped Double India Pale Ale'
-    type: "IPA - Imperial"
   - name: "CHONK: 'Merica Cake"
     abv: "6.3% ABV"
     brewery: "Drekker Brewing Company"
@@ -131,12 +125,6 @@ taps:
     description: >
       'Darkness is a beer of fable and legend. Malty and intense, yet velvety smooth. This special edition of our massive Russian imperial stout matured in Elijah Craig 10 and 12-year bourbon barrels and features waves of chocolate, vanilla, dried fruit, and cherry flavors, enhanced by the oaky spice of the barrel and its previous occupant.Art by 2023 Darkness Artist Justin Boehne.'
     type: "Stout - Russian Imperial"
-  - name: "Double Dry Hop Pseudo Sue"
-    abv: "5.8% ABV"
-    brewery: "Toppling Goliath Brewing Co."
-    description: >
-      'This double dry hopped pale ale showcases the Citra hop for a well balanced beer that is delicate in body with a mild bitterness in the finish. Ferocious aromas of citrus and mango give a refreshing taste that is bright with just enough bite!'
-    type: "Pale Ale - New England"
   - name: "Espresso Martini Stout"
     abv: "12% ABV"
     brewery: "Boulevard Brewing Co."
@@ -161,6 +149,12 @@ taps:
     description: >
       'Stout brewed with Chocolate, Coconut, and Vanilla'
     type: "Stout - Pastry"
+  - name: "Golf Beer"
+    abv: "5.5% ABV"
+    brewery: "Venn Brewing Company"
+    description: >
+      'American Wheat with Black Tea & Lemon, fka Arnie Palmer Wheat'
+    type: "Wheat Beer - American Pale Wheat"
   - name: "Hard Root Beer"
     abv: "5% ABV"
     brewery: "Invictus Brewing"
@@ -221,12 +215,12 @@ taps:
     description: >
       'Brewer's Cut Blended Imperial Stout aged in Premier Bourbon Barrels with Jamaica Blue Mountain Coffee from Jaunt Coffee Roasters'
     type: "Stout - Russian Imperial"
-  - name: "Orange Ave. Wit"
-    abv: "5.2% ABV"
-    brewery: "Coronado Brewing Company"
+  - name: "Northodox IPA"
+    abv: "6.5% ABV"
+    brewery: "Venn Brewing Company"
     description: >
-      'A coastal classic since '96, Orange Ave. Wit is a refreshing, light-bodied wheat beer bolstered by orange zest, coriander, and orange blossom honey. This award-winner is loaded with sunny citrus and a slight hint of sweet honey on the finish. While trendy styles come and go, this California original stays true to its Coronado Island roots.'
-    type: "Wheat Beer - Witbier"
+      'House Hazy IPA with Citra, Simcoe, & Mosaic Hops'
+    type: "IPA - New England"
   - name: "Peach Berliner Weisse"
     abv: "4.2% ABV"
     brewery: "Perennial Artisan Ales"
