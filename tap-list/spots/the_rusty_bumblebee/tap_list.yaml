@@ -65,12 +65,6 @@ taps:
     description: >
       'The 2018 Festival of Wood and Barrel-Aged Beers (FoBAB) award-winning variant is back for its second year, this year aged 100% in Larceny wheated bourbon casks from our partners at Heaven Hill. The result is a softer flavor profile, full of caramel, vanilla, butterscotch, and toffee flavors, all while carrying the nuances of Larceny bourbon barrels.'
     type: "Wheat Beer - Wheat Wine"
-  - name: "Braaaaaaaains - Blackberry & Lime"
-    abv: "6.6% ABV"
-    brewery: "Drekker Brewing Company"
-    description: >
-      'This Braaaaaaaains Double Fruit Smoothie Sour was blasted with blackberry & lime then we hit it with our double secret smoothie treatment of sea salt, lactose, and vanilla beans.'
-    type: "Sour - Smoothie"
   - name: "Braaaaaaaains - Cherry Berry"
     abv: "6.6% ABV"
     brewery: "Drekker Brewing Company"
@@ -221,6 +215,12 @@ taps:
     description: >
       'House Hazy IPA with Citra, Simcoe, & Mosaic Hops'
     type: "IPA - New England"
+  - name: "PRRRT On the Rim"
+    abv: "6.4% ABV"
+    brewery: "Drekker Brewing Company"
+    description: >
+      'PRRRT on the Rim is our loud, limey love letter to the almighty margarita. We loaded this one up with lime, pear and apple for that bright, tangy punch and finished it off with a kiss of sea salt to make every sip sing. It’s tart, it’s fruity, it’s crushable as hell and it might have you Googling inflatable pool rentals. Just let it happen.'
+    type: "Sour - Fruited"
   - name: "Peach Berliner Weisse"
     abv: "4.2% ABV"
     brewery: "Perennial Artisan Ales"
