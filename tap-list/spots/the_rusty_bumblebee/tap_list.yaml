@@ -173,12 +173,6 @@ taps:
     description: >
       'Hazy Double India Pale Ale with Wild Flower Honey'
     type: "IPA - Imperial"
-  - name: "KPIs"
-    abv: "8.3% ABV"
-    brewery: "BlackStack Brewing"
-    description: >
-      'Well, Well, Well, If it isn’t everyone’s favorite way to judge their self worth… Brewed with our Buds at Yakima Chief Hops & NZ Hops with some lots of Experimental HBC 602 from Yakima in Washington & Nectaron from New Zealand that are really checking all the boxes. Yeah, it looks, tastes & smells amazing… But what do the numbers say?'
-    type: "IPA - Imperial"
   - name: "King Sue"
     abv: "7.8% ABV"
     brewery: "Toppling Goliath Brewing Co."
@@ -274,6 +268,12 @@ taps:
     brewery: "BlackStack Brewing"
     description: >
       'Thunder Lizard is a resounding expression of gratitude. A reverberating token of appreciation. The Science Museum of Minnesota asked us at Blackstack to make a beer to honor the outpouring of support from Thunder Lizard fans. We used Zeus hops from Minnesota’s own Mighty Axe Hops and azacca in the whirlpool. Dry hopped with falconer’s flight and Australian vic secret hops or, as we call it, the thunder from down under. All the better to thank you with.'
+    type: "IPA - New England"
+  - name: "The Land Before Time"
+    abv: "7.4% ABV"
+    brewery: "BlackStack Brewing"
+    description: >
+      'It only took us 65 million collabs with our buds at Toppling Goliath to make a beer we can drink more than one of in a single sitting. A Pseudo prequel to our Previous Prehistoric Collabs featuring Superdelic, Comet, Krush & Toppling Goliath’s Selected Mosaic. You heard that correctly… Sorry Y’all, no citra this time… So Sue us.'
     type: "IPA - New England"
   - name: "Tiny Esses"
     abv: "5.9% ABV"
