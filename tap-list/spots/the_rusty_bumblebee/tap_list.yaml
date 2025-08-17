@@ -83,6 +83,12 @@ taps:
     description: >
       'Monkey Business Braaaaaaaains is stuffed with banana, lime, and tart cherry and then we hit it with our double secret smoothie treatment of sea salt, lactose, and vanilla for a super delicious flavor we just know you’re gonna love!'
     type: "Sour - Smoothie"
+  - name: "Bughouse Square"
+    abv: "7.5% ABV"
+    brewery: "Hop Butcher For The World"
+    description: >
+      'Citra, Mosaic, Simcoe and Nelson Sauvin-hopped Double India Pale Ale'
+    type: "IPA - Imperial"
   - name: "CHONK: 'Merica Cake"
     abv: "6.3% ABV"
     brewery: "Drekker Brewing Company"
@@ -161,18 +167,6 @@ taps:
     description: >
       'Made using real Wisconsin honey, our Honey Blonde is a traditional cream ale featuring a breezy floral bouquet, subtle sweetness, and crisp, clean finish. When you're feeling like something a bit more refreshing, this little number is sure to please.'
     type: "Cream Ale"
-  - name: "Honey Rhubarb Mead"
-    abv: "8% ABV"
-    brewery: "J. Bird Wines, Inc."
-    description: >
-      'N/A'
-    type: "Mead - Melomel"
-  - name: "Juicy Tiles"
-    abv: "8.4% ABV"
-    brewery: "WeldWerks Brewing Co."
-    description: >
-      'Hazy Double India Pale Ale with Wild Flower Honey'
-    type: "IPA - Imperial"
   - name: "King Sue"
     abv: "7.8% ABV"
     brewery: "Toppling Goliath Brewing Co."
@@ -190,12 +184,6 @@ taps:
     brewery: "Toppling Goliath Brewing Co."
     description: >
       'Cast a line, sit back and relax. This collab lures you in with a delightful combination of Nelson Sauvin, Simcoe, and Krush hops. so take a sip and unwind.'
-    type: "IPA - Imperial"
-  - name: "Mindspark"
-    abv: "7.8% ABV"
-    brewery: "Phase Three Brewing"
-    description: >
-      'Bzzt bzzt! Feel the spark of hazy inspiration with this 7.8% double dry-hopped hazy double IPA. Mindspark is loaded with tasty notes of berry smoothie & tangerine in every sip. Hops: Mosaic + Cryo Mosaic'
     type: "IPA - Imperial"
   - name: "Minister of State Speedway Stout"
     abv: "14% ABV"
@@ -281,12 +269,6 @@ taps:
     description: >
       'Sour ale with Skittles'
     type: "Sour - Other"
-  - name: "Tropical Esses"
-    abv: "5% ABV"
-    brewery: "Prairie Artisan Ales"
-    description: >
-      'Pink Guava Funk with Tropical Skittles added'
-    type: "Sour - Fruited"
   - name: "Vanilla Bean Porter"
     abv: "5.8% ABV"
     brewery: "HeadFlyer Brewing"
