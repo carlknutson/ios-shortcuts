@@ -167,6 +167,12 @@ taps:
     description: >
       'Made using real Wisconsin honey, our Honey Blonde is a traditional cream ale featuring a breezy floral bouquet, subtle sweetness, and crisp, clean finish. When you're feeling like something a bit more refreshing, this little number is sure to please.'
     type: "Cream Ale"
+  - name: "Hop Waves Hazy IPA"
+    abv: "6.2% ABV"
+    brewery: "Excelsior Brewing Company"
+    description: >
+      'Hop Waves Juicy IPA is intensely hopped to provide the juicy hop flavors of tangerine, pineapple, creamsicle, ripe melon and honey. Hop Waves pours a hazy sunset gold, with a bright white, fluffy head. The clean citrusy finish makes this the perfect IPA to enjoy these tropical waves of flavor.'
+    type: "IPA - New England"
   - name: "King Sue"
     abv: "7.8% ABV"
     brewery: "Toppling Goliath Brewing Co."
@@ -191,7 +197,7 @@ taps:
     description: >
       'Brewer's Cut Blended Imperial Stout aged in Premier Bourbon Barrels with Jamaica Blue Mountain Coffee from Jaunt Coffee Roasters'
     type: "Stout - Russian Imperial"
-  - name: "Northodox IPA"
+  - name: "Northodox"
     abv: "6.5% ABV"
     brewery: "Venn Brewing Company"
     description: >
