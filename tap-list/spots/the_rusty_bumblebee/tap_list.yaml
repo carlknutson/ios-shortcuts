@@ -83,12 +83,6 @@ taps:
     description: >
       'Monkey Business Braaaaaaaains is stuffed with banana, lime, and tart cherry and then we hit it with our double secret smoothie treatment of sea salt, lactose, and vanilla for a super delicious flavor we just know you’re gonna love!'
     type: "Sour - Smoothie"
-  - name: "Bughouse Square"
-    abv: "7.5% ABV"
-    brewery: "Hop Butcher For The World"
-    description: >
-      'Citra, Mosaic, Simcoe and Nelson Sauvin-hopped Double India Pale Ale'
-    type: "IPA - Imperial"
   - name: "CHONK: 'Merica Cake"
     abv: "6.3% ABV"
     brewery: "Drekker Brewing Company"
@@ -155,6 +149,12 @@ taps:
     description: >
       'American Wheat with Black Tea & Lemon, fka Arnie Palmer Wheat'
     type: "Wheat Beer - American Pale Wheat"
+  - name: "HARVESTER OF SOUR"
+    abv: "5% ABV"
+    brewery: "Half Brothers Brewing Company"
+    description: >
+      'MALTED.BARLEY.YOU'LL SUFFER UNTO ME.HARVESTER OF SOUR!LANGUAGE OF THE BREWHARVESTER OF SOUR!THIS GÖSE IS JAM PACKED WITH MIXED FRUITS FOR A TART AND SWEET MELODY. ENJOY. DRINK UP.SHOOT IN. LET THE BEATINGS BEGINDISTRIBUTOR OF PAINYOUR LOSS BECOMES MY GAIN.... CHEERS!'
+    type: "Sour - Fruited Gose"
   - name: "Hard Root Beer"
     abv: "5% ABV"
     brewery: "Invictus Brewing"
@@ -179,12 +179,12 @@ taps:
     description: >
       'Full-bodied, hazy double IPA Citra-hopped for a juicy combination of mango, orange, and pineapple flavors. Finishes with a grapefruit aroma and ferocious bite.'
     type: "IPA - Imperial"
-  - name: "Lemon Seltz-Up"
-    abv: "6% ABV"
-    brewery: "Penrose Brewing Company"
+  - name: "Luminous Horizon"
+    abv: "8% ABV"
+    brewery: "Humble Forager Brewery"
     description: >
-      'We created our unique twist on a lemon shake-up with a house made hard seltzer and pureed lemons for a throwback to warm weather and county fairs.2023 BTI Gold Medal2023 & 2024 US Open Hard Seltzer Championship Gold Medal'
-    type: "Hard Seltzer"
+      'A blend of barley, oats and white wheat creates a beautiful base off these 2025 harvest New Zealand Nectaron hops.  Soft, smooth, and creamy, with a saturated hop presence from two separate dry-hop additions.  Hopped at 5.5 pounds per barrel.'
+    type: "IPA - Imperial"
   - name: "Mind Your Unwind"
     abv: "8.5% ABV"
     brewery: "Toppling Goliath Brewing Co."
@@ -215,6 +215,12 @@ taps:
     description: >
       'Peach Berliner Weisse is a German-style tart wheat beer that’s perfect for the hot summer months. Using only the best Missouri peaches, weturned an easily overdone style into a refreshing and light bodied summer beer.'
     type: "Sour - Fruited Berliner Weisse"
+  - name: "Pink Lemon Seltz-Up"
+    abv: "6% ABV"
+    brewery: "Penrose Brewing Company"
+    description: >
+      'Next in the series of the sought after, Lemon Seltz-Up, this delicious hard seltzer with lemon purée is the perfect addition to your day with it's super refreshing lemon tart sweetness and notes of raspberry.'
+    type: "Hard Seltzer"
   - name: "Plot Twist Vienna Lager With Lime"
     abv: "5.3% ABV"
     brewery: "Utepils Brewing Co."
@@ -269,12 +275,6 @@ taps:
     description: >
       'It only took us 65 million collabs with our buds at Toppling Goliath to make a beer we can drink more than one of in a single sitting. A Pseudo prequel to our Previous Prehistoric Collabs featuring Superdelic, Comet, Krush & Toppling Goliath’s Selected Mosaic. You heard that correctly… Sorry Y’all, no citra this time… So Sue us.'
     type: "IPA - New England"
-  - name: "Tiny Esses"
-    abv: "5.9% ABV"
-    brewery: "Prairie Artisan Ales"
-    description: >
-      'Sour ale with Skittles'
-    type: "Sour - Other"
   - name: "Vanilla Bean Porter"
     abv: "5.8% ABV"
     brewery: "HeadFlyer Brewing"
@@ -287,9 +287,3 @@ taps:
     description: >
       'N/A'
     type: "Cider - Sweet"
-  - name: "What So Proudly We PRRRT"
-    abv: "6.2% ABV"
-    brewery: "Drekker Brewing Company"
-    description: >
-      'What So Proudly We PRRRT might be the most perfect summer PRRRT we've every PRRRTed! It's loaded up with Blueberry, Raspberry, Tart Cherry, Pineapple & Lime for that delicious Rocket Pop flavor that just can't be beat on a hot summer day.'
-    type: "Sour - Fruited"
