@@ -11,12 +11,6 @@ taps:
     description: >
       'Satisfies your tastes while keeping your senses sharp. Brewed with a complex array of ingredients. Balanced for optimal aromatics and a clean finish.'
     type: "IPA - Session"
-  - name: "Apple Mead"
-    abv: "8% ABV"
-    brewery: "J. Bird Wines, Inc."
-    description: >
-      'Apple sweet mead. Quite sweet finishes with a slight cider spice.'
-    type: "Mead - Cyser"
   - name: "Apricot Wheat Ale"
     abv: "4.5% ABV"
     brewery: "Lake Monster Brewing"
@@ -35,6 +29,12 @@ taps:
     description: >
       'Black Gold is a new collaboration between Bauhaus Brew Labs and Pizza Luce that aims to solve this age-old problem by creating an entirely new beer style — the Black Cream Ale. By combining the crisp, easy-drinking body of a classic Cream Ale recipe with the jet-black color and subtle roastiness of a Stout or Porter, we’ve uncovered the ultimate beverage for having your pie and eating it too. Available now through the end of the year exclusively at every Pizza Luce location!'
     type: "Cream Ale"
+  - name: "Blueberry Mead"
+    abv: "8% ABV"
+    brewery: "J. Bird Wines, Inc."
+    description: >
+      'Mead made with blueberries'
+    type: "Mead - Melomel"
   - name: "Boardwalk Pink Lemonade"
     abv: "5% ABV"
     brewery: "Downeast Cider House"
@@ -185,6 +185,12 @@ taps:
     description: >
       'A blend of barley, oats and white wheat creates a beautiful base off these 2025 harvest New Zealand Nectaron hops.  Soft, smooth, and creamy, with a saturated hop presence from two separate dry-hop additions.  Hopped at 5.5 pounds per barrel.'
     type: "IPA - Imperial"
+  - name: "Maple Märzen"
+    abv: "5.7% ABV"
+    brewery: "Castle Danger Brewery"
+    description: >
+      'Our Maple Märzen is a great fall beer offering highlighting local products.  Märzen beers were traditionally brewed in March (März) while the weather was still cool and brewing was practical.  The beer would be lagered through the summer and served in the fall.  Fall festivals including Oktoberfest proved to be a great time to enjoy these well aged and complex beers which were also crisp and refreshing.Maple Märzen brings traditional German malts and hops and blends them with local maple syrup.  The result is a malty flavor that is rich bread-y toast with caramel notes and strong maple character.  The German Noble hops lend a subtle balancing spice to the beer but play 2’nd fiddle to the malt/maple profile.  German lager yeast helps the Märzen stay crisp and clean tasting, letting the other ingredients shine through. This traditional lager style with an added northwoods twist makes a welcome addition to a sunny but cool autumn day or any campfire.'
+    type: "Märzen"
   - name: "Mind Your Unwind"
     abv: "8.5% ABV"
     brewery: "Toppling Goliath Brewing Co."
@@ -197,6 +203,12 @@ taps:
     description: >
       'Brewer's Cut Blended Imperial Stout aged in Premier Bourbon Barrels with Jamaica Blue Mountain Coffee from Jaunt Coffee Roasters'
     type: "Stout - Russian Imperial"
+  - name: "Nefertiti"
+    abv: "8% ABV"
+    brewery: "J. Bird Wines, Inc."
+    description: >
+      'This Mead is based on a popular hibiscus, honey and lemon tea that is widely enjoyed in middle eastern countries, It pours a clear beautiful red with decent ‘legs’ on the sides of the glass, lightly tangy and mildly floral in aroma with a light fresh honey scent.'
+    type: "Mead - Other"
   - name: "Northodox"
     abv: "6.5% ABV"
     brewery: "Venn Brewing Company"
@@ -209,12 +221,6 @@ taps:
     description: >
       'PRRRT on the Rim is our loud, limey love letter to the almighty margarita. We loaded this one up with lime, pear and apple for that bright, tangy punch and finished it off with a kiss of sea salt to make every sip sing. It’s tart, it’s fruity, it’s crushable as hell and it might have you Googling inflatable pool rentals. Just let it happen.'
     type: "Sour - Fruited"
-  - name: "Peach Berliner Weisse"
-    abv: "4.2% ABV"
-    brewery: "Perennial Artisan Ales"
-    description: >
-      'Peach Berliner Weisse is a German-style tart wheat beer that’s perfect for the hot summer months. Using only the best Missouri peaches, weturned an easily overdone style into a refreshing and light bodied summer beer.'
-    type: "Sour - Fruited Berliner Weisse"
   - name: "Pink Lemon Seltz-Up"
     abv: "6% ABV"
     brewery: "Penrose Brewing Company"
