@@ -47,12 +47,6 @@ taps:
     description: >
       'Bomb! is an imperial stout aged on Spaceship Earth espresso beans, chocolate, vanilla beans, and ancho chile peppers. All the flavors meld to create a truly unique beer. The peppers add just the right amount of heat to complement the intense coffee and chocolate flavors.'
     type: "Stout - Imperial"
-  - name: "Bourbon County Brand Stout (2020) 14.6%"
-    abv: "14.6% ABV"
-    brewery: "Goose Island Beer Co."
-    description: >
-      'The Original Bourbon Barrel aged Imperial Stout. Our primary focus every year is to make this beer the best that it’s ever been, with the best ingredients, which includes the finest of bourbon whiskey barrels. This year’s Bourbon County Stout is aged in a mix of bourbon barrels from a variety of whiskey distilleries. Barrel-aged for a year to develop the complexity that only time can provide, Bourbon County Stout boasts a unique blend of flavors such as fudge, vanilla and caramel — topped off with a rich, complex mouthfeel.'
-    type: "Stout - Imperial"
   - name: "Bourbon County Brand Stout (2024) 14.7%"
     abv: "14.7% ABV"
     brewery: "Goose Island Beer Co."
