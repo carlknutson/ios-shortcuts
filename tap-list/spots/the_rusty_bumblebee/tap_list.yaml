@@ -89,12 +89,6 @@ taps:
     description: >
       'Brined Lager juiced with Cherry!'
     type: "Lager - Other"
-  - name: "Chonees Chonees"
-    abv: "5.6% ABV"
-    brewery: "Oliphant Brewing"
-    description: >
-      'Chocolate, Peanut Butter, and Honey Golden Ale with Lactose'
-    type: "Blonde"
   - name: "Coors Light"
     abv: "4.2% ABV"
     brewery: "Coors Brewing Company"
@@ -155,6 +149,12 @@ taps:
     description: >
       'N/A'
     type: "Root Beer"
+  - name: "Henna: Coconut Double Rainbow"
+    abv: "14% ABV"
+    brewery: "More Brewing Company"
+    description: >
+      'Imperial Stout with strawberry, vanilla, chocolate & coconut.'
+    type: "Stout - Imperial"
   - name: "Honey Blonde Ale"
     abv: "4.5% ABV"
     brewery: "Central Waters Brewing Company"
@@ -239,12 +239,24 @@ taps:
     description: >
       'We partnered with Pearson’s Candy Company in St. Paul to create a clean and crisp Golden Ale loaded with 200 pounds of Salted Nut Rolls. The Flavors of roasted peanuts, golden caramel and fluffy nougat with a hint of salt. Perfectly paired with a Salted Nut Roll. This brew has the qualities of the quintessential St Paul candy we know and love.'
     type: "Golden Ale - Other"
+  - name: "Schickemode"
+    abv: "5.8% ABV"
+    brewery: "Insight Brewing Company"
+    description: >
+      'Schickemode (that's Chic Fashion for the non-German speakers) is back for another Oktoberfest season.  This tasty, malty lager hits all the right Bavarian notes.  Lederhosen is encouraged but not required.  Prost!'
+    type: "Festbier"
   - name: "Scorpius Morchella"
     abv: "7.8% ABV"
     brewery: "Toppling Goliath Brewing Co."
     description: >
       'Brewed each spring to celebrate our brewery’s annual day off to go morel mushroom hunting, this excitingly hazy double IPA is a tribute to our love of great hops and morels. Created with a combination of Pacific Northwest and Southern Hemisphere hops, Scorpius Morchella is meant to be shared with friends on a warm spring afternoon.'
     type: "IPA - Imperial"
+  - name: "Slang Du Jour - Strawberry Rhubarb Cobbler"
+    abv: "6.6% ABV"
+    brewery: "Drekker Brewing Company"
+    description: >
+      'This Sour à la Mode is loaded up with the dynamite combination of Strawberry and Rhubarb plus granola, brown sugar, cinnamon, lactose, and vanilla beans for that slangy, cobblery, right out of Grandma’s oven flavor.⠀'
+    type: "Sour - Smoothie"
   - name: "Smoked Pineapple Dream"
     abv: "4.2% ABV"
     brewery: "Invictus Brewing"
@@ -257,12 +269,6 @@ taps:
     description: >
       'This fruited pale features strawberry puree, milk sugar, and Belma hops. The balance of sweet and fruit make this a refreshing patio beer!'
     type: "Pale Ale - American"
-  - name: "Strawberry-infused Shortpants"
-    abv: "N/A"
-    brewery: "Bauhaus Brew Labs"
-    description: >
-      'N/A'
-    type: "Shandy"
   - name: "THUNDER LIZARD"
     abv: "7.2% ABV"
     brewery: "BlackStack Brewing"
