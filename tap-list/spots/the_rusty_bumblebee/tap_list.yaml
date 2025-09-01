@@ -119,6 +119,12 @@ taps:
     description: >
       'Prickly pear and guava hard seltzer.'
     type: "Hard Seltzer"
+  - name: "Fluff Stuff - Blackberry"
+    abv: "6% ABV"
+    brewery: "Drekker Brewing Company"
+    description: >
+      'Fluff Stuff is where fruit and marshmallows join forces to make magic happen, and this one’s no exception. We’ve absolutely stuffed it with juicy, ripe blackberries and sweet, fluffy marshmallows for a tart-meets-dessert flavor combo that’s pure summertime bliss in a can... or whatever drinking vessel you deem worthy of holding this potion.'
+    type: "Sour - Smoothie"
   - name: "Furious"
     abv: "6.7% ABV"
     brewery: "Surly Brewing Company"
