@@ -59,12 +59,6 @@ taps:
     description: >
       'The 2018 Festival of Wood and Barrel-Aged Beers (FoBAB) award-winning variant is back for its second year, this year aged 100% in Larceny wheated bourbon casks from our partners at Heaven Hill. The result is a softer flavor profile, full of caramel, vanilla, butterscotch, and toffee flavors, all while carrying the nuances of Larceny bourbon barrels.'
     type: "Wheat Beer - Wheat Wine"
-  - name: "Braaaaaaaains - Cherry Berry"
-    abv: "6.6% ABV"
-    brewery: "Drekker Brewing Company"
-    description: >
-      'We blasted this hella tasty Braaaaaaaains with all of the cherries, strawberries and blueberries we could get our grubby little hands on, then hit it with our double secret smoothie treatment of sea salt, lactose and vanilla. It’s super berry-y, super thicc and just as delicious as you’re imagining it is right now!'
-    type: "Sour - Smoothie"
   - name: "Braaaaaaaains - Citrus Twist"
     abv: "6.5% ABV"
     brewery: "Drekker Brewing Company"
@@ -287,6 +281,12 @@ taps:
     description: >
       'It only took us 65 million collabs with our buds at Toppling Goliath to make a beer we can drink more than one of in a single sitting. A Pseudo prequel to our Previous Prehistoric Collabs featuring Superdelic, Comet, Krush & Toppling Goliath’s Selected Mosaic. You heard that correctly… Sorry Y’all, no citra this time… So Sue us.'
     type: "IPA - New England"
+  - name: "Tiny Esses"
+    abv: "5.9% ABV"
+    brewery: "Prairie Artisan Ales"
+    description: >
+      'Sour ale with Skittles'
+    type: "Sour - Other"
   - name: "Vanilla Bean Porter"
     abv: "5.8% ABV"
     brewery: "HeadFlyer Brewing"
