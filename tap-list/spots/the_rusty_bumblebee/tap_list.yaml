@@ -29,6 +29,12 @@ taps:
     description: >
       'Black Gold is a new collaboration between Bauhaus Brew Labs and Pizza Luce that aims to solve this age-old problem by creating an entirely new beer style — the Black Cream Ale. By combining the crisp, easy-drinking body of a classic Cream Ale recipe with the jet-black color and subtle roastiness of a Stout or Porter, we’ve uncovered the ultimate beverage for having your pie and eating it too. Available now through the end of the year exclusively at every Pizza Luce location!'
     type: "Cream Ale"
+  - name: "Blackberry"
+    abv: "5% ABV"
+    brewery: "Downeast Cider House"
+    description: >
+      'Unfiltered apple cider infused with fresh blackberries. Before computers, apples and blackberries were fruits. Only fruits. It’s better that way.'
+    type: "Cider - Other Fruit"
   - name: "Blueberry Mead"
     abv: "8% ABV"
     brewery: "J. Bird Wines, Inc."
