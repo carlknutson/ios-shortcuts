@@ -13,11 +13,11 @@ def scrape_beer_menu(url):
 
             beer_elements = (
                 page.locator(".bt_bb_column_content_inner")
-                .nth(2)
+                .nth(1)
                 .locator(".bt_bb_menu_item")
                 .all()
                 + page.locator(".bt_bb_column_content_inner")
-                .nth(3)
+                .nth(2)
                 .locator(".bt_bb_menu_item")
                 .all()
             )
