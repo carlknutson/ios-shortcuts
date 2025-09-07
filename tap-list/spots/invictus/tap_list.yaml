@@ -1,7 +1,4 @@
 taps:
-  - name: "Apple Shine"
-    abv: "6%"
-    type: "Cider - Sweet"
   - name: "Barrel Aged Horror of the Shade 2024"
     abv: "9%"
     type: "Stout - Russian Imperial"
