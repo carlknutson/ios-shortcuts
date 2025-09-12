@@ -89,6 +89,12 @@ taps:
     description: >
       'Brined Lager juiced with Cherry!'
     type: "Lager - Other"
+  - name: "Choconut"
+    abv: "6.5% ABV"
+    brewery: "Venn Brewing Company"
+    description: >
+      'Stout with Peanut Butter & Chocolate'
+    type: "Stout - Pastry"
   - name: "Coors Light"
     abv: "4.2% ABV"
     brewery: "Coors Brewing Company"
@@ -107,6 +113,12 @@ taps:
     description: >
       'Darkness is a beer of fable and legend. Malty and intense, yet velvety smooth. This special edition of our massive Russian imperial stout matured in Elijah Craig 10 and 12-year bourbon barrels and features waves of chocolate, vanilla, dried fruit, and cherry flavors, enhanced by the oaky spice of the barrel and its previous occupant.Art by 2023 Darkness Artist Justin Boehne.'
     type: "Stout - Russian Imperial"
+  - name: "Ectogasm"
+    abv: "7% ABV"
+    brewery: "Drekker Brewing Company"
+    description: >
+      'Ectogasm is a juicy, hazy, and soft NE IPA brewed with Citra & Mosaic hops.'
+    type: "IPA - New England"
   - name: "Florida Seltzer Prickly Pear & Guava"
     abv: "5% ABV"
     brewery: "Untitled Art"
@@ -125,12 +137,6 @@ taps:
     description: >
       'The beer that built Surly. Aggressively hopped and citrusy, but with a chewy, caramel malt backbone.'
     type: "IPA - American"
-  - name: "German Chocolate Cake - X-tra Special Delivery"
-    abv: "8.8% ABV"
-    brewery: "The Brewing Projekt"
-    description: >
-      'Stout brewed with Chocolate, Coconut, and Vanilla'
-    type: "Stout - Pastry"
   - name: "Golf Beer"
     abv: "5.5% ABV"
     brewery: "Venn Brewing Company"
@@ -191,12 +197,6 @@ taps:
     description: >
       'Cast a line, sit back and relax. This collab lures you in with a delightful combination of Nelson Sauvin, Simcoe, and Krush hops. so take a sip and unwind.'
     type: "IPA - Imperial"
-  - name: "Minister of State Speedway Stout"
-    abv: "14% ABV"
-    brewery: "AleSmith Brewing Company"
-    description: >
-      'Brewer's Cut Blended Imperial Stout aged in Premier Bourbon Barrels with Jamaica Blue Mountain Coffee from Jaunt Coffee Roasters'
-    type: "Stout - Russian Imperial"
   - name: "Nefertiti"
     abv: "8% ABV"
     brewery: "J. Bird Wines, Inc."
@@ -239,12 +239,6 @@ taps:
     description: >
       'This imperial pumpkin ale is rich with flavor, bringing notes of freshly baked pumpkin bread from maturing our copper orange pumpkin beer in rye whiskey barrels for many months. It’s smooth and spicy, with a mix of flavors that include cinnamon, nutmeg, vanilla, and butterscotch. This is the kind of magic that only happens when you carve into a pumpkin twice.'
     type: "Pumpkin"
-  - name: "Salted Nut Roll"
-    abv: "5.2% ABV"
-    brewery: "Invictus Brewing"
-    description: >
-      'We partnered with Pearson’s Candy Company in St. Paul to create a clean and crisp Golden Ale loaded with 200 pounds of Salted Nut Rolls. The Flavors of roasted peanuts, golden caramel and fluffy nougat with a hint of salt. Perfectly paired with a Salted Nut Roll. This brew has the qualities of the quintessential St Paul candy we know and love.'
-    type: "Golden Ale - Other"
   - name: "Schickemode"
     abv: "5.8% ABV"
     brewery: "Insight Brewing Company"
@@ -275,12 +269,6 @@ taps:
     description: >
       'This fruited pale features strawberry puree, milk sugar, and Belma hops. The balance of sweet and fruit make this a refreshing patio beer!'
     type: "Pale Ale - American"
-  - name: "THUNDER LIZARD"
-    abv: "7.2% ABV"
-    brewery: "BlackStack Brewing"
-    description: >
-      'Thunder Lizard is a resounding expression of gratitude. A reverberating token of appreciation. The Science Museum of Minnesota asked us at Blackstack to make a beer to honor the outpouring of support from Thunder Lizard fans. We used Zeus hops from Minnesota’s own Mighty Axe Hops and azacca in the whirlpool. Dry hopped with falconer’s flight and Australian vic secret hops or, as we call it, the thunder from down under. All the better to thank you with.'
-    type: "IPA - New England"
   - name: "The Land Before Time"
     abv: "7.4% ABV"
     brewery: "BlackStack Brewing"
@@ -293,12 +281,6 @@ taps:
     description: >
       'Sour ale with Skittles'
     type: "Sour - Other"
-  - name: "Vanilla Bean Porter"
-    abv: "5.8% ABV"
-    brewery: "HeadFlyer Brewing"
-    description: >
-      'This is a dark porter that has a complex body of roasted malts and has a creamy finish with a hint of vanilla.'
-    type: "Porter - American"
   - name: "Watermelon Cider"
     abv: "5% ABV"
     brewery: "Wild State Cider"
