@@ -107,11 +107,11 @@ taps:
     description: >
       'We're now so proud to announce this collaboration with Firestone Walker, as we brew a clear, bitter, hoppy, West Coast IPA that features a newly developed hop from the Hop Quality Group breeding program – HQG#4 – paired with Krush and Simcoe. We're honored to share the label with Firestone Walker and excited to share this West Coast IPA with you. HOPS: HQG#4, Krush, Simcoe'
     type: "IPA - American"
-  - name: "Darkness (2024) Barrel-Aged"
+  - name: "Darkness (2021)"
     abv: "12% ABV"
     brewery: "Surly Brewing Company"
     description: >
-      'Darkness is a beer of fable and legend. Malty and intense, yet velvety smooth. This special edition of our massive Russian imperial stout matured in Elijah Craig 10 and 12-year bourbon barrels and features waves of chocolate, vanilla, dried fruit, and cherry flavors, enhanced by the oaky spice of the barrel and its previous occupant.Art by 2023 Darkness Artist Justin Boehne.'
+      'Our massive Russian Imperial Stout contains waves of chocolate, coffee, cherry, raisin, and toffee, plus a non-traditional dose of aromatic hops.'
     type: "Stout - Russian Imperial"
   - name: "Ectogasm"
     abv: "7% ABV"
