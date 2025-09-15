@@ -17,12 +17,6 @@ taps:
     description: >
       'A simple german wheat ale with medium body and clean finish. Balanced fruit flavor and floral aroma are provided by using real apricots and a touch of Cashmere hops.'
     type: "Wheat Beer - Fruited"
-  - name: "Beneath the Coconut Palms"
-    abv: "6.6% ABV"
-    brewery: "Drekker Brewing Company"
-    description: >
-      'A tropical serenade in sour beer form? Yeah, we canned it. This brand new collab with our buds at Resident Culture Brewing Company is a sunshine-soaked blast of passionfruit, raspberry, guava & coconut. It’s guava-forward with a smooth wave of raspberry and tropical fruit support, rounded out by that unmistakable toasted coconut note that makes your taste buds wanna slap on some sunscreen.'
-    type: "Sour - Fruited"
   - name: "Black Gold"
     abv: "5.5% ABV"
     brewery: "Bauhaus Brew Labs"
@@ -77,6 +71,12 @@ taps:
     description: >
       'Monkey Business Braaaaaaaains is stuffed with banana, lime, and tart cherry and then we hit it with our double secret smoothie treatment of sea salt, lactose, and vanilla for a super delicious flavor we just know you’re gonna love!'
     type: "Sour - Smoothie"
+  - name: "Braaaaaaaains - Peach Pomegranate"
+    abv: "6.5% ABV"
+    brewery: "Drekker Brewing Company"
+    description: >
+      'We took peach. Then more peach. Then invited apricot and even more apricot to the party. Then pomegranate showed up twice, because once just isn’t enough. All of it gets blended into our double-secret smoothie mix of lactose, sea salt, and vanilla beans until it’s thicker than a summer sunset and juicier than a farmer’s market brawl over the last ripe fruit. It’s sweet, tart, creamy, and so loaded with flavor it might just count as your daily fruit intake.'
+    type: "Sour - Fruited"
   - name: "CHONK: 'Merica Cake"
     abv: "6.3% ABV"
     brewery: "Drekker Brewing Company"
