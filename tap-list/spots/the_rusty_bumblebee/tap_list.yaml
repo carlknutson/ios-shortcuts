@@ -125,6 +125,12 @@ taps:
     description: >
       'Ectogasm is a juicy, hazy, and soft NE IPA brewed with Citra & Mosaic hops.'
     type: "IPA - New England"
+  - name: "Festbier (2025)"
+    abv: "5.7% ABV"
+    brewery: "Fair State Brewing Cooperative"
+    description: >
+      'N/A'
+    type: "Festbier"
   - name: "Florida Seltzer Prickly Pear & Guava"
     abv: "5% ABV"
     brewery: "Untitled Art"
@@ -190,12 +196,6 @@ taps:
     brewery: "Toppling Goliath Brewing Co."
     description: >
       'Full-bodied, hazy double IPA Citra-hopped for a juicy combination of mango, orange, and pineapple flavors. Finishes with a grapefruit aroma and ferocious bite.'
-    type: "IPA - Imperial"
-  - name: "Luminous Horizon"
-    abv: "8% ABV"
-    brewery: "Humble Forager Brewery"
-    description: >
-      'A blend of barley, oats and white wheat creates a beautiful base off these 2025 harvest New Zealand Nectaron hops.  Soft, smooth, and creamy, with a saturated hop presence from two separate dry-hop additions.  Hopped at 5.5 pounds per barrel.'
     type: "IPA - Imperial"
   - name: "Maple Märzen"
     abv: "5.7% ABV"
@@ -275,12 +275,6 @@ taps:
     description: >
       'Brewed in collaboration with Smokey's Pub N' Grill for their 11th anniversary. Smoked Pineapple Dream - Cream Ale has the perfect balance flavors. You will get notes of pineapple up front, with a touch of smoke on the back end, with a nice smooth finish. Over 100lbs of grains were smoked in Smokey's bbq pit for this beer.'
     type: "Cream Ale"
-  - name: "Strawberry Whip"
-    abv: "5.4% ABV"
-    brewery: "HeadFlyer Brewing"
-    description: >
-      'This fruited pale features strawberry puree, milk sugar, and Belma hops. The balance of sweet and fruit make this a refreshing patio beer!'
-    type: "Pale Ale - American"
   - name: "Supercell"
     abv: "7% ABV"
     brewery: "Elm Creek Brewing Co."
@@ -305,6 +299,12 @@ taps:
     description: >
       'Original. OG. King of Hard Teas (you said it, not us). This is the one that got us started. Made from real brewed tea and natural lemon flavor, Twisted Tea Original is refreshing, smooth, and of course, a little twisted. Great for sharing with friends too, but if you want to keep this 12 pack for yourself, we don’t blame you.'
     type: "Flavored Malt Beverage"
+  - name: "Verbal Tip"
+    abv: "7.3% ABV"
+    brewery: "Falling Knife Brewing Company"
+    description: >
+      'Citra and Mosaic Hazy IPA'
+    type: "IPA - New England"
   - name: "Watermelon Cider"
     abv: "5% ABV"
     brewery: "Wild State Cider"
