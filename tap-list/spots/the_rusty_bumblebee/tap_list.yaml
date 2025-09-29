@@ -47,12 +47,6 @@ taps:
     description: >
       'Bomb! is an imperial stout aged on Spaceship Earth espresso beans, chocolate, vanilla beans, and ancho chile peppers. All the flavors meld to create a truly unique beer. The peppers add just the right amount of heat to complement the intense coffee and chocolate flavors.'
     type: "Stout - Imperial"
-  - name: "Bourbon County Brand Stout (2024) 14.7%"
-    abv: "14.7% ABV"
-    brewery: "Goose Island Beer Co."
-    description: >
-      'After crafting the very first bourbon barrel-aged imperial stout, we've learned that to have the best beer, you start with the best possible ingredients. Barrels are such an important ingredient and we continue to use only the best our friends on the bourbon trail have to offer. 2024 Bourbon County Brand Original Stout is aged in a mix of freshly emptied bourbon barrels from Buffalo Trace, Heaven Hill, Four Roses and Wild Turkey distilleries. Barrel-aged for an average of 12 months, Bourbon County Original Stout boasts deeply developed flavors of fudge, vanilla and caramelized sugar with a rich, decadent mouthfeel.'
-    type: "Stout - Imperial"
   - name: "Bourbon County Brand Wheatwine (2019)"
     abv: "15.4% ABV"
     brewery: "Goose Island Beer Co."
@@ -77,11 +71,11 @@ taps:
     description: >
       'We took peach. Then more peach. Then invited apricot and even more apricot to the party. Then pomegranate showed up twice, because once just isn’t enough. All of it gets blended into our double-secret smoothie mix of lactose, sea salt, and vanilla beans until it’s thicker than a summer sunset and juicier than a farmer’s market brawl over the last ripe fruit. It’s sweet, tart, creamy, and so loaded with flavor it might just count as your daily fruit intake.'
     type: "Sour - Fruited"
-  - name: "CHONK: 'Merica Cake"
-    abv: "6.3% ABV"
+  - name: "CHONK: Blueberry Creamsicle"
+    abv: "6.7% ABV"
     brewery: "Drekker Brewing Company"
     description: >
-      'OH LAWD HE COMIN AGAIN TO SAVE THE MFing DAY YEAH! Our favorite hefty boi is back and livin his best summer life. This Chonk is inspired by the best part of summer picnics - the dessert table. ‘Merica Cake Chonk is fruited with strawberries, blueberries, banana, and then loaded up with cake batter, vanilla beans, and lactose for that star-spangled decadence.'
+      'Oh lawd he comin'! Blueberry Creamsicle Chonk is fully loaded with a literal ton (or two) of blueberries, some more blueberries, a little lactose, and, of course, some biiiiiiig ol' scoops of vanilla ice cream. It's a dreamy, creamy, decadent treat that, to nobody's surprise, the ol' Chonkster just can't resist!*CONTAINS LACTOSE'
     type: "Sour - Smoothie"
   - name: "Cherry Pickle Beer"
     abv: "5% ABV"
@@ -137,12 +131,6 @@ taps:
     description: >
       'Prickly pear and guava hard seltzer.'
     type: "Hard Seltzer"
-  - name: "Fluff Stuff - Blackberry"
-    abv: "6% ABV"
-    brewery: "Drekker Brewing Company"
-    description: >
-      'Fluff Stuff is where fruit and marshmallows join forces to make magic happen, and this one’s no exception. We’ve absolutely stuffed it with juicy, ripe blackberries and sweet, fluffy marshmallows for a tart-meets-dessert flavor combo that’s pure summertime bliss in a can... or whatever drinking vessel you deem worthy of holding this potion.'
-    type: "Sour - Smoothie"
   - name: "Furious"
     abv: "6.7% ABV"
     brewery: "Surly Brewing Company"
@@ -239,6 +227,12 @@ taps:
     description: >
       'Emagine Theater and Utepils Brewing Collab! Plot Twist comes to you with a few stamps on its passport — via Mexico, by way of Germany. In the late 1800s, German immigrants to Mexicobrought their beer recipes from back home, including the classic Vienna Lager. Somewhere along the line, a bit of lime was added to the mix, because heck, why not? The result is full-bodied and smooth, with just atouch of tartness on the tip of the tongue.'
     type: "Lager - Vienna"
+  - name: "Raspberry Oberon"
+    abv: "5.8% ABV"
+    brewery: "Bell’s Brewery"
+    description: >
+      'American Wheat Ale brewed with raspberries. Big raspberry aroma. Jammy. Finishes dry and clean. Available exclusively at the Bell's General Store.'
+    type: "Wheat Beer - Fruited"
   - name: "Run Wild IPA"
     abv: "0.5% ABV"
     brewery: "Athletic Brewing Company"
@@ -305,9 +299,21 @@ taps:
     description: >
       'Citra and Mosaic Hazy IPA'
     type: "IPA - New England"
+  - name: "WBA Hot Brown Duck Art"
+    abv: "14% ABV"
+    brewery: "Oliphant Brewing"
+    description: >
+      '6 & 18 Month Whiskey Barrel Blend, rested on coffee'
+    type: "Stout - Imperial"
   - name: "Watermelon Cider"
     abv: "5% ABV"
     brewery: "Wild State Cider"
     description: >
       'N/A'
     type: "Cider - Sweet"
+  - name: "You Had Me At Sugar Mama"
+    abv: "4.2% ABV"
+    brewery: "Young Blood Beer Company"
+    description: >
+      'Fruit Punch Sour w/ Peach, Passion Fruit, Orange & Guava Listen up, (or don’t)  cause I will certainly say it again if I have to.  However, the important thing here is that if you think my loyalties can be bought with flattery then strangely you know me well and I'm not sure how I feel about that. Do I need a little extra cash in hand sometimes, who doesn’t. Is it a crime to have a financial support group (person) that loves to love me when times are a troublin’? I don’t think so, so go ahead and get gone with your bad vibes while I spend like there’s no tomorrow.'
+    type: "Sour - Fruited"
