@@ -5,6 +5,12 @@ taps:
     description: >
       'Lots of vanilla, wintergreen, and other delicious roots along with real sucrose makes it the best root beer ever'
     type: "Root Beer"
+  - name: "2025 Barrel Aged Lost Moon"
+    abv: "N/A"
+    brewery: "Pryes Brewing Company"
+    description: >
+      'N/A'
+    type: "Stout - Imperial"
   - name: "All Day IPA"
     abv: "4.7% ABV"
     brewery: "Founders Brewing Co."
@@ -41,12 +47,6 @@ taps:
     description: >
       'N/A'
     type: "Flavored Malt Beverage"
-  - name: "Bomb!"
-    abv: "13% ABV"
-    brewery: "Prairie Artisan Ales"
-    description: >
-      'Bomb! is an imperial stout aged on Spaceship Earth espresso beans, chocolate, vanilla beans, and ancho chile peppers. All the flavors meld to create a truly unique beer. The peppers add just the right amount of heat to complement the intense coffee and chocolate flavors.'
-    type: "Stout - Imperial"
   - name: "Bourbon County Brand Wheatwine (2019)"
     abv: "15.4% ABV"
     brewery: "Goose Island Beer Co."
@@ -203,6 +203,12 @@ taps:
     description: >
       'This Mead is based on a popular hibiscus, honey and lemon tea that is widely enjoyed in middle eastern countries, It pours a clear beautiful red with decent ‘legs’ on the sides of the glass, lightly tangy and mildly floral in aroma with a light fresh honey scent.'
     type: "Mead - Other"
+  - name: "Non-Alcoholic Bohemian Blonde Ale"
+    abv: "0.5% ABV"
+    brewery: "Pryes Brewing Company"
+    description: >
+      'N/A'
+    type: "Non-Alcoholic - Other"
   - name: "Northodox"
     abv: "6.5% ABV"
     brewery: "Venn Brewing Company"
@@ -227,18 +233,18 @@ taps:
     description: >
       'Emagine Theater and Utepils Brewing Collab! Plot Twist comes to you with a few stamps on its passport — via Mexico, by way of Germany. In the late 1800s, German immigrants to Mexicobrought their beer recipes from back home, including the classic Vienna Lager. Somewhere along the line, a bit of lime was added to the mix, because heck, why not? The result is full-bodied and smooth, with just atouch of tartness on the tip of the tongue.'
     type: "Lager - Vienna"
+  - name: "Quirk Rainbow Sherbet Hard Seltzer"
+    abv: "4% ABV"
+    brewery: "Boulevard Brewing Co."
+    description: >
+      'Swirling together the flavors of sunny orange, tropical pineapple, and ripe raspberry, and as cooling in the summer heat as a fruity frozen treat. Take a sip of the latest scoop!90 Cal | 4g Carb |'
+    type: "Hard Seltzer"
   - name: "Raspberry Oberon"
     abv: "5.8% ABV"
     brewery: "Bell’s Brewery"
     description: >
       'American Wheat Ale brewed with raspberries. Big raspberry aroma. Jammy. Finishes dry and clean. Available exclusively at the Bell's General Store.'
     type: "Wheat Beer - Fruited"
-  - name: "Run Wild IPA"
-    abv: "0.5% ABV"
-    brewery: "Athletic Brewing Company"
-    description: >
-      'The ultimate session-able IPA. Brewed with a blend of Northwest hops with Citra and Mosaic at the forefront. Body of premium organic malts from US & Germany. Subtle yet complex malt profile.'
-    type: "Non-Alcoholic - IPA"
   - name: "Rye Barrel Aged Barrel Carving"
     abv: "9.8% ABV"
     brewery: "Pryes Brewing Company"
