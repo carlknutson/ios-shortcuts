@@ -11,6 +11,12 @@ taps:
     description: >
       'N/A'
     type: "Stout - Imperial"
+  - name: "After School PRRRT"
+    abv: "6.8% ABV"
+    brewery: "Drekker Brewing Company"
+    description: >
+      'PRRRT is back and this time it brought the snacks! Brewed with more Gushers and Fruit by the Foot than we ever thought we'd see all at once (it was glorious) as well as Pineapple, Plum, Strawberry, Raspberry, Passionfruit, lactose sugar and a whole bunch of vanilla beans.'
+    type: "Sour - Fruited"
   - name: "All Day IPA"
     abv: "4.7% ABV"
     brewery: "Founders Brewing Co."
@@ -53,18 +59,6 @@ taps:
     description: >
       'The 2018 Festival of Wood and Barrel-Aged Beers (FoBAB) award-winning variant is back for its second year, this year aged 100% in Larceny wheated bourbon casks from our partners at Heaven Hill. The result is a softer flavor profile, full of caramel, vanilla, butterscotch, and toffee flavors, all while carrying the nuances of Larceny bourbon barrels.'
     type: "Wheat Beer - Wheat Wine"
-  - name: "Braaaaaaaains - Citrus Twist"
-    abv: "6.5% ABV"
-    brewery: "Drekker Brewing Company"
-    description: >
-      'Citrus Twist Braaaaaaaains is stuffed and then stuffed again with lemon, lime, orange, pear, and apple, and then we hit it with our super secret smoothie treatment of sea salt, lactose, and vanilla. As you might imagine after reading that list, it’s absolutely fuggin delicious and we think you’re gonna love it as much as we do!'
-    type: "Sour - Smoothie"
-  - name: "Braaaaaaaains - Monkey Business"
-    abv: "6.3% ABV"
-    brewery: "Drekker Brewing Company"
-    description: >
-      'Monkey Business Braaaaaaaains is stuffed with banana, lime, and tart cherry and then we hit it with our double secret smoothie treatment of sea salt, lactose, and vanilla for a super delicious flavor we just know you’re gonna love!'
-    type: "Sour - Smoothie"
   - name: "Braaaaaaaains - Peach Pomegranate"
     abv: "6.5% ABV"
     brewery: "Drekker Brewing Company"
@@ -76,6 +70,12 @@ taps:
     brewery: "Drekker Brewing Company"
     description: >
       'Oh lawd he comin'! Blueberry Creamsicle Chonk is fully loaded with a literal ton (or two) of blueberries, some more blueberries, a little lactose, and, of course, some biiiiiiig ol' scoops of vanilla ice cream. It's a dreamy, creamy, decadent treat that, to nobody's surprise, the ol' Chonkster just can't resist!*CONTAINS LACTOSE'
+    type: "Sour - Smoothie"
+  - name: "CHONK: Raspberry & White Chocolate"
+    abv: "6.3% ABV"
+    brewery: "Drekker Brewing Company"
+    description: >
+      'This Chonk Sundae Sour is absolutely dripping with raspberry & white chocolate and packs that absurdly decadently sweet, tart, rich chonky flavor you’ve come to expect and love from our favorite hefty boi!'
     type: "Sour - Smoothie"
   - name: "Cherry Pickle Beer"
     abv: "5% ABV"
@@ -143,12 +143,6 @@ taps:
     description: >
       'American Wheat with Black Tea & Lemon, fka Arnie Palmer Wheat'
     type: "Wheat Beer - American Pale Wheat"
-  - name: "HARVESTER OF SOUR"
-    abv: "5% ABV"
-    brewery: "Half Brothers Brewing Company"
-    description: >
-      'MALTED.BARLEY.YOU'LL SUFFER UNTO ME.HARVESTER OF SOUR!LANGUAGE OF THE BREWHARVESTER OF SOUR!THIS GÖSE IS JAM PACKED WITH MIXED FRUITS FOR A TART AND SWEET MELODY. ENJOY. DRINK UP.SHOOT IN. LET THE BEATINGS BEGINDISTRIBUTOR OF PAINYOUR LOSS BECOMES MY GAIN.... CHEERS!'
-    type: "Sour - Fruited Gose"
   - name: "Hard Root Beer"
     abv: "5% ABV"
     brewery: "Invictus Brewing"
@@ -263,12 +257,6 @@ taps:
     description: >
       'Brewed each spring to celebrate our brewery’s annual day off to go morel mushroom hunting, this excitingly hazy double IPA is a tribute to our love of great hops and morels. Created with a combination of Pacific Northwest and Southern Hemisphere hops, Scorpius Morchella is meant to be shared with friends on a warm spring afternoon.'
     type: "IPA - Imperial"
-  - name: "Slang Du Jour - Strawberry Rhubarb Cobbler"
-    abv: "6.6% ABV"
-    brewery: "Drekker Brewing Company"
-    description: >
-      'This Sour à la Mode is loaded up with the dynamite combination of Strawberry and Rhubarb plus granola, brown sugar, cinnamon, lactose, and vanilla beans for that slangy, cobblery, right out of Grandma’s oven flavor.⠀'
-    type: "Sour - Smoothie"
   - name: "Smoked Pineapple Dream"
     abv: "4.2% ABV"
     brewery: "Invictus Brewing"
