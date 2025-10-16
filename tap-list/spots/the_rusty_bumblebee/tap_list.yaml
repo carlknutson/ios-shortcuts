@@ -35,18 +35,18 @@ taps:
     description: >
       'Black Gold is a new collaboration between Bauhaus Brew Labs and Pizza Luce that aims to solve this age-old problem by creating an entirely new beer style — the Black Cream Ale. By combining the crisp, easy-drinking body of a classic Cream Ale recipe with the jet-black color and subtle roastiness of a Stout or Porter, we’ve uncovered the ultimate beverage for having your pie and eating it too. Available now through the end of the year exclusively at every Pizza Luce location!'
     type: "Cream Ale"
+  - name: "Blackberry Tart"
+    abv: "8.5% ABV"
+    brewery: "J. Bird Wines, Inc."
+    description: >
+      'Made from succulent, slightly unripe Blackberries that give this mead a tart forward flavor while keeping a hint a sweetness. Gluten Free'
+    type: "Mead - Other"
   - name: "Blackberry"
     abv: "5% ABV"
     brewery: "Downeast Cider House"
     description: >
       'Unfiltered apple cider infused with fresh blackberries. Before computers, apples and blackberries were fruits. Only fruits. It’s better that way.'
     type: "Cider - Other Fruit"
-  - name: "Blueberry Mead"
-    abv: "8% ABV"
-    brewery: "J. Bird Wines, Inc."
-    description: >
-      'Mead made with blueberries'
-    type: "Mead - Melomel"
   - name: "Boardwalk Pink Lemonade"
     abv: "5% ABV"
     brewery: "Downeast Cider House"
@@ -95,6 +95,12 @@ taps:
     description: >
       'Coors Light is Coors Brewing Company's largest-selling brand and the fourth best-selling beer in the U.S. Introduced in 1978, Coors Light has been a favorite in delivering the ultimate in cold refreshment for more than 25 years. The simple, silver-toned can caught people's attention and the brew became nicknamed the \Silver Bullet\" as sales climbed."'
     type: "Lager - American Light"
+  - name: "Cosmosis Tropical Clusterfruit"
+    abv: "9% ABV"
+    brewery: "Venn Brewing Company"
+    description: >
+      'Imperial Sour with Pineapple, Mango, Passion Fruit, & Guava'
+    type: "Sour - Fruited"
   - name: "Daisy Cutter Union"
     abv: "7% ABV"
     brewery: "Half Acre Beer Company"
@@ -155,24 +161,12 @@ taps:
     description: >
       'Imperial Stout with strawberry, vanilla, chocolate & coconut.'
     type: "Stout - Imperial"
-  - name: "Honey Blonde Ale"
-    abv: "4.5% ABV"
-    brewery: "Central Waters Brewing Company"
-    description: >
-      'Made using real Wisconsin honey, our Honey Blonde is a traditional cream ale featuring a breezy floral bouquet, subtle sweetness, and crisp, clean finish. When you're feeling like something a bit more refreshing, this little number is sure to please.'
-    type: "Cream Ale"
   - name: "Hop Waves Hazy IPA"
     abv: "6.2% ABV"
     brewery: "Excelsior Brewing Company"
     description: >
       'Hop Waves Juicy IPA is intensely hopped to provide the juicy hop flavors of tangerine, pineapple, creamsicle, ripe melon and honey. Hop Waves pours a hazy sunset gold, with a bright white, fluffy head. The clean citrusy finish makes this the perfect IPA to enjoy these tropical waves of flavor.'
     type: "IPA - New England"
-  - name: "Humble Bumble Citrus (v1): Blood Orange and Tangerine"
-    abv: "5% ABV"
-    brewery: "Humble Forager Brewery"
-    description: >
-      'A fruited buzzed seltzer with calamansi lime, blood orange, tangerine, orange blossom honey, staghorn sumac blossoms.'
-    type: "Hard Seltzer"
   - name: "King Sue"
     abv: "7.8% ABV"
     brewery: "Toppling Goliath Brewing Co."
@@ -209,6 +203,12 @@ taps:
     description: >
       'House Hazy IPA with Citra, Simcoe, & Mosaic Hops'
     type: "IPA - New England"
+  - name: "Odin"
+    abv: "8.5% ABV"
+    brewery: "J. Bird Wines, Inc."
+    description: >
+      'Our most popular flavor is made from the root of the Birch tree that is ground up and made into a tea. Odin Mead has a nice earthy tone with herbal hints of cinnamon, vanilla, and ginger. Birch being close to taste with Sarsaparilla, this mead will seem similar to old fashioned root beers. Gluten Free.'
+    type: "Mead - Other"
   - name: "PRRRT On the Rim"
     abv: "6.4% ABV"
     brewery: "Drekker Brewing Company"
@@ -239,11 +239,11 @@ taps:
     description: >
       'American Wheat Ale brewed with raspberries. Big raspberry aroma. Jammy. Finishes dry and clean. Available exclusively at the Bell's General Store.'
     type: "Wheat Beer - Fruited"
-  - name: "Rye Barrel Aged Barrel Carving"
+  - name: "Rye Barrel Aged Barrel Carving (2025)"
     abv: "9.8% ABV"
     brewery: "Pryes Brewing Company"
     description: >
-      'This imperial pumpkin ale is rich with flavor, bringing notes of freshly baked pumpkin bread from maturing our copper orange pumpkin beer in rye whiskey barrels for many months. It’s smooth and spicy, with a mix of flavors that include cinnamon, nutmeg, vanilla, and butterscotch. This is the kind of magic that only happens when you carve into a pumpkin twice.'
+      'This imperial pumpkin ale is rich with flavor, bringing notes of freshly baked pumpkin bread from maturing our copper orange beer in rye whiskey barrels for many months. It’s smooth and spicy, with a mix of flavors that include cinnamon, nutmeg, and butterscotch. This is the kind of magic that only happens when you carve into a pumpkin twice.'
     type: "Pumpkin"
   - name: "Schickemode"
     abv: "5.8% ABV"
@@ -257,12 +257,12 @@ taps:
     description: >
       'Brewed each spring to celebrate our brewery’s annual day off to go morel mushroom hunting, this excitingly hazy double IPA is a tribute to our love of great hops and morels. Created with a combination of Pacific Northwest and Southern Hemisphere hops, Scorpius Morchella is meant to be shared with friends on a warm spring afternoon.'
     type: "IPA - Imperial"
-  - name: "Smoked Pineapple Dream"
-    abv: "4.2% ABV"
-    brewery: "Invictus Brewing"
+  - name: "Strawberry Whip"
+    abv: "5.4% ABV"
+    brewery: "HeadFlyer Brewing"
     description: >
-      'Brewed in collaboration with Smokey's Pub N' Grill for their 11th anniversary. Smoked Pineapple Dream - Cream Ale has the perfect balance flavors. You will get notes of pineapple up front, with a touch of smoke on the back end, with a nice smooth finish. Over 100lbs of grains were smoked in Smokey's bbq pit for this beer.'
-    type: "Cream Ale"
+      'This fruited pale features strawberry puree, milk sugar, and Belma hops. The balance of sweet and fruit make this a refreshing patio beer!'
+    type: "Pale Ale - American"
   - name: "Supercell"
     abv: "7% ABV"
     brewery: "Elm Creek Brewing Co."
