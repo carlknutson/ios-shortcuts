@@ -41,18 +41,6 @@ taps:
     description: >
       'Made from succulent, slightly unripe Blackberries that give this mead a tart forward flavor while keeping a hint a sweetness. Gluten Free'
     type: "Mead - Other"
-  - name: "Blackberry"
-    abv: "5% ABV"
-    brewery: "Downeast Cider House"
-    description: >
-      'Unfiltered apple cider infused with fresh blackberries. Before computers, apples and blackberries were fruits. Only fruits. It’s better that way.'
-    type: "Cider - Other Fruit"
-  - name: "Boardwalk Pink Lemonade"
-    abv: "5% ABV"
-    brewery: "Downeast Cider House"
-    description: >
-      'N/A'
-    type: "Flavored Malt Beverage"
   - name: "Bourbon County Brand Wheatwine (2019)"
     abv: "15.4% ABV"
     brewery: "Goose Island Beer Co."
@@ -77,6 +65,12 @@ taps:
     description: >
       'This Chonk Sundae Sour is absolutely dripping with raspberry & white chocolate and packs that absurdly decadently sweet, tart, rich chonky flavor you’ve come to expect and love from our favorite hefty boi!'
     type: "Sour - Smoothie"
+  - name: "Caramel Apple"
+    abv: "5% ABV"
+    brewery: "Downeast Cider House"
+    description: >
+      'Original cider with added notes of caramel and vanilla. *Taproom Exclusive*'
+    type: "Cider - Sweet"
   - name: "Cherry Pickle Beer"
     abv: "5% ABV"
     brewery: "Oliphant Brewing"
@@ -269,6 +263,12 @@ taps:
     description: >
       'THIS PUNGENT NEW ENGLAND IPA IS BREWED WITH AN IMPRESSIVE TRIO OF HOPS, HOPPED IN THE WHIRLPOOL WITH CITRA, THEN GIVEN A HEFTY DRY HOP DOSE OF HBC 1019, NECTARON AND CITRA HOPS. A SOFT PILLOWY BODY IS SUPPORTED BY PUNGENT TROPICAL AROMAS OF PEACH, HONEYDEW MELON, PINEAPPLE AND CITRUS.'
     type: "IPA - New England"
+  - name: "Swirlee - Blueberry Creamsicle"
+    abv: "6.7% ABV"
+    brewery: "Drekker Brewing Company"
+    description: >
+      'This here Swirlee is a absolutely a creamy berry daydream — lush blueberries twirling with smooth vanilla ice cream in a swirl of sweet-tart perfection. It’s decadent yet refreshing, playful yet indulgent, and absolutely impossible to stop sipping until every last drop is gone.'
+    type: "Sour - Smoothie"
   - name: "The Land Before Time"
     abv: "7.4% ABV"
     brewery: "BlackStack Brewing"
