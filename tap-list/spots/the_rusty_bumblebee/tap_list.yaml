@@ -23,12 +23,24 @@ taps:
     description: >
       'Satisfies your tastes while keeping your senses sharp. Brewed with a complex array of ingredients. Balanced for optimal aromatics and a clean finish.'
     type: "IPA - Session"
+  - name: "Amaretto Mead"
+    abv: "8% ABV"
+    brewery: "J. Bird Wines, Inc."
+    description: >
+      'J. Bird Wines’ Amaretto Mead — a smooth, nutty twist on classic honey mead.'
+    type: "Mead - Melomel"
   - name: "Apricot Wheat Ale"
     abv: "4.5% ABV"
     brewery: "Lake Monster Brewing"
     description: >
       'A simple german wheat ale with medium body and clean finish. Balanced fruit flavor and floral aroma are provided by using real apricots and a touch of Cashmere hops.'
     type: "Wheat Beer - Fruited"
+  - name: "Black Currant Mead"
+    abv: "8.5% ABV"
+    brewery: "J. Bird Wines, Inc."
+    description: >
+      'Black Currants are a deep dark berry with a rich flavor and a slight tangy almost tart finish. Gluten Free.'
+    type: "Mead - Melomel"
   - name: "Black Gold"
     abv: "5.5% ABV"
     brewery: "Bauhaus Brew Labs"
@@ -83,6 +95,12 @@ taps:
     description: >
       'Imperial Sour with Pineapple, Mango, Passion Fruit, & Guava'
     type: "Sour - Fruited"
+  - name: "Cottage Mead"
+    abv: "8% ABV"
+    brewery: "J. Bird Wines, Inc."
+    description: >
+      'This is the mead we have been producing for twenty-five years, using northern grown honey. After aging for four years and naturally cleared, pours a light pale golden color, lightly floral with lots of honey in the aroma.'
+    type: "Mead - Traditional"
   - name: "DOUBLE 755"
     abv: "8.8% ABV"
     brewery: "BlackStack Brewing"
@@ -209,6 +227,12 @@ taps:
     description: >
       'Emagine Theater and Utepils Brewing Collab! Plot Twist comes to you with a few stamps on its passport — via Mexico, by way of Germany. In the late 1800s, German immigrants to Mexicobrought their beer recipes from back home, including the classic Vienna Lager. Somewhere along the line, a bit of lime was added to the mix, because heck, why not? The result is full-bodied and smooth, with just atouch of tartness on the tip of the tongue.'
     type: "Lager - Vienna"
+  - name: "Pomegranate Spritz"
+    abv: "N/A"
+    brewery: "Wild State Cider"
+    description: >
+      'N/A'
+    type: "Cider - Herbed"
   - name: "Quirk Rainbow Sherbet Hard Seltzer"
     abv: "4% ABV"
     brewery: "Boulevard Brewing Co."
@@ -269,6 +293,12 @@ taps:
     description: >
       'Sour ale with Skittles'
     type: "Sour - Other"
+  - name: "Tropicopia"
+    abv: "8.5% ABV"
+    brewery: "Venn Brewing Company"
+    description: >
+      'New England Double IPA with Citra, Strata, & El Dorado Hops'
+    type: "IPA - Imperial"
   - name: "Twisted Tea Original"
     abv: "5% ABV"
     brewery: "Twisted Tea Brewing Company"
@@ -287,12 +317,6 @@ taps:
     description: >
       '6 & 18 Month Whiskey Barrel Blend, rested on coffee'
     type: "Stout - Imperial"
-  - name: "Watermelon Cider"
-    abv: "5% ABV"
-    brewery: "Wild State Cider"
-    description: >
-      'N/A'
-    type: "Cider - Sweet"
   - name: "You Had Me At Sugar Mama"
     abv: "4.2% ABV"
     brewery: "Young Blood Beer Company"
