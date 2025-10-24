@@ -47,18 +47,6 @@ taps:
     description: >
       'The 2018 Festival of Wood and Barrel-Aged Beers (FoBAB) award-winning variant is back for its second year, this year aged 100% in Larceny wheated bourbon casks from our partners at Heaven Hill. The result is a softer flavor profile, full of caramel, vanilla, butterscotch, and toffee flavors, all while carrying the nuances of Larceny bourbon barrels.'
     type: "Wheat Beer - Wheat Wine"
-  - name: "Braaaaaaaains - Peach Pomegranate"
-    abv: "6.5% ABV"
-    brewery: "Drekker Brewing Company"
-    description: >
-      'We took peach. Then more peach. Then invited apricot and even more apricot to the party. Then pomegranate showed up twice, because once just isn’t enough. All of it gets blended into our double-secret smoothie mix of lactose, sea salt, and vanilla beans until it’s thicker than a summer sunset and juicier than a farmer’s market brawl over the last ripe fruit. It’s sweet, tart, creamy, and so loaded with flavor it might just count as your daily fruit intake.'
-    type: "Sour - Fruited"
-  - name: "CHONK: Blueberry Creamsicle"
-    abv: "6.7% ABV"
-    brewery: "Drekker Brewing Company"
-    description: >
-      'Oh lawd he comin'! Blueberry Creamsicle Chonk is fully loaded with a literal ton (or two) of blueberries, some more blueberries, a little lactose, and, of course, some biiiiiiig ol' scoops of vanilla ice cream. It's a dreamy, creamy, decadent treat that, to nobody's surprise, the ol' Chonkster just can't resist!*CONTAINS LACTOSE'
-    type: "Sour - Smoothie"
   - name: "CHONK: Raspberry & White Chocolate"
     abv: "6.3% ABV"
     brewery: "Drekker Brewing Company"
@@ -95,6 +83,12 @@ taps:
     description: >
       'Imperial Sour with Pineapple, Mango, Passion Fruit, & Guava'
     type: "Sour - Fruited"
+  - name: "DOUBLE 755"
+    abv: "8.8% ABV"
+    brewery: "BlackStack Brewing"
+    description: >
+      'A tuned up version of our forever favorite fog dog. Extra helpings of all the things that make us love it so: More Wheat. More Oats. More of our Hand-Selected Citra, Azacca & Amarillo. Obscene amounts of the Hand-Selected Cryo versions of all the same to finish it off. Liquid love in a can. Pour Up?⬆️'
+    type: "IPA - Imperial"
   - name: "Daisy Cutter Union"
     abv: "7% ABV"
     brewery: "Half Acre Beer Company"
@@ -173,12 +167,6 @@ taps:
     description: >
       'Our Maple Märzen is a great fall beer offering highlighting local products.  Märzen beers were traditionally brewed in March (März) while the weather was still cool and brewing was practical.  The beer would be lagered through the summer and served in the fall.  Fall festivals including Oktoberfest proved to be a great time to enjoy these well aged and complex beers which were also crisp and refreshing.Maple Märzen brings traditional German malts and hops and blends them with local maple syrup.  The result is a malty flavor that is rich bread-y toast with caramel notes and strong maple character.  The German Noble hops lend a subtle balancing spice to the beer but play 2’nd fiddle to the malt/maple profile.  German lager yeast helps the Märzen stay crisp and clean tasting, letting the other ingredients shine through. This traditional lager style with an added northwoods twist makes a welcome addition to a sunny but cool autumn day or any campfire.'
     type: "Märzen"
-  - name: "Mind Your Unwind"
-    abv: "8.5% ABV"
-    brewery: "Toppling Goliath Brewing Co."
-    description: >
-      'Cast a line, sit back and relax. This collab lures you in with a delightful combination of Nelson Sauvin, Simcoe, and Krush hops. so take a sip and unwind.'
-    type: "IPA - Imperial"
   - name: "Nefertiti"
     abv: "8% ABV"
     brewery: "J. Bird Wines, Inc."
@@ -245,12 +233,12 @@ taps:
     description: >
       'Schickemode (that's Chic Fashion for the non-German speakers) is back for another Oktoberfest season.  This tasty, malty lager hits all the right Bavarian notes.  Lederhosen is encouraged but not required.  Prost!'
     type: "Festbier"
-  - name: "Scorpius Morchella"
-    abv: "7.8% ABV"
-    brewery: "Toppling Goliath Brewing Co."
+  - name: "Slang Du Jour - Black Forest Cake"
+    abv: "6.6% ABV"
+    brewery: "Drekker Brewing Company"
     description: >
-      'Brewed each spring to celebrate our brewery’s annual day off to go morel mushroom hunting, this excitingly hazy double IPA is a tribute to our love of great hops and morels. Created with a combination of Pacific Northwest and Southern Hemisphere hops, Scorpius Morchella is meant to be shared with friends on a warm spring afternoon.'
-    type: "IPA - Imperial"
+      'Black Forest Cake Slang Du Jour is STUFFED with cherry, almonds, chocolate cake, and vanilla ice cream and you’re gonna wanna come back for seconds of this one.⠀'
+    type: "Sour - Smoothie"
   - name: "Strawberry Whip"
     abv: "5.4% ABV"
     brewery: "HeadFlyer Brewing"
@@ -311,3 +299,9 @@ taps:
     description: >
       'Fruit Punch Sour w/ Peach, Passion Fruit, Orange & Guava Listen up, (or don’t)  cause I will certainly say it again if I have to.  However, the important thing here is that if you think my loyalties can be bought with flattery then strangely you know me well and I'm not sure how I feel about that. Do I need a little extra cash in hand sometimes, who doesn’t. Is it a crime to have a financial support group (person) that loves to love me when times are a troublin’? I don’t think so, so go ahead and get gone with your bad vibes while I spend like there’s no tomorrow.'
     type: "Sour - Fruited"
+  - name: "Zombie Braaaaaaaains"
+    abv: "6.5% ABV"
+    brewery: "Drekker Brewing Company"
+    description: >
+      'We loaded this Braaaaaaaains up with Lemon, Lime, Cherry, Pineapple, & Passionfruit and then hit it with our double secret smoothie treatment of sea salt, lactose, and vanilla. It’s got us thinking that this must be what Braaaaaaaains taste like to a zombie. Because it’s dang delicious and it’s got us wanting more and more and now all we think about is Braaaaaaaains. So you know, zombies, we get it.⠀'
+    type: "Sour - Smoothie"
