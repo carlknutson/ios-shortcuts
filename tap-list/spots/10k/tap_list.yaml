@@ -1,7 +1,4 @@
 taps:
-  - name: "2 Huell 4 Skool"
-    abv: "5.9%"
-    type: "Pale Ale"
   - name: "Anokafest"
     abv: "5.6%"
     type: "Oktoberfest"
@@ -47,6 +44,9 @@ taps:
   - name: "Loonar Uprising"
     abv: "5.5%"
     type: "Vanilla Milk Stout"
+  - name: "Needle Nectar"
+    abv: "5.1%"
+    type: "Prickly Pear Cream Ale"
   - name: "Nice Pale Ale"
     abv: "5.8%"
     type: "Pale Ale"
