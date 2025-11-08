@@ -1,4 +1,7 @@
 taps:
+  - name: "All Sunshine"
+    abv: "8.1%"
+    type: "Falling Knife - Double IPA"
   - name: "Anokafest"
     abv: "5.6%"
     type: "Oktoberfest"
@@ -17,7 +20,7 @@ taps:
   - name: "Citrasaic"
     abv: "6.8%"
     type: "NE IPA"
-  - name: "Cold Press Loonar Uprising"
+  - name: "Coffee Loonar Uprising"
     abv: "5.4%"
     type: "Cold Press Vanilla Milk Stout"
   - name: "Coors Light"
