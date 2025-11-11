@@ -29,12 +29,6 @@ taps:
     description: >
       'J. Bird Wines’ Amaretto Mead — a smooth, nutty twist on classic honey mead.'
     type: "Mead - Melomel"
-  - name: "Apricot Wheat Ale"
-    abv: "4.5% ABV"
-    brewery: "Lake Monster Brewing"
-    description: >
-      'A simple german wheat ale with medium body and clean finish. Balanced fruit flavor and floral aroma are provided by using real apricots and a touch of Cashmere hops.'
-    type: "Wheat Beer - Fruited"
   - name: "Black Currant Mead"
     abv: "8.5% ABV"
     brewery: "J. Bird Wines, Inc."
@@ -71,12 +65,6 @@ taps:
     description: >
       'Original cider with added notes of caramel and vanilla. *Taproom Exclusive*'
     type: "Cider - Sweet"
-  - name: "Cherry Pickle Beer"
-    abv: "5% ABV"
-    brewery: "Oliphant Brewing"
-    description: >
-      'Brined Lager juiced with Cherry!'
-    type: "Lager - Other"
   - name: "Choconut"
     abv: "6.5% ABV"
     brewery: "Venn Brewing Company"
@@ -143,6 +131,12 @@ taps:
     description: >
       'Prickly pear and guava hard seltzer.'
     type: "Hard Seltzer"
+  - name: "Floyds Deluxe"
+    abv: "4.5% ABV"
+    brewery: "3 Floyds Brewing"
+    description: >
+      'A clean and refreshing lager.'
+    type: "Lager - American"
   - name: "Furious"
     abv: "6.7% ABV"
     brewery: "Surly Brewing Company"
@@ -173,12 +167,24 @@ taps:
     description: >
       'Hop Waves Juicy IPA is intensely hopped to provide the juicy hop flavors of tangerine, pineapple, creamsicle, ripe melon and honey. Hop Waves pours a hazy sunset gold, with a bright white, fluffy head. The clean citrusy finish makes this the perfect IPA to enjoy these tropical waves of flavor.'
     type: "IPA - New England"
+  - name: "Kind of a Big Dill"
+    abv: "4.3% ABV"
+    brewery: "Blacklist Brewing Co."
+    description: >
+      'Pickle Beer'
+    type: "Blonde"
   - name: "King Sue"
     abv: "7.8% ABV"
     brewery: "Toppling Goliath Brewing Co."
     description: >
       'Full-bodied, hazy double IPA Citra-hopped for a juicy combination of mango, orange, and pineapple flavors. Finishes with a grapefruit aroma and ferocious bite.'
     type: "IPA - Imperial"
+  - name: "Loonar Eclipse"
+    abv: "5.1% ABV"
+    brewery: "Utepils Brewing Co."
+    description: >
+      'Loonar Eclipse Czech Style Dark Lager is very dark, deep red - black in the glass, but it has a surprisingly light body. It’s brewed with Czech hops, which give it a nice balance and aroma. The malt flavor comes through with suggestions of toasted bread. Originally released as a one time beer named Utepils 2018 Moment beer, it was too delicious not to come back as it's own beer. Enjoy!'
+    type: "Lager - Tmavé (Czech Dark)"
   - name: "Maple Märzen"
     abv: "5.7% ABV"
     brewery: "Castle Danger Brewery"
@@ -221,12 +227,6 @@ taps:
     description: >
       'Like liberating a pistachio nut from its shell, our pistachio cream ale is supremely satisfying.  Spritzy and crisp, smooth and slightly nutty, this beer is a delightful mixed bag.  Pry one loose and pop the top.'
     type: "Cream Ale"
-  - name: "Plot Twist Vienna Lager With Lime"
-    abv: "5.3% ABV"
-    brewery: "Utepils Brewing Co."
-    description: >
-      'Emagine Theater and Utepils Brewing Collab! Plot Twist comes to you with a few stamps on its passport — via Mexico, by way of Germany. In the late 1800s, German immigrants to Mexicobrought their beer recipes from back home, including the classic Vienna Lager. Somewhere along the line, a bit of lime was added to the mix, because heck, why not? The result is full-bodied and smooth, with just atouch of tartness on the tip of the tongue.'
-    type: "Lager - Vienna"
   - name: "Pomegranate Spritz"
     abv: "N/A"
     brewery: "Wild State Cider"
@@ -263,12 +263,12 @@ taps:
     description: >
       'Black Forest Cake Slang Du Jour is STUFFED with cherry, almonds, chocolate cake, and vanilla ice cream and you’re gonna wanna come back for seconds of this one.⠀'
     type: "Sour - Smoothie"
-  - name: "Strawberry Whip"
-    abv: "5.4% ABV"
-    brewery: "HeadFlyer Brewing"
+  - name: "Stone Buenaveza Salt & Lime Lager"
+    abv: "4.7% ABV"
+    brewery: "Stone Brewing"
     description: >
-      'This fruited pale features strawberry puree, milk sugar, and Belma hops. The balance of sweet and fruit make this a refreshing patio beer!'
-    type: "Pale Ale - American"
+      'Brewer Ben Sheehan created this beer while working down at Stone Brewing World Bistro & Gardens – Liberty Station. Stone Buenaveza Salt & Lime Lager’s inspiration comes from Southern California, which is vibrantly influenced by our neighbors to the South. California's spoiling, warm weather encourages outdoor activity year round - and now the rest of the nation can join in. From surfing our coasts, to snowboarding and biking in the mountains, off-roading through deserted lands, or boating and fishing in our lakes, Stone Buenaveza Salt & Lime Lager is an excellent companion. It’s a thrillingly crisp, clean, refreshing Mexican-style lager that quenches thirsts, while gratifying taste buds via lime and sea salt.'
+    type: "Lager - Mexican"
   - name: "Supercell"
     abv: "7% ABV"
     brewery: "Elm Creek Brewing Co."
