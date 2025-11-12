@@ -59,6 +59,12 @@ taps:
     description: >
       'This Chonk Sundae Sour is absolutely dripping with raspberry & white chocolate and packs that absurdly decadently sweet, tart, rich chonky flavor you’ve come to expect and love from our favorite hefty boi!'
     type: "Sour - Smoothie"
+  - name: "CHONK: Strawberry & White Chocolate"
+    abv: "7.5% ABV"
+    brewery: "Drekker Brewing Company"
+    description: >
+      'It's a hefty boi, so thicc, an absolute unit, it's CHONK! A new series of some of the most decadent beers we've ever dreamed up that can only be described as a Sundae Sour. The inaugural plop is loaded with strawberries and smothered in white chocolate and lactose sugar. OH LAWD HE COMIN!⁣'
+    type: "Sour - Smoothie"
   - name: "Caramel Apple"
     abv: "5% ABV"
     brewery: "Downeast Cider House"
@@ -101,12 +107,6 @@ taps:
     description: >
       'We're now so proud to announce this collaboration with Firestone Walker, as we brew a clear, bitter, hoppy, West Coast IPA that features a newly developed hop from the Hop Quality Group breeding program – HQG#4 – paired with Krush and Simcoe. We're honored to share the label with Firestone Walker and excited to share this West Coast IPA with you. HOPS: HQG#4, Krush, Simcoe'
     type: "IPA - American"
-  - name: "Dark Chocolate Truffle"
-    abv: "10% ABV"
-    brewery: "Untitled Art"
-    description: >
-      'Untitled Art's Dark Chocolate Truffle Stout delivers a decadent drinking experience. This luxurious imperial stout pours midnight black with the seductive promise of a fine confection. Each sip channels the experience of biting into a premium dark chocolate truffle - rich cocoa notes meld with subtle roasted undertones. At the same time, a velvety smooth mouthfeel mirrors the silky center of its confectionery namesake. The warming alcohol is masterfully integrated, making this sophisticated sipper perfect for dessert or contemplative evening enjoyment. 10.0% ABV'
-    type: "Stout - Imperial"
   - name: "Darkness (2021)"
     abv: "12% ABV"
     brewery: "Surly Brewing Company"
@@ -155,12 +155,6 @@ taps:
     description: >
       'N/A'
     type: "Root Beer"
-  - name: "Henna: Coconut Double Rainbow"
-    abv: "14% ABV"
-    brewery: "More Brewing Company"
-    description: >
-      'Imperial Stout with strawberry, vanilla, chocolate & coconut.'
-    type: "Stout - Imperial"
   - name: "Hop Waves Hazy IPA"
     abv: "6.2% ABV"
     brewery: "Excelsior Brewing Company"
@@ -215,12 +209,6 @@ taps:
     description: >
       'Our most popular flavor is made from the root of the Birch tree that is ground up and made into a tea. Odin Mead has a nice earthy tone with herbal hints of cinnamon, vanilla, and ginger. Birch being close to taste with Sarsaparilla, this mead will seem similar to old fashioned root beers. Gluten Free.'
     type: "Mead - Other"
-  - name: "PRRRT On the Rim"
-    abv: "6.4% ABV"
-    brewery: "Drekker Brewing Company"
-    description: >
-      'PRRRT on the Rim is our loud, limey love letter to the almighty margarita. We loaded this one up with lime, pear and apple for that bright, tangy punch and finished it off with a kiss of sea salt to make every sip sing. It’s tart, it’s fruity, it’s crushable as hell and it might have you Googling inflatable pool rentals. Just let it happen.'
-    type: "Sour - Fruited"
   - name: "Pistachio Cream Ale"
     abv: "5.5% ABV"
     brewery: "Indeed Brewing Company"
@@ -245,12 +233,6 @@ taps:
     description: >
       'American Wheat Ale brewed with raspberries. Big raspberry aroma. Jammy. Finishes dry and clean. Available exclusively at the Bell's General Store.'
     type: "Wheat Beer - Fruited"
-  - name: "Rye Barrel Aged Barrel Carving (2025)"
-    abv: "9.8% ABV"
-    brewery: "Pryes Brewing Company"
-    description: >
-      'This imperial pumpkin ale is rich with flavor, bringing notes of freshly baked pumpkin bread from maturing our copper orange beer in rye whiskey barrels for many months. It’s smooth and spicy, with a mix of flavors that include cinnamon, nutmeg, and butterscotch. This is the kind of magic that only happens when you carve into a pumpkin twice.'
-    type: "Pumpkin"
   - name: "Schickemode"
     abv: "5.8% ABV"
     brewery: "Insight Brewing Company"
@@ -275,12 +257,6 @@ taps:
     description: >
       'THIS PUNGENT NEW ENGLAND IPA IS BREWED WITH AN IMPRESSIVE TRIO OF HOPS, HOPPED IN THE WHIRLPOOL WITH CITRA, THEN GIVEN A HEFTY DRY HOP DOSE OF HBC 1019, NECTARON AND CITRA HOPS. A SOFT PILLOWY BODY IS SUPPORTED BY PUNGENT TROPICAL AROMAS OF PEACH, HONEYDEW MELON, PINEAPPLE AND CITRUS.'
     type: "IPA - New England"
-  - name: "Swirlee - Blueberry Creamsicle"
-    abv: "6.7% ABV"
-    brewery: "Drekker Brewing Company"
-    description: >
-      'This here Swirlee is a absolutely a creamy berry daydream — lush blueberries twirling with smooth vanilla ice cream in a swirl of sweet-tart perfection. It’s decadent yet refreshing, playful yet indulgent, and absolutely impossible to stop sipping until every last drop is gone.'
-    type: "Sour - Smoothie"
   - name: "The Land Before Time"
     abv: "7.4% ABV"
     brewery: "BlackStack Brewing"
