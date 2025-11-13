@@ -53,11 +53,17 @@ taps:
     description: >
       'The 2018 Festival of Wood and Barrel-Aged Beers (FoBAB) award-winning variant is back for its second year, this year aged 100% in Larceny wheated bourbon casks from our partners at Heaven Hill. The result is a softer flavor profile, full of caramel, vanilla, butterscotch, and toffee flavors, all while carrying the nuances of Larceny bourbon barrels.'
     type: "Wheat Beer - Wheat Wine"
-  - name: "CHONK: Raspberry & White Chocolate"
-    abv: "6.3% ABV"
+  - name: "Braaaaaaaains - Raspberry & Guava"
+    abv: "6.5% ABV"
     brewery: "Drekker Brewing Company"
     description: >
-      'This Chonk Sundae Sour is absolutely dripping with raspberry & white chocolate and packs that absurdly decadently sweet, tart, rich chonky flavor you’ve come to expect and love from our favorite hefty boi!'
+      'We loaded this one up with a ton (ton and a half, give or take) of raspberry & pink guava and then added a whole bunch of vanilla, lactose, and sea salt. It's super thicccc, tart, and sweet and we think you're really gonna like this one.'
+    type: "Sour - Smoothie"
+  - name: "CHONK: Pineapple Whhhip"
+    abv: "6.6% ABV"
+    brewery: "Drekker Brewing Company"
+    description: >
+      'Our loveable hefty boi found himself in a land (or a world?) full of delicious, pineappley, ice creamy desserts.⠀This new Pineapple Whip Chonk is loaded up with Pineapple, Marshmallows, lactose, and Pineapple Sorbet.'
     type: "Sour - Smoothie"
   - name: "CHONK: Strawberry & White Chocolate"
     abv: "7.5% ABV"
