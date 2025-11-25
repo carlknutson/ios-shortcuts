@@ -47,6 +47,18 @@ taps:
     description: >
       'Black Gold is a new collaboration between Bauhaus Brew Labs and Pizza Luce that aims to solve this age-old problem by creating an entirely new beer style — the Black Cream Ale. By combining the crisp, easy-drinking body of a classic Cream Ale recipe with the jet-black color and subtle roastiness of a Stout or Porter, we’ve uncovered the ultimate beverage for having your pie and eating it too. Available now through the end of the year exclusively at every Pizza Luce location!'
     type: "Cream Ale"
+  - name: "Bourbon County Brand Macaroon Stout (2024)"
+    abv: "14.6% ABV"
+    brewery: "Goose Island Beer Co."
+    description: >
+      'There is nothing quite like the comforting aroma that fills the home when baking with family. Inspired by late nights in the kitchen with Mom, Goose Island employee Paul Spiller sought to capture that sweet moment in this year’s newest member of the Bourbon County Brand Stout family.2024 Bourbon County Brand Macaroon Stout is an imperial stout aged for a full year in bourbon barrels before adding rich cocoa nibs, sweet candied ginger and toasted coconut. This decadent stout is an homage to the flavors of homemade coconut macaroons with a twist of nostalgia.'
+    type: "Stout - Imperial"
+  - name: "Bourbon County Brand Vanilla Rye Stout (2024)"
+    abv: "14% ABV"
+    brewery: "Goose Island Beer Co."
+    description: >
+      'Vanilla, as an ingredient, has made an appearance in Bourbon County lineups over the years, but the 2024 Bourbon County Brand Vanilla Rye Stout is a new take on our 2014 Vanilla Rye release. This year’s release showcases rye and the complexity it delivers by starting with a rye imperial stout and aging it in freshly emptied rye whiskey barrels. After aging in barrels for a full year, the stout is then finished with incredibly aromatic madagascar vanilla beans. Bourbon County Vanilla Rye Stout has the beloved attributes of the vanilla variants before it–with a new characteristically rich spice character from aging in the rye whiskey barrels.'
+    type: "Stout - Imperial"
   - name: "Bourbon County Brand Wheatwine (2019)"
     abv: "15.4% ABV"
     brewery: "Goose Island Beer Co."
@@ -95,12 +107,6 @@ taps:
     description: >
       'A tuned up version of our forever favorite fog dog. Extra helpings of all the things that make us love it so: More Wheat. More Oats. More of our Hand-Selected Citra, Azacca & Amarillo. Obscene amounts of the Hand-Selected Cryo versions of all the same to finish it off. Liquid love in a can. Pour Up?⬆️'
     type: "IPA - Imperial"
-  - name: "Darkness (2021)"
-    abv: "12% ABV"
-    brewery: "Surly Brewing Company"
-    description: >
-      'Our massive Russian Imperial Stout contains waves of chocolate, coffee, cherry, raisin, and toffee, plus a non-traditional dose of aromatic hops.'
-    type: "Stout - Russian Imperial"
   - name: "Ectogasm"
     abv: "7% ABV"
     brewery: "Drekker Brewing Company"
