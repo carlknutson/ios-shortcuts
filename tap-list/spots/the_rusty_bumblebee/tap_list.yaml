@@ -17,12 +17,6 @@ taps:
     description: >
       'PRRRT is back and this time it brought the snacks! Brewed with more Gushers and Fruit by the Foot than we ever thought we'd see all at once (it was glorious) as well as Pineapple, Plum, Strawberry, Raspberry, Passionfruit, lactose sugar and a whole bunch of vanilla beans.'
     type: "Sour - Fruited"
-  - name: "All Day IPA"
-    abv: "4.7% ABV"
-    brewery: "Founders Brewing Co."
-    description: >
-      'Satisfies your tastes while keeping your senses sharp. Brewed with a complex array of ingredients. Balanced for optimal aromatics and a clean finish.'
-    type: "IPA - Session"
   - name: "Amaretto Mead"
     abv: "8% ABV"
     brewery: "J. Bird Wines, Inc."
@@ -131,12 +125,6 @@ taps:
     description: >
       'A clean and refreshing lager.'
     type: "Lager - American"
-  - name: "Furious"
-    abv: "6.7% ABV"
-    brewery: "Surly Brewing Company"
-    description: >
-      'The beer that built Surly. Aggressively hopped and citrusy, but with a chewy, caramel malt backbone.'
-    type: "IPA - American"
   - name: "Golf Beer"
     abv: "5.5% ABV"
     brewery: "Venn Brewing Company"
@@ -167,6 +155,12 @@ taps:
     description: >
       'Full-bodied, hazy double IPA Citra-hopped for a juicy combination of mango, orange, and pineapple flavors. Finishes with a grapefruit aroma and ferocious bite.'
     type: "IPA - Imperial"
+  - name: "LOCAL DROPS"
+    abv: "7.2% ABV"
+    brewery: "BlackStack Brewing"
+    description: >
+      'We’ve been buddies with Barrel Theory Beer Co. since before either of us opened & yet it still took us over 5 years to combine our respective murky mainstays: “LOCAL 755” & “RAIN DROPS”. Fully kitted with both our & Barrel Theory’s respective selected lots of Citra & Mosaic with our selected lots of Amarillo & Azacca on a mashed up (get it?) version of our respective grain bills. This is one drop you certainly don’t want to miss.'
+    type: "IPA - New England"
   - name: "Loonar Eclipse"
     abv: "5.1% ABV"
     brewery: "Utepils Brewing Co."
