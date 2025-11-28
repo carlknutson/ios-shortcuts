@@ -23,6 +23,12 @@ taps:
     description: >
       'J. Bird Wines’ Amaretto Mead — a smooth, nutty twist on classic honey mead.'
     type: "Mead - Melomel"
+  - name: "Axe Man"
+    abv: "7.2% ABV"
+    brewery: "Surly Brewing Company"
+    description: >
+      'Double dry-hopping with Citra and Mosaic hops creates this world-renowned IPA’s intense tropical fruit and citrus aromas. Brewed with Golden Promise malt, this beer finishes rich and dry. First brewed in collaboration with Amager Brewery in Denmark.'
+    type: "IPA - American"
   - name: "Black Cherry"
     abv: "5% ABV"
     brewery: "McKenzie's Hard Cider"
@@ -41,11 +47,29 @@ taps:
     description: >
       'Black Gold is a new collaboration between Bauhaus Brew Labs and Pizza Luce that aims to solve this age-old problem by creating an entirely new beer style — the Black Cream Ale. By combining the crisp, easy-drinking body of a classic Cream Ale recipe with the jet-black color and subtle roastiness of a Stout or Porter, we’ve uncovered the ultimate beverage for having your pie and eating it too. Available now through the end of the year exclusively at every Pizza Luce location!'
     type: "Cream Ale"
+  - name: "Bourbon County Brand Cherries Jubilee Cask Finish (2025)"
+    abv: "14.5% ABV"
+    brewery: "Goose Island Beer Co."
+    description: >
+      'Inspired by the flambéed dessert classic Cherries Jubilee, 2025 Bourbon County Brand Cherries Jubilee Stout captures the essence of cognac-soaked cherries and caramelized citrus.The beer began its aging journey in freshly emptied bourbon barrels, which impart rich layers of oak, warm vanilla, and subtle baking spice. It was then finished in cognac barrels, adding elegant notes of dried fruit and contributing to a rich, full mouthfeel.Following the aging process, the stout was blended with Montmorency cherries, citrus, and panela–resulting in a velvety, decadent beer with flavors of candied dark cherry, soft vanilla, and a caramelized citrus finish.'
+    type: "Stout - Imperial"
+  - name: "Bourbon County Brand Chocolate Praline Stout (2025)"
+    abv: "14.6% ABV"
+    brewery: "Goose Island Beer Co."
+    description: >
+      'Layered with a blend of cocoa nibs, hazelnuts, almonds, cashews, and dates, the classic flavors of a chocolate praline.'
+    type: "Stout - Imperial"
   - name: "Bourbon County Brand Macaroon Stout (2024)"
     abv: "14.6% ABV"
     brewery: "Goose Island Beer Co."
     description: >
       'There is nothing quite like the comforting aroma that fills the home when baking with family. Inspired by late nights in the kitchen with Mom, Goose Island employee Paul Spiller sought to capture that sweet moment in this year’s newest member of the Bourbon County Brand Stout family.2024 Bourbon County Brand Macaroon Stout is an imperial stout aged for a full year in bourbon barrels before adding rich cocoa nibs, sweet candied ginger and toasted coconut. This decadent stout is an homage to the flavors of homemade coconut macaroons with a twist of nostalgia.'
+    type: "Stout - Imperial"
+  - name: "Bourbon County Brand Stout (2025)"
+    abv: "14.8% ABV"
+    brewery: "Goose Island Beer Co."
+    description: >
+      'N/A'
     type: "Stout - Imperial"
   - name: "Bourbon County Brand Vanilla Rye Stout (2024)"
     abv: "14% ABV"
@@ -77,12 +101,6 @@ taps:
     description: >
       'It's a hefty boi, so thicc, an absolute unit, it's CHONK! A new series of some of the most decadent beers we've ever dreamed up that can only be described as a Sundae Sour. The inaugural plop is loaded with strawberries and smothered in white chocolate and lactose sugar. OH LAWD HE COMIN!⁣'
     type: "Sour - Smoothie"
-  - name: "Choconut"
-    abv: "6.5% ABV"
-    brewery: "Venn Brewing Company"
-    description: >
-      'Stout with Peanut Butter & Chocolate'
-    type: "Stout - Pastry"
   - name: "Coors Light"
     abv: "4.2% ABV"
     brewery: "Coors Brewing Company"
@@ -160,6 +178,12 @@ taps:
     brewery: "BlackStack Brewing"
     description: >
       'We’ve been buddies with Barrel Theory Beer Co. since before either of us opened & yet it still took us over 5 years to combine our respective murky mainstays: “LOCAL 755” & “RAIN DROPS”. Fully kitted with both our & Barrel Theory’s respective selected lots of Citra & Mosaic with our selected lots of Amarillo & Azacca on a mashed up (get it?) version of our respective grain bills. This is one drop you certainly don’t want to miss.'
+    type: "IPA - New England"
+  - name: "Lake Fellow"
+    abv: "6% ABV"
+    brewery: "Portage Brewing Company"
+    description: >
+      'A beer fitted for your lake adventures ahead. Fermented with kolsch yeast for a soft juicy profile, followed by careful additions of Nelson Sauvin, Citra, and Cashmere Cryo. Tropical, with subtle notes of tangerine and sauv blanc grapes, for a complex, crushable little IPA.'
     type: "IPA - New England"
   - name: "Loonar Eclipse"
     abv: "5.1% ABV"
@@ -269,6 +293,12 @@ taps:
     description: >
       'Original. OG. King of Hard Teas (you said it, not us). This is the one that got us started. Made from real brewed tea and natural lemon flavor, Twisted Tea Original is refreshing, smooth, and of course, a little twisted. Great for sharing with friends too, but if you want to keep this 12 pack for yourself, we don’t blame you.'
     type: "Flavored Malt Beverage"
+  - name: "Two Hearted IPA"
+    abv: "7% ABV"
+    brewery: "Bell’s Brewery"
+    description: >
+      'Brewed with 100% Centennial hops from the Pacific Northwest and named after the Two Hearted River in Michigan’s Upper Peninsula, this IPA is bursting with hop aromas ranging from pine to grapefruit from massive hop additions in both the kettle and the fermenter.Perfectly balanced with a malt backbone and combined with the signature fruity aromas of Bell's house yeast, this beer is remarkably drinkable and well suited for adventures everywhere.'
+    type: "IPA - American"
   - name: "Verbal Tip"
     abv: "7.3% ABV"
     brewery: "Falling Knife Brewing Company"
