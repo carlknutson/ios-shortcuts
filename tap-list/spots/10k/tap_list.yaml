@@ -1,4 +1,7 @@
 taps:
+  - name: "2020 BA Wee Heavy"
+    abv: "10.1% (13oz)"
+    type: "Bourbon Aged Scotch Ale"
   - name: "All Sunshine**"
     abv: "8.1%"
     type: "Falling Knife - Double Hazy IPA"
@@ -32,9 +35,6 @@ taps:
   - name: "Fruit Ninja"
     abv: "5.8%"
     type: "Fruit Wheat Ale"
-  - name: "Golden Hour"
-    abv: "Blackberry"
-    type: "Pineapple"
   - name: "Good Shite"
     abv: "4.6%"
     type: "Irish Stout"
