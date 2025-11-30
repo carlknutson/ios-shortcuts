@@ -47,17 +47,17 @@ taps:
     description: >
       'Black Gold is a new collaboration between Bauhaus Brew Labs and Pizza Luce that aims to solve this age-old problem by creating an entirely new beer style — the Black Cream Ale. By combining the crisp, easy-drinking body of a classic Cream Ale recipe with the jet-black color and subtle roastiness of a Stout or Porter, we’ve uncovered the ultimate beverage for having your pie and eating it too. Available now through the end of the year exclusively at every Pizza Luce location!'
     type: "Cream Ale"
-  - name: "Bourbon County Brand Cherries Jubilee Cask Finish (2025)"
+  - name: "Bourbon County Brand Cherries Jubilee Stout (2025)"
     abv: "14.5% ABV"
     brewery: "Goose Island Beer Co."
     description: >
-      'Inspired by the flambéed dessert classic Cherries Jubilee, 2025 Bourbon County Brand Cherries Jubilee Stout captures the essence of cognac-soaked cherries and caramelized citrus.The beer began its aging journey in freshly emptied bourbon barrels, which impart rich layers of oak, warm vanilla, and subtle baking spice. It was then finished in cognac barrels, adding elegant notes of dried fruit and contributing to a rich, full mouthfeel.Following the aging process, the stout was blended with Montmorency cherries, citrus, and panela–resulting in a velvety, decadent beer with flavors of candied dark cherry, soft vanilla, and a caramelized citrus finish.'
+      '(2025) As stout ages, Goose Island’s brewers often observe a range of fruit expressions that emerge from the barrel and from time itself. Inspired by the flambéed dessert classic Cherries Jubilee, 2025 Bourbon County Brand Cherries Jubilee Stout captures the essence of cognac-soaked cherries and caramelized citrus.The beer began its aging journey in freshly emptied bourbon barrels, which impart rich layers of oak, warm vanilla and subtle baking spice. It was then finished in cognac barrels, adding elegant notes of dried fruit and contributing to a rich, full mouthfeel.Following the aging process, the stout was blended with Montmorency cherries, citrus, and panela–resulting in a velvety, decadent beer with flavors of candied dark cherry, soft vanilla and a caramelized citrus finish. 14.5% ABV.'
     type: "Stout - Imperial"
   - name: "Bourbon County Brand Chocolate Praline Stout (2025)"
     abv: "14.6% ABV"
     brewery: "Goose Island Beer Co."
     description: >
-      'Layered with a blend of cocoa nibs, hazelnuts, almonds, cashews, and dates, the classic flavors of a chocolate praline.'
+      '(2025) Bourbon County Brand Stout is a beer crafted for aging. Over time, Goose Island’s imperial stout undergoes an incredible transformation within the barrel. With patience and time, the beer not only absorbs the character of the freshly emptied bourbon barrels, but also develops expressions of toasted marzipan and dried fruit—signature to Original Stout.Goose Island brings these flavors to the forefront with 2025 Bourbon County Brand Chocolate Praline Stout. First aged in freshly emptied bourbon barrels, this stout draws inspiration from the underlying decadence of chocolate, caramel, and roasted nuts found in Original. Layered with a blend of cocoa nibs, hazelnuts, almonds, cashews, and dates, this full-bodied stout showcases the classic flavors of a chocolate praline while embracing the subtle nuances imparted by the bourbon barrel. 14.6% ABV.'
     type: "Stout - Imperial"
   - name: "Bourbon County Brand Macaroon Stout (2024)"
     abv: "14.6% ABV"
@@ -69,7 +69,7 @@ taps:
     abv: "14.8% ABV"
     brewery: "Goose Island Beer Co."
     description: >
-      'N/A'
+      '(2025) 2025 Bourbon County Brand Original Stout was aged in a blend of freshly emptied barrels from Buffalo Trace, Heaven Hill, Four Roses, and Wild Turkey. With an average aging time of 14 months, this stout delivers deeply developed flavors of fudge, vanilla, and caramelized sugar—all wrapped in a rich, decadent mouthfeel. 14.8% ABV.'
     type: "Stout - Imperial"
   - name: "Bourbon County Brand Vanilla Rye Stout (2024)"
     abv: "14% ABV"
