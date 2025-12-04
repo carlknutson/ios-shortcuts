@@ -23,6 +23,12 @@ taps:
     description: >
       'J. Bird Wines’ Amaretto Mead — a smooth, nutty twist on classic honey mead.'
     type: "Mead - Melomel"
+  - name: "Andy's Grille Orange Bliss"
+    abv: "6.1% ABV"
+    brewery: "Pryes Brewing Company"
+    description: >
+      'Found at Andy's GrilleBursting with a medley of orange flavors, complemented by smooth vanilla and marmalade-like notes from Amarillo hops. Sit back and enjoy this lush, citrus-forward smoothie ale. 6.1% ABV. 20 IBUs. Brewed in Minneapolis, Minn., by Pryes Brewing Company.'
+    type: "Sour - Smoothie"
   - name: "Axe Man"
     abv: "7.2% ABV"
     brewery: "Surly Brewing Company"
@@ -143,12 +149,6 @@ taps:
     description: >
       'A clean and refreshing lager.'
     type: "Lager - American"
-  - name: "Golf Beer"
-    abv: "5.5% ABV"
-    brewery: "Venn Brewing Company"
-    description: >
-      'American Wheat with Black Tea & Lemon, fka Arnie Palmer Wheat'
-    type: "Wheat Beer - American Pale Wheat"
   - name: "Hard Root Beer"
     abv: "5% ABV"
     brewery: "Invictus Brewing"
@@ -239,12 +239,6 @@ taps:
     description: >
       'Swirling together the flavors of sunny orange, tropical pineapple, and ripe raspberry, and as cooling in the summer heat as a fruity frozen treat. Take a sip of the latest scoop!90 Cal | 4g Carb |'
     type: "Hard Seltzer"
-  - name: "Rare Candy: Blueberry Pie"
-    abv: "6% ABV"
-    brewery: "Elm Creek Brewing Co."
-    description: >
-      'Blueberry pie sour with graham cracker, cinnamon and vanilla'
-    type: "Sour - Fruited"
   - name: "Raspberry Oberon"
     abv: "5.8% ABV"
     brewery: "Bell’s Brewery"
