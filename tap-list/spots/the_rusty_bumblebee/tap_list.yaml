@@ -17,6 +17,12 @@ taps:
     description: >
       'PRRRT is back and this time it brought the snacks! Brewed with more Gushers and Fruit by the Foot than we ever thought we'd see all at once (it was glorious) as well as Pineapple, Plum, Strawberry, Raspberry, Passionfruit, lactose sugar and a whole bunch of vanilla beans.'
     type: "Sour - Fruited"
+  - name: "All Sunshine"
+    abv: "8.1% ABV"
+    brewery: "Falling Knife Brewing Company"
+    description: >
+      'DDH Hazy DIPA with Citra and Citra Cryo'
+    type: "IPA - Imperial"
   - name: "Amaretto Mead"
     abv: "8% ABV"
     brewery: "J. Bird Wines, Inc."
@@ -71,6 +77,12 @@ taps:
     description: >
       'There is nothing quite like the comforting aroma that fills the home when baking with family. Inspired by late nights in the kitchen with Mom, Goose Island employee Paul Spiller sought to capture that sweet moment in this year’s newest member of the Bourbon County Brand Stout family.2024 Bourbon County Brand Macaroon Stout is an imperial stout aged for a full year in bourbon barrels before adding rich cocoa nibs, sweet candied ginger and toasted coconut. This decadent stout is an homage to the flavors of homemade coconut macaroons with a twist of nostalgia.'
     type: "Stout - Imperial"
+  - name: "Bourbon County Brand Stout (2024) 14.7%"
+    abv: "14.7% ABV"
+    brewery: "Goose Island Beer Co."
+    description: >
+      'After crafting the very first bourbon barrel-aged imperial stout, we've learned that to have the best beer, you start with the best possible ingredients. Barrels are such an important ingredient and we continue to use only the best our friends on the bourbon trail have to offer. 2024 Bourbon County Brand Original Stout is aged in a mix of freshly emptied bourbon barrels from Buffalo Trace, Heaven Hill, Four Roses and Wild Turkey distilleries. Barrel-aged for an average of 12 months, Bourbon County Original Stout boasts deeply developed flavors of fudge, vanilla and caramelized sugar with a rich, decadent mouthfeel.'
+    type: "Stout - Imperial"
   - name: "Bourbon County Brand Stout (2025)"
     abv: "14.8% ABV"
     brewery: "Goose Island Beer Co."
@@ -83,12 +95,6 @@ taps:
     description: >
       'Vanilla, as an ingredient, has made an appearance in Bourbon County lineups over the years, but the 2024 Bourbon County Brand Vanilla Rye Stout is a new take on our 2014 Vanilla Rye release. This year’s release showcases rye and the complexity it delivers by starting with a rye imperial stout and aging it in freshly emptied rye whiskey barrels. After aging in barrels for a full year, the stout is then finished with incredibly aromatic madagascar vanilla beans. Bourbon County Vanilla Rye Stout has the beloved attributes of the vanilla variants before it–with a new characteristically rich spice character from aging in the rye whiskey barrels.'
     type: "Stout - Imperial"
-  - name: "Bourbon County Brand Wheatwine (2019)"
-    abv: "15.4% ABV"
-    brewery: "Goose Island Beer Co."
-    description: >
-      'The 2018 Festival of Wood and Barrel-Aged Beers (FoBAB) award-winning variant is back for its second year, this year aged 100% in Larceny wheated bourbon casks from our partners at Heaven Hill. The result is a softer flavor profile, full of caramel, vanilla, butterscotch, and toffee flavors, all while carrying the nuances of Larceny bourbon barrels.'
-    type: "Wheat Beer - Wheat Wine"
   - name: "Braaaaaaaains - Raspberry & Guava"
     abv: "6.5% ABV"
     brewery: "Drekker Brewing Company"
@@ -268,6 +274,12 @@ taps:
     brewery: "Elm Creek Brewing Co."
     description: >
       'THIS PUNGENT NEW ENGLAND IPA IS BREWED WITH AN IMPRESSIVE TRIO OF HOPS, HOPPED IN THE WHIRLPOOL WITH CITRA, THEN GIVEN A HEFTY DRY HOP DOSE OF HBC 1019, NECTARON AND CITRA HOPS. A SOFT PILLOWY BODY IS SUPPORTED BY PUNGENT TROPICAL AROMAS OF PEACH, HONEYDEW MELON, PINEAPPLE AND CITRUS.'
+    type: "IPA - New England"
+  - name: "Sustained Illusion"
+    abv: "6.5% ABV"
+    brewery: "Elm Creek Brewing Co."
+    description: >
+      'Brewed with malted wheat and flaked oats, hopped with Citra in the whirlpool and then dry hopped with Citra and Enigma. Giving aromas of White Wine, raspberries and red currants, and a soft body with deep tropical fruit flavors.'
     type: "IPA - New England"
   - name: "Tiny Esses"
     abv: "5.9% ABV"
