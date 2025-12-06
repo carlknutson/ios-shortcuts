@@ -1,0 +1,4 @@
+Error parsing YAML file: while parsing a block mapping
+  in "spots/10k/tap_list.yaml", line 2, column 5
+expected <block end>, but found '<scalar>'
+  in "spots/10k/tap_list.yaml", line 2, column 13
