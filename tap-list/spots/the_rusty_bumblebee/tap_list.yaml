@@ -11,12 +11,6 @@ taps:
     description: >
       'N/A'
     type: "Stout - Imperial"
-  - name: "After School PRRRT"
-    abv: "6.8% ABV"
-    brewery: "Drekker Brewing Company"
-    description: >
-      'PRRRT is back and this time it brought the snacks! Brewed with more Gushers and Fruit by the Foot than we ever thought we'd see all at once (it was glorious) as well as Pineapple, Plum, Strawberry, Raspberry, Passionfruit, lactose sugar and a whole bunch of vanilla beans.'
-    type: "Sour - Fruited"
   - name: "All Sunshine"
     abv: "8.1% ABV"
     brewery: "Falling Knife Brewing Company"
@@ -47,12 +41,6 @@ taps:
     description: >
       'Reserved for the darkest of hearts, McKenzie's Black Cherry is an inspiration to hard cider - rich amber, full body with a refreshingly sweet cherry finish.'
     type: "Cider - Other Fruit"
-  - name: "Black Currant Mead"
-    abv: "8.5% ABV"
-    brewery: "J. Bird Wines, Inc."
-    description: >
-      'Black Currants are a deep dark berry with a rich flavor and a slight tangy almost tart finish. Gluten Free.'
-    type: "Mead - Melomel"
   - name: "Black Gold"
     abv: "5.5% ABV"
     brewery: "Bauhaus Brew Labs"
@@ -100,12 +88,6 @@ taps:
     brewery: "Drekker Brewing Company"
     description: >
       'We loaded this one up with a ton (ton and a half, give or take) of raspberry & pink guava and then added a whole bunch of vanilla, lactose, and sea salt. It's super thicccc, tart, and sweet and we think you're really gonna like this one.'
-    type: "Sour - Smoothie"
-  - name: "CHONK: Pineapple Whhhip"
-    abv: "6.6% ABV"
-    brewery: "Drekker Brewing Company"
-    description: >
-      'Our loveable hefty boi found himself in a land (or a world?) full of delicious, pineappley, ice creamy desserts.⠀This new Pineapple Whip Chonk is loaded up with Pineapple, Marshmallows, lactose, and Pineapple Sorbet.'
     type: "Sour - Smoothie"
   - name: "CHONK: Strawberry & White Chocolate"
     abv: "7.5% ABV"
@@ -155,6 +137,12 @@ taps:
     description: >
       'A clean and refreshing lager.'
     type: "Lager - American"
+  - name: "Gumballhead"
+    abv: "5.6% ABV"
+    brewery: "3 Floyds Brewing"
+    description: >
+      'An American wheat ale brewed with white wheat and dry hopped with hand-selected hops from the Yakima Valley. Bright and refreshing with a lemony finish.'
+    type: "Wheat Beer - American Pale Wheat"
   - name: "Hard Root Beer"
     abv: "5% ABV"
     brewery: "Invictus Brewing"
@@ -179,6 +167,12 @@ taps:
     description: >
       'Full-bodied, hazy double IPA Citra-hopped for a juicy combination of mango, orange, and pineapple flavors. Finishes with a grapefruit aroma and ferocious bite.'
     type: "IPA - Imperial"
+  - name: "KÖLD"
+    abv: "4.7% ABV"
+    brewery: "Fair State Brewing"
+    description: >
+      'KÖLD is our interpretation of the classic German Kölsch ale: golden, crispy, and refreshing. We brewed KÖLD for every day drinking, with an eye towards the social aspects of drinking—fun had with friends old and new, shared experiences, and conviviality. Brewed with a particular German ale yeast that brings hints of fruitiness to a malty–but–not–sweet body and restrained hopping, KÖLD is an eminently crushable study in balance.'
+    type: "Kölsch"
   - name: "LOCAL DROPS"
     abv: "7.2% ABV"
     brewery: "BlackStack Brewing"
@@ -197,12 +191,6 @@ taps:
     description: >
       'Loonar Eclipse Czech Style Dark Lager is very dark, deep red - black in the glass, but it has a surprisingly light body. It’s brewed with Czech hops, which give it a nice balance and aroma. The malt flavor comes through with suggestions of toasted bread. Originally released as a one time beer named Utepils 2018 Moment beer, it was too delicious not to come back as it's own beer. Enjoy!'
     type: "Lager - Tmavé (Czech Dark)"
-  - name: "Maple Märzen"
-    abv: "5.7% ABV"
-    brewery: "Castle Danger Brewery"
-    description: >
-      'Our Maple Märzen is a great fall beer offering highlighting local products.  Märzen beers were traditionally brewed in March (März) while the weather was still cool and brewing was practical.  The beer would be lagered through the summer and served in the fall.  Fall festivals including Oktoberfest proved to be a great time to enjoy these well aged and complex beers which were also crisp and refreshing.Maple Märzen brings traditional German malts and hops and blends them with local maple syrup.  The result is a malty flavor that is rich bread-y toast with caramel notes and strong maple character.  The German Noble hops lend a subtle balancing spice to the beer but play 2’nd fiddle to the malt/maple profile.  German lager yeast helps the Märzen stay crisp and clean tasting, letting the other ingredients shine through. This traditional lager style with an added northwoods twist makes a welcome addition to a sunny but cool autumn day or any campfire.'
-    type: "Märzen"
   - name: "Nefertiti"
     abv: "8% ABV"
     brewery: "J. Bird Wines, Inc."
@@ -221,18 +209,6 @@ taps:
     description: >
       'House Hazy IPA with Citra, Simcoe, & Mosaic Hops'
     type: "IPA - New England"
-  - name: "Odin"
-    abv: "8.5% ABV"
-    brewery: "J. Bird Wines, Inc."
-    description: >
-      'Our most popular flavor is made from the root of the Birch tree that is ground up and made into a tea. Odin Mead has a nice earthy tone with herbal hints of cinnamon, vanilla, and ginger. Birch being close to taste with Sarsaparilla, this mead will seem similar to old fashioned root beers. Gluten Free.'
-    type: "Mead - Other"
-  - name: "Pistachio Cream Ale"
-    abv: "5.5% ABV"
-    brewery: "Indeed Brewing Company"
-    description: >
-      'Like liberating a pistachio nut from its shell, our pistachio cream ale is supremely satisfying.  Spritzy and crisp, smooth and slightly nutty, this beer is a delightful mixed bag.  Pry one loose and pop the top.'
-    type: "Cream Ale"
   - name: "Pomegranate Spritz"
     abv: "N/A"
     brewery: "Wild State Cider"
@@ -251,12 +227,6 @@ taps:
     description: >
       'American Wheat Ale brewed with raspberries. Big raspberry aroma. Jammy. Finishes dry and clean. Available exclusively at the Bell's General Store.'
     type: "Wheat Beer - Fruited"
-  - name: "Schickemode"
-    abv: "5.8% ABV"
-    brewery: "Insight Brewing Company"
-    description: >
-      'Schickemode (that's Chic Fashion for the non-German speakers) is back for another Oktoberfest season.  This tasty, malty lager hits all the right Bavarian notes.  Lederhosen is encouraged but not required.  Prost!'
-    type: "Festbier"
   - name: "Slang Du Jour - Black Forest Cake"
     abv: "6.6% ABV"
     brewery: "Drekker Brewing Company"
@@ -317,12 +287,6 @@ taps:
     description: >
       '6 & 18 Month Whiskey Barrel Blend, rested on coffee'
     type: "Stout - Imperial"
-  - name: "You Had Me At Sugar Mama"
-    abv: "4.2% ABV"
-    brewery: "Young Blood Beer Company"
-    description: >
-      'Fruit Punch Sour w/ Peach, Passion Fruit, Orange & Guava Listen up, (or don’t)  cause I will certainly say it again if I have to.  However, the important thing here is that if you think my loyalties can be bought with flattery then strangely you know me well and I'm not sure how I feel about that. Do I need a little extra cash in hand sometimes, who doesn’t. Is it a crime to have a financial support group (person) that loves to love me when times are a troublin’? I don’t think so, so go ahead and get gone with your bad vibes while I spend like there’s no tomorrow.'
-    type: "Sour - Fruited"
   - name: "Zombie Braaaaaaaains"
     abv: "6.5% ABV"
     brewery: "Drekker Brewing Company"
