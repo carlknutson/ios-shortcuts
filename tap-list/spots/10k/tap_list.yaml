@@ -1,4 +1,7 @@
 taps:
+  - name: ""Grace? She Passed Away 30 Years Ago""
+    abv: "4.7%"
+    type: "Chai Cream Ale"
   - name: ""Holy Sh!t! Where's The Tylenol?""
     abv: "5.8%"
     type: "Almond Cookie Blonde Ale"
@@ -53,9 +56,6 @@ taps:
   - name: "Nut Brown"
     abv: "5.1%"
     type: "Nut Brown Ale"
-  - name: "Triple Foggy"
-    abv: "9.8% (13oz)"
-    type: "Triple IPA"
   - name: "Wee Heavy"
     abv: "8.4% (13oz)"
     type: "Scotch Ale"
