@@ -5,12 +5,6 @@ taps:
     description: >
       'Lots of vanilla, wintergreen, and other delicious roots along with real sucrose makes it the best root beer ever'
     type: "Root Beer"
-  - name: "2025 Barrel Aged Lost Moon"
-    abv: "N/A"
-    brewery: "Pryes Brewing Company"
-    description: >
-      'N/A'
-    type: "Stout - Imperial"
   - name: "All Sunshine"
     abv: "8.1% ABV"
     brewery: "Falling Knife Brewing Company"
@@ -233,6 +227,12 @@ taps:
     description: >
       'Black Forest Cake Slang Du Jour is STUFFED with cherry, almonds, chocolate cake, and vanilla ice cream and you’re gonna wanna come back for seconds of this one.⠀'
     type: "Sour - Smoothie"
+  - name: "Speedway Stout: Grand Prix On the Road - Banana Cream Pie Edition"
+    abv: "12% ABV"
+    brewery: "AleSmith Brewing Company"
+    description: >
+      'Banana, vanilla, and coffee'
+    type: "Stout - Imperial"
   - name: "Stone Buenaveza Salt & Lime Lager"
     abv: "4.7% ABV"
     brewery: "Stone Brewing"
