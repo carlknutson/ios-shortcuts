@@ -35,12 +35,6 @@ taps:
     description: >
       'Reserved for the darkest of hearts, McKenzie's Black Cherry is an inspiration to hard cider - rich amber, full body with a refreshingly sweet cherry finish.'
     type: "Cider - Other Fruit"
-  - name: "Black Gold"
-    abv: "5.5% ABV"
-    brewery: "Bauhaus Brew Labs"
-    description: >
-      'Black Gold is a new collaboration between Bauhaus Brew Labs and Pizza Luce that aims to solve this age-old problem by creating an entirely new beer style — the Black Cream Ale. By combining the crisp, easy-drinking body of a classic Cream Ale recipe with the jet-black color and subtle roastiness of a Stout or Porter, we’ve uncovered the ultimate beverage for having your pie and eating it too. Available now through the end of the year exclusively at every Pizza Luce location!'
-    type: "Cream Ale"
   - name: "Bourbon County Brand Cherries Jubilee Stout (2025)"
     abv: "14.5% ABV"
     brewery: "Goose Island Beer Co."
@@ -77,11 +71,11 @@ taps:
     description: >
       'Vanilla, as an ingredient, has made an appearance in Bourbon County lineups over the years, but the 2024 Bourbon County Brand Vanilla Rye Stout is a new take on our 2014 Vanilla Rye release. This year’s release showcases rye and the complexity it delivers by starting with a rye imperial stout and aging it in freshly emptied rye whiskey barrels. After aging in barrels for a full year, the stout is then finished with incredibly aromatic madagascar vanilla beans. Bourbon County Vanilla Rye Stout has the beloved attributes of the vanilla variants before it–with a new characteristically rich spice character from aging in the rye whiskey barrels.'
     type: "Stout - Imperial"
-  - name: "Braaaaaaaains - Raspberry & Guava"
-    abv: "6.5% ABV"
+  - name: "Braaaaaaaains - Passionfruit Guava"
+    abv: "6.4% ABV"
     brewery: "Drekker Brewing Company"
     description: >
-      'We loaded this one up with a ton (ton and a half, give or take) of raspberry & pink guava and then added a whole bunch of vanilla, lactose, and sea salt. It's super thicccc, tart, and sweet and we think you're really gonna like this one.'
+      'This Braaaaaaaains is jam packed with Passionfruit & Guava. Then of course we hit it with our double secret smoothie treatment of sea salt, lactose & vanilla beans so it’s insanely tasty and pairs perfectly with a warm breeze and a little sunshine.'
     type: "Sour - Smoothie"
   - name: "CHONK: Strawberry & White Chocolate"
     abv: "7.5% ABV"
@@ -119,6 +113,12 @@ taps:
     description: >
       'N/A'
     type: "Festbier"
+  - name: "Fistmas"
+    abv: "6.5% ABV"
+    brewery: "Revolution Brewing"
+    description: >
+      'Our Holiday Red Ale is steeped with ginger root and orange peel, resulting in a beer with aromas of fresh baked bread, caramel, and stone fruits. Fistmas was brewed with specialty malts to achieve a beautiful deep red hue.'
+    type: "Red Ale - Other"
   - name: "Florida Seltzer Prickly Pear & Guava"
     abv: "5% ABV"
     brewery: "Untitled Art"
@@ -293,3 +293,9 @@ taps:
     description: >
       'We loaded this Braaaaaaaains up with Lemon, Lime, Cherry, Pineapple, & Passionfruit and then hit it with our double secret smoothie treatment of sea salt, lactose, and vanilla. It’s got us thinking that this must be what Braaaaaaaains taste like to a zombie. Because it’s dang delicious and it’s got us wanting more and more and now all we think about is Braaaaaaaains. So you know, zombies, we get it.⠀'
     type: "Sour - Smoothie"
+  - name: "Žižkov Czech-style Pilsner"
+    abv: "5.2% ABV"
+    brewery: "Bauhaus Brew Labs"
+    description: >
+      'N/A'
+    type: "Pilsner - Czech"
