@@ -227,6 +227,12 @@ taps:
     description: >
       'Black Forest Cake Slang Du Jour is STUFFED with cherry, almonds, chocolate cake, and vanilla ice cream and you’re gonna wanna come back for seconds of this one.⠀'
     type: "Sour - Smoothie"
+  - name: "Slang Du Jour - Cherry Cheesecake"
+    abv: "6.2% ABV"
+    brewery: "Drekker Brewing Company"
+    description: >
+      'Cherry Cheesecake Slang Du Jour is loaded up with a whole pile of cherries, granola, cream cheese, lactose, and brown sugar for a flavor to match the big boss of the dessert world!'
+    type: "Sour - Smoothie"
   - name: "Speedway Stout: Grand Prix On the Road - Banana Cream Pie Edition"
     abv: "12% ABV"
     brewery: "AleSmith Brewing Company"
