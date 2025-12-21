@@ -11,12 +11,6 @@ taps:
     description: >
       'DDH Hazy DIPA with Citra and Citra Cryo'
     type: "IPA - Imperial"
-  - name: "Amaretto Mead"
-    abv: "8% ABV"
-    brewery: "J. Bird Wines, Inc."
-    description: >
-      'J. Bird Wines’ Amaretto Mead — a smooth, nutty twist on classic honey mead.'
-    type: "Mead - Melomel"
   - name: "Andy's Grille Orange Bliss"
     abv: "6.1% ABV"
     brewery: "Pryes Brewing Company"
@@ -71,11 +65,23 @@ taps:
     description: >
       'Vanilla, as an ingredient, has made an appearance in Bourbon County lineups over the years, but the 2024 Bourbon County Brand Vanilla Rye Stout is a new take on our 2014 Vanilla Rye release. This year’s release showcases rye and the complexity it delivers by starting with a rye imperial stout and aging it in freshly emptied rye whiskey barrels. After aging in barrels for a full year, the stout is then finished with incredibly aromatic madagascar vanilla beans. Bourbon County Vanilla Rye Stout has the beloved attributes of the vanilla variants before it–with a new characteristically rich spice character from aging in the rye whiskey barrels.'
     type: "Stout - Imperial"
+  - name: "Braaaaaaaains - Mango Guava"
+    abv: "6.4% ABV"
+    brewery: "Drekker Brewing Company"
+    description: >
+      'We’ve entered full tropical meltdown mode with this juicy jungle beast. Braaaaaaaains Mango Guava is absolutely loaded with piles of lush mango and tangy guava, then hit with our signature smoothie treatment of sea salt, lactose, and vanilla to round it all out with that rich, creamy, ridiculously slurpable mouthfeel you know and crave. It’s fruity. It’s fluffy. It’s freakishly good.'
+    type: "Sour - Smoothie"
   - name: "Braaaaaaaains - Passionfruit Guava"
     abv: "6.4% ABV"
     brewery: "Drekker Brewing Company"
     description: >
       'This Braaaaaaaains is jam packed with Passionfruit & Guava. Then of course we hit it with our double secret smoothie treatment of sea salt, lactose & vanilla beans so it’s insanely tasty and pairs perfectly with a warm breeze and a little sunshine.'
+    type: "Sour - Smoothie"
+  - name: "CHONK: Peanut Butter & Jelly"
+    abv: "6.6% ABV"
+    brewery: "Drekker Brewing Company"
+    description: >
+      'It's Peanut Butter Jelly Time!'
     type: "Sour - Smoothie"
   - name: "CHONK: Strawberry & White Chocolate"
     abv: "7.5% ABV"
@@ -155,12 +161,6 @@ taps:
     description: >
       'Pickle Beer'
     type: "Blonde"
-  - name: "King Sue"
-    abv: "7.8% ABV"
-    brewery: "Toppling Goliath Brewing Co."
-    description: >
-      'Full-bodied, hazy double IPA Citra-hopped for a juicy combination of mango, orange, and pineapple flavors. Finishes with a grapefruit aroma and ferocious bite.'
-    type: "IPA - Imperial"
   - name: "KÖLD"
     abv: "4.7% ABV"
     brewery: "Fair State Brewing"
@@ -215,18 +215,18 @@ taps:
     description: >
       'Swirling together the flavors of sunny orange, tropical pineapple, and ripe raspberry, and as cooling in the summer heat as a fruity frozen treat. Take a sip of the latest scoop!90 Cal | 4g Carb |'
     type: "Hard Seltzer"
+  - name: "Rare Candy: Blueberry Pie"
+    abv: "6% ABV"
+    brewery: "Elm Creek Brewing Co."
+    description: >
+      'Blueberry pie sour with graham cracker, cinnamon and vanilla'
+    type: "Sour - Fruited"
   - name: "Raspberry Oberon"
     abv: "5.8% ABV"
     brewery: "Bell’s Brewery"
     description: >
       'American Wheat Ale brewed with raspberries. Big raspberry aroma. Jammy. Finishes dry and clean. Available exclusively at the Bell's General Store.'
     type: "Wheat Beer - Fruited"
-  - name: "Slang Du Jour - Black Forest Cake"
-    abv: "6.6% ABV"
-    brewery: "Drekker Brewing Company"
-    description: >
-      'Black Forest Cake Slang Du Jour is STUFFED with cherry, almonds, chocolate cake, and vanilla ice cream and you’re gonna wanna come back for seconds of this one.⠀'
-    type: "Sour - Smoothie"
   - name: "Slang Du Jour - Cherry Cheesecake"
     abv: "6.2% ABV"
     brewery: "Drekker Brewing Company"
@@ -293,12 +293,6 @@ taps:
     description: >
       '6 & 18 Month Whiskey Barrel Blend, rested on coffee'
     type: "Stout - Imperial"
-  - name: "Zombie Braaaaaaaains"
-    abv: "6.5% ABV"
-    brewery: "Drekker Brewing Company"
-    description: >
-      'We loaded this Braaaaaaaains up with Lemon, Lime, Cherry, Pineapple, & Passionfruit and then hit it with our double secret smoothie treatment of sea salt, lactose, and vanilla. It’s got us thinking that this must be what Braaaaaaaains taste like to a zombie. Because it’s dang delicious and it’s got us wanting more and more and now all we think about is Braaaaaaaains. So you know, zombies, we get it.⠀'
-    type: "Sour - Smoothie"
   - name: "Žižkov Czech-style Pilsner"
     abv: "5.2% ABV"
     brewery: "Bauhaus Brew Labs"
