@@ -245,6 +245,12 @@ taps:
     description: >
       'Brewer Ben Sheehan created this beer while working down at Stone Brewing World Bistro & Gardens – Liberty Station. Stone Buenaveza Salt & Lime Lager’s inspiration comes from Southern California, which is vibrantly influenced by our neighbors to the South. California's spoiling, warm weather encourages outdoor activity year round - and now the rest of the nation can join in. From surfing our coasts, to snowboarding and biking in the mountains, off-roading through deserted lands, or boating and fishing in our lakes, Stone Buenaveza Salt & Lime Lager is an excellent companion. It’s a thrillingly crisp, clean, refreshing Mexican-style lager that quenches thirsts, while gratifying taste buds via lime and sea salt.'
     type: "Lager - Mexican"
+  - name: "Stout - Imperial"
+    abv: "15.2% ABV"
+    brewery: "Goose Island Beer Co."
+    description: >
+      'Originally brewed in honor of the 1000th batch at our original Clybourn brewpub. A liquid as dark and dense as a black hole with thick foam the color of a bourbon barrel. The nose is an intense mix of charred oak, chocolate, vanilla, caramel and smoke. One sip has more flavor than your average case of beer.'
+    type: "Stout - Imperial"
   - name: "Supercell"
     abv: "7% ABV"
     brewery: "Elm Creek Brewing Co."
