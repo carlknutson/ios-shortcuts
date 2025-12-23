@@ -11,6 +11,12 @@ taps:
     description: >
       'DDH Hazy DIPA with Citra and Citra Cryo'
     type: "IPA - Imperial"
+  - name: "Amaretto Mead"
+    abv: "8% ABV"
+    brewery: "J. Bird Wines, Inc."
+    description: >
+      'J. Bird Wines’ Amaretto Mead — a smooth, nutty twist on classic honey mead.'
+    type: "Mead - Melomel"
   - name: "Andy's Grille Orange Bliss"
     abv: "6.1% ABV"
     brewery: "Pryes Brewing Company"
