@@ -113,12 +113,6 @@ taps:
     description: >
       'A tuned up version of our forever favorite fog dog. Extra helpings of all the things that make us love it so: More Wheat. More Oats. More of our Hand-Selected Citra, Azacca & Amarillo. Obscene amounts of the Hand-Selected Cryo versions of all the same to finish it off. Liquid love in a can. Pour Up?'
     type: "IPA - Imperial"
-  - name: "Ectogasm"
-    abv: "7% ABV"
-    brewery: "Drekker Brewing Company"
-    description: >
-      'Ectogasm is a juicy, hazy, and soft NE IPA brewed with Citra & Mosaic hops.'
-    type: "IPA - New England"
   - name: "Festbier (2025)"
     abv: "5.7% ABV"
     brewery: "Fair State Brewing"
@@ -161,6 +155,12 @@ taps:
     description: >
       'Hop Waves Juicy IPA is intensely hopped to provide the juicy hop flavors of tangerine, pineapple, creamsicle, ripe melon and honey. Hop Waves pours a hazy sunset gold, with a bright white, fluffy head. The clean citrusy finish makes this the perfect IPA to enjoy these tropical waves of flavor.'
     type: "IPA - New England"
+  - name: "Hop Waves Hazy IPA"
+    abv: "6.2% ABV"
+    brewery: "Excelsior Brewing Company"
+    description: >
+      'Hop Waves Juicy IPA is intensely hopped to provide the juicy hop flavors of tangerine, pineapple, creamsicle, ripe melon and honey. Hop Waves pours a hazy sunset gold, with a bright white, fluffy head. The clean citrusy finish makes this the perfect IPA to enjoy these tropical waves of flavor.'
+    type: "IPA - New England"
   - name: "Kind of a Big Dill"
     abv: "4.3% ABV"
     brewery: "Blacklist Brewing Co."
@@ -191,12 +191,6 @@ taps:
     description: >
       'Loonar Eclipse Czech Style Dark Lager is very dark, deep red - black in the glass, but it has a surprisingly light body. It’s brewed with Czech hops, which give it a nice balance and aroma. The malt flavor comes through with suggestions of toasted bread. Originally released as a one time beer named Utepils 2018 Moment beer, it was too delicious not to come back as it's own beer. Enjoy!'
     type: "Lager - Tmavé (Czech Dark)"
-  - name: "Nefertiti"
-    abv: "8% ABV"
-    brewery: "J. Bird Wines, Inc."
-    description: >
-      'This Mead is based on a popular hibiscus, honey and lemon tea that is widely enjoyed in middle eastern countries, It pours a clear beautiful red with decent ‘legs’ on the sides of the glass, lightly tangy and mildly floral in aroma with a light fresh honey scent.'
-    type: "Mead - Other"
   - name: "Non-Alcoholic Bohemian Blonde Ale"
     abv: "0.5% ABV"
     brewery: "Pryes Brewing Company"
@@ -209,6 +203,12 @@ taps:
     description: >
       'House Hazy IPA with Citra, Simcoe, & Mosaic Hops'
     type: "IPA - New England"
+  - name: "Persephone"
+    abv: "8% ABV"
+    brewery: "J. Bird Wines, Inc."
+    description: >
+      'This mead with pomegranates offers a unique profile that has a vibrant ruby color. With a tangy sweetness this tart fruit has hints red berries with citrus undertones. Much like when spring returns when the goddess Persephone leaves the underworld your tastebuds will bloom as you sip this drink.'
+    type: "Mead - Melomel"
   - name: "Pomegranate Spritz"
     abv: "N/A"
     brewery: "Wild State Cider"
@@ -251,12 +251,6 @@ taps:
     description: >
       'Brewer Ben Sheehan created this beer while working down at Stone Brewing World Bistro & Gardens – Liberty Station. Stone Buenaveza Salt & Lime Lager’s inspiration comes from Southern California, which is vibrantly influenced by our neighbors to the South. California's spoiling, warm weather encourages outdoor activity year round - and now the rest of the nation can join in. From surfing our coasts, to snowboarding and biking in the mountains, off-roading through deserted lands, or boating and fishing in our lakes, Stone Buenaveza Salt & Lime Lager is an excellent companion. It’s a thrillingly crisp, clean, refreshing Mexican-style lager that quenches thirsts, while gratifying taste buds via lime and sea salt.'
     type: "Lager - Mexican"
-  - name: "Stout - Imperial"
-    abv: "15.2% ABV"
-    brewery: "Goose Island Beer Co."
-    description: >
-      'Originally brewed in honor of the 1000th batch at our original Clybourn brewpub. A liquid as dark and dense as a black hole with thick foam the color of a bourbon barrel. The nose is an intense mix of charred oak, chocolate, vanilla, caramel and smoke. One sip has more flavor than your average case of beer.'
-    type: "Stout - Imperial"
   - name: "Supercell"
     abv: "7% ABV"
     brewery: "Elm Creek Brewing Co."
