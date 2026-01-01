@@ -191,6 +191,12 @@ taps:
     description: >
       'Loonar Eclipse Czech Style Dark Lager is very dark, deep red - black in the glass, but it has a surprisingly light body. It’s brewed with Czech hops, which give it a nice balance and aroma. The malt flavor comes through with suggestions of toasted bread. Originally released as a one time beer named Utepils 2018 Moment beer, it was too delicious not to come back as it's own beer. Enjoy!'
     type: "Lager - Tmavé (Czech Dark)"
+  - name: "Mango Mead"
+    abv: "8% ABV"
+    brewery: "J. Bird Wines, Inc."
+    description: >
+      'N/A'
+    type: "Mead - Melomel"
   - name: "Non-Alcoholic Bohemian Blonde Ale"
     abv: "0.5% ABV"
     brewery: "Pryes Brewing Company"
