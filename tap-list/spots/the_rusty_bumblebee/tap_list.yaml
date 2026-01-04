@@ -95,6 +95,12 @@ taps:
     description: >
       'It's a hefty boi, so thicc, an absolute unit, it's CHONK! A new series of some of the most decadent beers we've ever dreamed up that can only be described as a Sundae Sour. The inaugural plop is loaded with strawberries and smothered in white chocolate and lactose sugar. OH LAWD HE COMIN!⁣'
     type: "Sour - Smoothie"
+  - name: "Choconut"
+    abv: "6.5% ABV"
+    brewery: "Venn Brewing Company"
+    description: >
+      'Stout with Peanut Butter & Chocolate'
+    type: "Stout - Pastry"
   - name: "Coors Light"
     abv: "4.2% ABV"
     brewery: "Coors Brewing Company"
@@ -161,6 +167,12 @@ taps:
     description: >
       'Hop Waves Juicy IPA is intensely hopped to provide the juicy hop flavors of tangerine, pineapple, creamsicle, ripe melon and honey. Hop Waves pours a hazy sunset gold, with a bright white, fluffy head. The clean citrusy finish makes this the perfect IPA to enjoy these tropical waves of flavor.'
     type: "IPA - New England"
+  - name: "Jolly PRRRTers - Blue Razz"
+    abv: "6.6% ABV"
+    brewery: "Drekker Brewing Company"
+    description: >
+      'Jolly PRRRTers is a Blue Razz Slush Style Sour packed with Blueberry, Raspberry, Pineapple, Blue Raspberry Jolly Rancher® candies, and Blue Razz Slushy Mix. We could go on and on about how amazing and fruity it tastes, but these flavors blend perfectly together to taste exactly like a blue razz Jolly Rancher®, just in cool, refreshing, delicious liquid form.'
+    type: "Sour - Smoothie"
   - name: "Kind of a Big Dill"
     abv: "4.3% ABV"
     brewery: "Blacklist Brewing Co."
@@ -269,12 +281,6 @@ taps:
     description: >
       'Brewed with malted wheat and flaked oats, hopped with Citra in the whirlpool and then dry hopped with Citra and Enigma. Giving aromas of White Wine, raspberries and red currants, and a soft body with deep tropical fruit flavors.'
     type: "IPA - New England"
-  - name: "Tiny Esses"
-    abv: "5.9% ABV"
-    brewery: "Prairie Artisan Ales"
-    description: >
-      'Sour ale with Skittles'
-    type: "Sour - Other"
   - name: "Tropicopia"
     abv: "8.5% ABV"
     brewery: "Venn Brewing Company"
@@ -299,12 +305,6 @@ taps:
     description: >
       'Citra and Mosaic Hazy IPA'
     type: "IPA - New England"
-  - name: "WBA Hot Brown Duck Art"
-    abv: "14% ABV"
-    brewery: "Oliphant Brewing"
-    description: >
-      '6 & 18 Month Whiskey Barrel Blend, rested on coffee'
-    type: "Stout - Imperial"
   - name: "Žižkov Czech-style Pilsner"
     abv: "5.2% ABV"
     brewery: "Bauhaus Brew Labs"
