@@ -83,17 +83,17 @@ taps:
     description: >
       'This Braaaaaaaains is jam packed with Passionfruit & Guava. Then of course we hit it with our double secret smoothie treatment of sea salt, lactose & vanilla beans so it’s insanely tasty and pairs perfectly with a warm breeze and a little sunshine.'
     type: "Sour - Smoothie"
+  - name: "CHONK: Blackberry Caramel"
+    abv: "6.7% ABV"
+    brewery: "Drekker Brewing Company"
+    description: >
+      'Our loveable hefty boi went all out for snacky time this time and smothered the salted caramel ice cream with even more caramel and topped it off with plum and blackberries because why not. The combination of the sticky, sweet & salty caramel with the berries is enough to make your toe beans curl right up.'
+    type: "Sour - Smoothie"
   - name: "CHONK: Peanut Butter & Jelly"
     abv: "6.6% ABV"
     brewery: "Drekker Brewing Company"
     description: >
       'It's Peanut Butter Jelly Time!'
-    type: "Sour - Smoothie"
-  - name: "CHONK: Strawberry & White Chocolate"
-    abv: "7.5% ABV"
-    brewery: "Drekker Brewing Company"
-    description: >
-      'It's a hefty boi, so thicc, an absolute unit, it's CHONK! A new series of some of the most decadent beers we've ever dreamed up that can only be described as a Sundae Sour. The inaugural plop is loaded with strawberries and smothered in white chocolate and lactose sugar. OH LAWD HE COMIN!⁣'
     type: "Sour - Smoothie"
   - name: "Choconut"
     abv: "6.5% ABV"
@@ -119,12 +119,6 @@ taps:
     description: >
       'A tuned up version of our forever favorite fog dog. Extra helpings of all the things that make us love it so: More Wheat. More Oats. More of our Hand-Selected Citra, Azacca & Amarillo. Obscene amounts of the Hand-Selected Cryo versions of all the same to finish it off. Liquid love in a can. Pour Up?'
     type: "IPA - Imperial"
-  - name: "Festbier (2025)"
-    abv: "5.7% ABV"
-    brewery: "Fair State Brewing"
-    description: >
-      'N/A'
-    type: "Festbier"
   - name: "Fistmas"
     abv: "6.5% ABV"
     brewery: "Revolution Brewing"
