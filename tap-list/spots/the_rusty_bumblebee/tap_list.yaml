@@ -125,11 +125,11 @@ taps:
     description: >
       'Our Holiday Red Ale is steeped with ginger root and orange peel, resulting in a beer with aromas of fresh baked bread, caramel, and stone fruits. Fistmas was brewed with specialty malts to achieve a beautiful deep red hue.'
     type: "Red Ale - Other"
-  - name: "Florida Seltzer Prickly Pear & Guava"
+  - name: "Florida Seltzer Blood Orange & Pomegranate"
     abv: "5% ABV"
     brewery: "Untitled Art"
     description: >
-      'Prickly pear and guava hard seltzer.'
+      'N/A'
     type: "Hard Seltzer"
   - name: "Floyds Deluxe"
     abv: "4.5% ABV"
@@ -227,12 +227,6 @@ taps:
     description: >
       'N/A'
     type: "Cider - Herbed"
-  - name: "Quirk Rainbow Sherbet Hard Seltzer"
-    abv: "4% ABV"
-    brewery: "Boulevard Brewing Co."
-    description: >
-      'Swirling together the flavors of sunny orange, tropical pineapple, and ripe raspberry, and as cooling in the summer heat as a fruity frozen treat. Take a sip of the latest scoop!90 Cal | 4g Carb |'
-    type: "Hard Seltzer"
   - name: "Rare Candy: Blueberry Pie"
     abv: "6% ABV"
     brewery: "Elm Creek Brewing Co."
