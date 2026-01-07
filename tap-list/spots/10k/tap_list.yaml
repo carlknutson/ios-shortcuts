@@ -62,6 +62,3 @@ taps:
   - name: "White Knuckle Lager"
     abv: "5%"
     type: "American Lager"
-  - name: "Wooly Bully"
-    abv: "6.6%"
-    type: "Oatmeal Rye Pale Ale"
