@@ -209,6 +209,12 @@ taps:
     description: >
       'House Hazy IPA with Citra, Simcoe, & Mosaic Hops'
     type: "IPA - New England"
+  - name: "Peanut Buddy"
+    abv: "5.5% ABV"
+    brewery: "Pryes Brewing Company"
+    description: >
+      'No matter how you spread it, Peanut Buddy brings the nutty, peanut-buttery, chocolatey smooth tastes and textures to delight-reflecting the flavors of childhood in a grown-up glass.'
+    type: "Porter - American"
   - name: "Persephone"
     abv: "8% ABV"
     brewery: "J. Bird Wines, Inc."
