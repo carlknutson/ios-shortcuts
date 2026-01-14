@@ -107,12 +107,6 @@ taps:
     description: >
       'Coors Light is Coors Brewing Company's largest-selling brand and the fourth best-selling beer in the U.S. Introduced in 1978, Coors Light has been a favorite in delivering the ultimate in cold refreshment for more than 25 years. The simple, silver-toned can caught people's attention and the brew became nicknamed the \Silver Bullet\" as sales climbed."'
     type: "Lager - American Light"
-  - name: "Cottage Mead"
-    abv: "8% ABV"
-    brewery: "J. Bird Wines, Inc."
-    description: >
-      'This is the mead we have been producing for twenty-five years, using northern grown honey. After aging for four years and naturally cleared, pours a light pale golden color, lightly floral with lots of honey in the aroma.'
-    type: "Mead - Traditional"
   - name: "DOUBLE 755"
     abv: "8.8% ABV"
     brewery: "BlackStack Brewing"
@@ -221,6 +215,12 @@ taps:
     description: >
       'This mead with pomegranates offers a unique profile that has a vibrant ruby color. With a tangy sweetness this tart fruit has hints red berries with citrus undertones. Much like when spring returns when the goddess Persephone leaves the underworld your tastebuds will bloom as you sip this drink.'
     type: "Mead - Melomel"
+  - name: "Pistachio Cream Ale"
+    abv: "5.5% ABV"
+    brewery: "Indeed Brewing Company"
+    description: >
+      'Like liberating a pistachio nut from its shell, our pistachio cream ale is supremely satisfying.  Spritzy and crisp, smooth and slightly nutty, this beer is a delightful mixed bag.  Pry one loose and pop the top.'
+    type: "Cream Ale"
   - name: "Pomegranate Spritz"
     abv: "N/A"
     brewery: "Wild State Cider"
@@ -233,11 +233,11 @@ taps:
     description: >
       'Blueberry pie sour with graham cracker, cinnamon and vanilla'
     type: "Sour - Fruited"
-  - name: "Raspberry Oberon"
-    abv: "5.8% ABV"
-    brewery: "Bell’s Brewery"
+  - name: "Shiner Hill Country Peach Wheat Ale"
+    abv: "4.5% ABV"
+    brewery: "Spoetzl Brewery"
     description: >
-      'American Wheat Ale brewed with raspberries. Big raspberry aroma. Jammy. Finishes dry and clean. Available exclusively at the Bell's General Store.'
+      'This small batch brew is the eleventh in our Brewer's Pride Series - a what ale brewed with juicy, perfectly ripe peaches from the nearby Texas Hill Country. These peaches, along with a mix of 2-row and wheat malts, make for a slightly sweet, refreshing ale. Badly filtered, this brew has a golden, hazy color and it tastes like it came fresh from the orchard. But it's only around a little while, so pop open a peach and enjoy.'
     type: "Wheat Beer - Fruited"
   - name: "Slang Du Jour - Cherry Cheesecake"
     abv: "6.2% ABV"
