@@ -280,7 +280,7 @@ taps:
     brewery: "Twisted Tea Brewing Company"
     description: >
       'Original. OG. King of Hard Teas (you said it, not us). This is the one that got us started. Made from real brewed tea and natural lemon flavor, Twisted Tea Original is refreshing, smooth, and of course, a little twisted. Great for sharing with friends too, but if you want to keep this 12 pack for yourself, we don’t blame you.'
-    type: "RTD - Hard Iced Tea"
+    type: "Flavored Malt Beverage"
   - name: "Two Hearted IPA"
     abv: "7% ABV"
     brewery: "Bell’s Brewery"
