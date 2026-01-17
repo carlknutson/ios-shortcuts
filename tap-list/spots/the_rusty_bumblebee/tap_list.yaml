@@ -71,11 +71,11 @@ taps:
     description: >
       'Vanilla, as an ingredient, has made an appearance in Bourbon County lineups over the years, but the 2024 Bourbon County Brand Vanilla Rye Stout is a new take on our 2014 Vanilla Rye release. This year’s release showcases rye and the complexity it delivers by starting with a rye imperial stout and aging it in freshly emptied rye whiskey barrels. After aging in barrels for a full year, the stout is then finished with incredibly aromatic madagascar vanilla beans. Bourbon County Vanilla Rye Stout has the beloved attributes of the vanilla variants before it–with a new characteristically rich spice character from aging in the rye whiskey barrels.'
     type: "Stout - Imperial"
-  - name: "Braaaaaaaains - Mango Guava"
-    abv: "6.4% ABV"
+  - name: "Braaaaaaaains - Cherry Berry"
+    abv: "6.3% ABV"
     brewery: "Drekker Brewing Company"
     description: >
-      'We’ve entered full tropical meltdown mode with this juicy jungle beast. Braaaaaaaains Mango Guava is absolutely loaded with piles of lush mango and tangy guava, then hit with our signature smoothie treatment of sea salt, lactose, and vanilla to round it all out with that rich, creamy, ridiculously slurpable mouthfeel you know and crave. It’s fruity. It’s fluffy. It’s freakishly good.'
+      'We blasted this hella tasty Braaaaaaaains with all of the cherries, strawberries and blueberries we could get our grubby little hands on, then hit it with our double secret smoothie treatment of sea salt, lactose and vanilla. It’s super berry-y, super thicc and just as delicious as you’re imagining it is right now!*CONTAINS LACTOSE'
     type: "Sour - Smoothie"
   - name: "Braaaaaaaains - Passionfruit Guava"
     abv: "6.4% ABV"
@@ -131,6 +131,12 @@ taps:
     description: >
       'A clean and refreshing lager.'
     type: "Lager - American"
+  - name: "Fluff Stuff - Blueberry"
+    abv: "6% ABV"
+    brewery: "Drekker Brewing Company"
+    description: >
+      'Blueberry Fluff Stuff is the first in a new series of super fruity & super fluffy beers! Fluff Stuff leans in hard on the tried and true crazy delicious combination of fruit and marshmallows and gives us a home for all the fluffy beers we want to make. So this first Fluff Stuff is - you guessed it - STUFFED with tart & tasty blueberries and sweet & fluffy marshmallows for a perfect flavor combo we can’t wait for you guys to try!'
+    type: "Sour - Fruited"
   - name: "Gumballhead"
     abv: "5.6% ABV"
     brewery: "3 Floyds Brewing"
@@ -143,12 +149,12 @@ taps:
     description: >
       'N/A'
     type: "Root Beer"
-  - name: "Hop Waves Hazy IPA"
-    abv: "6.2% ABV"
-    brewery: "Excelsior Brewing Company"
+  - name: "Honey Weiss"
+    abv: "4.9% ABV"
+    brewery: "Jacob Leinenkugel Brewing Company"
     description: >
-      'Hop Waves Juicy IPA is intensely hopped to provide the juicy hop flavors of tangerine, pineapple, creamsicle, ripe melon and honey. Hop Waves pours a hazy sunset gold, with a bright white, fluffy head. The clean citrusy finish makes this the perfect IPA to enjoy these tropical waves of flavor.'
-    type: "IPA - New England"
+      'Featuring a touch of real Wisconsin honey, Leinenkugel’s® Honey Weiss is a golden-hued American wheat beer inspired by a classic German style. A little clover honey is all it takes to give Honey Weiss a unique flavor that’s perfectly balanced. Garnish with a lemon wedge for a citrus aroma that nicely complements the sweet, subtle taste of the beer. Try pairing it with foods that won’t overpower the beer’s lighter side, like Friday Fish Fry with a squeeze of lemon, or fresh green salads with candied nuts.'
+    type: "Honey Beer"
   - name: "Jolly PRRRTers - Blue Razz"
     abv: "6.6% ABV"
     brewery: "Drekker Brewing Company"
@@ -233,6 +239,12 @@ taps:
     description: >
       'Blueberry pie sour with graham cracker, cinnamon and vanilla'
     type: "Sour - Fruited"
+  - name: "STAYING CURRENT"
+    abv: "8.9% ABV"
+    brewery: "BlackStack Brewing"
+    description: >
+      'Our buddy Jack left his job at Forager Brewery to make the long journey across the parking lot to make his way in the world and open his very own spot: Jack’s Bottle Shop. We got together with our fam at Forager to make a shredder to wish him luck on his new venture. Our hand selected Strata, Mosaic, Citra Cryo & Samba up to the rafters on a Kushy protein heavy malt bill. Cheers Bud!'
+    type: "IPA - Imperial"
   - name: "Shiner Hill Country Peach Wheat Ale"
     abv: "4.5% ABV"
     brewery: "Spoetzl Brewery"
@@ -251,12 +263,6 @@ taps:
     description: >
       'Banana, vanilla, and coffee'
     type: "Stout - Imperial"
-  - name: "Stone Buenaveza Salt & Lime Lager"
-    abv: "4.7% ABV"
-    brewery: "Stone Brewing"
-    description: >
-      'Brewer Ben Sheehan created this beer while working down at Stone Brewing World Bistro & Gardens – Liberty Station. Stone Buenaveza Salt & Lime Lager’s inspiration comes from Southern California, which is vibrantly influenced by our neighbors to the South. California's spoiling, warm weather encourages outdoor activity year round - and now the rest of the nation can join in. From surfing our coasts, to snowboarding and biking in the mountains, off-roading through deserted lands, or boating and fishing in our lakes, Stone Buenaveza Salt & Lime Lager is an excellent companion. It’s a thrillingly crisp, clean, refreshing Mexican-style lager that quenches thirsts, while gratifying taste buds via lime and sea salt.'
-    type: "Lager - Mexican"
   - name: "Supercell"
     abv: "7% ABV"
     brewery: "Elm Creek Brewing Co."
