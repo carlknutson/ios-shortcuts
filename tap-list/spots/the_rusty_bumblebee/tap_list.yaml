@@ -202,7 +202,7 @@ taps:
     brewery: "Pryes Brewing Company"
     description: >
       'N/A'
-    type: "Non-Alcoholic - Other"
+    type: "Non-Alcoholic - Blonde"
   - name: "Northodox"
     abv: "6.5% ABV"
     brewery: "Venn Brewing Company"
