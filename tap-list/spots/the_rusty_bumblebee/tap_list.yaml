@@ -35,12 +35,6 @@ taps:
     description: >
       'Reserved for the darkest of hearts, McKenzie's Black Cherry is an inspiration to hard cider - rich amber, full body with a refreshingly sweet cherry finish.'
     type: "Cider - Other Fruit"
-  - name: "Bourbon County Brand Cherries Jubilee Stout (2025)"
-    abv: "14.5% ABV"
-    brewery: "Goose Island Beer Co."
-    description: >
-      '(2025) As stout ages, Goose Island’s brewers often observe a range of fruit expressions that emerge from the barrel and from time itself. Inspired by the flambéed dessert classic Cherries Jubilee, 2025 Bourbon County Brand Cherries Jubilee Stout captures the essence of cognac-soaked cherries and caramelized citrus.The beer began its aging journey in freshly emptied bourbon barrels, which impart rich layers of oak, warm vanilla and subtle baking spice. It was then finished in cognac barrels, adding elegant notes of dried fruit and contributing to a rich, full mouthfeel.Following the aging process, the stout was blended with Montmorency cherries, citrus, and panela–resulting in a velvety, decadent beer with flavors of candied dark cherry, soft vanilla and a caramelized citrus finish. 14.5% ABV.'
-    type: "Stout - Imperial"
   - name: "Bourbon County Brand Chocolate Praline Stout (2025)"
     abv: "14.6% ABV"
     brewery: "Goose Island Beer Co."
@@ -113,6 +107,12 @@ taps:
     description: >
       'A tuned up version of our forever favorite fog dog. Extra helpings of all the things that make us love it so: More Wheat. More Oats. More of our Hand-Selected Citra, Azacca & Amarillo. Obscene amounts of the Hand-Selected Cryo versions of all the same to finish it off. Liquid love in a can. Pour Up?'
     type: "IPA - Imperial"
+  - name: "El Camino"
+    abv: "9% ABV"
+    brewery: "Pryes Brewing Company"
+    description: >
+      'Pastry Stout | Hazelnut, Cocoa, Rich | 9.0% ABV | 28 IBU | El Camino is “The Way”. This beer is your path down the road to rich hazelnut, cacao and nougat. Prepare for a smooth ride. Away we go.'
+    type: "Stout - Imperial"
   - name: "Fistmas"
     abv: "6.5% ABV"
     brewery: "Revolution Brewing"
@@ -299,6 +299,12 @@ taps:
     description: >
       'Citra and Mosaic Hazy IPA'
     type: "IPA - New England"
+  - name: "WBA Mathematician of Duck Arte Vol. 2.71828"
+    abv: "14% ABV"
+    brewery: "Oliphant Brewing"
+    description: >
+      '6 & 18 Month Blend, Aged in Whiskey barrels'
+    type: "Stout - Imperial"
   - name: "Žižkov Czech-style Pilsner"
     abv: "5.2% ABV"
     brewery: "Bauhaus Brew Labs"
