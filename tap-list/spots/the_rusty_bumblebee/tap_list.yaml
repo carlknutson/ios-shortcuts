@@ -83,6 +83,12 @@ taps:
     description: >
       'Our loveable hefty boi went all out for snacky time this time and smothered the salted caramel ice cream with even more caramel and topped it off with plum and blackberries because why not. The combination of the sticky, sweet & salty caramel with the berries is enough to make your toe beans curl right up.'
     type: "Sour - Smoothie"
+  - name: "CHONK: Neapolitan"
+    abv: "6.6% ABV"
+    brewery: "Drekker Brewing Company"
+    description: >
+      'Our lovable hefty boi is back and he’s been raiding the freezer to get his smol little paws into the fancy ice cream! Neapolitan Chonk is stuffed with strawberry, and both vanilla AND chocolate ice cream! Cue the heavy breathing.'
+    type: "Sour - Smoothie"
   - name: "CHONK: Peanut Butter & Jelly"
     abv: "6.6% ABV"
     brewery: "Drekker Brewing Company"
