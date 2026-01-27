@@ -311,9 +311,9 @@ taps:
     description: >
       '6 & 18 Month Blend, Aged in Whiskey barrels'
     type: "Stout - Imperial"
-  - name: "Žižkov Czech-style Pilsner"
-    abv: "5.2% ABV"
+  - name: "Žižkov Czech-style Dark"
+    abv: "5.3% ABV"
     brewery: "Bauhaus Brew Labs"
     description: >
       'N/A'
-    type: "Pilsner - Czech"
+    type: "Lager - Tmavé (Czech Dark)"
