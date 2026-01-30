@@ -239,11 +239,11 @@ taps:
     description: >
       'Our buddy Jack left his job at Forager Brewery to make the long journey across the parking lot to make his way in the world and open his very own spot: Jack’s Bottle Shop. We got together with our fam at Forager to make a shredder to wish him luck on his new venture. Our hand selected Strata, Mosaic, Citra Cryo & Samba up to the rafters on a Kushy protein heavy malt bill. Cheers Bud!'
     type: "IPA - Imperial"
-  - name: "Shiner Hill Country Peach Wheat Ale"
+  - name: "Shiner Hill Country Peach Wheat"
     abv: "4.5% ABV"
     brewery: "Spoetzl Brewery"
     description: >
-      'This small batch brew is the eleventh in our Brewer's Pride Series - a what ale brewed with juicy, perfectly ripe peaches from the nearby Texas Hill Country. These peaches, along with a mix of 2-row and wheat malts, make for a slightly sweet, refreshing ale. Badly filtered, this brew has a golden, hazy color and it tastes like it came fresh from the orchard. But it's only around a little while, so pop open a peach and enjoy.'
+      'Brewed with sun-ripened peaches from Fredericksburg, Texas, Shiner Hill Country Peach Wheat is a hazy, golden wheat beer with a lightly sweet, fruity flavor. Crafted with 2-row barley, Munich malt, and wheat malt, it delivers a crisp, refreshing finish that captures the spirit of spring in the Texas Hill Country.'
     type: "Wheat Beer - Fruited"
   - name: "Slang Du Jour - Cherry Cheesecake"
     abv: "6.2% ABV"
