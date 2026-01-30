@@ -29,12 +29,6 @@ taps:
     description: >
       'Double dry-hopping with Citra and Mosaic hops creates this world-renowned IPA’s intense tropical fruit and citrus aromas. Brewed with Golden Promise malt, this beer finishes rich and dry. First brewed in collaboration with Amager Brewery in Denmark.'
     type: "IPA - American"
-  - name: "Black Cherry"
-    abv: "5% ABV"
-    brewery: "McKenzie's Hard Cider"
-    description: >
-      'Reserved for the darkest of hearts, McKenzie's Black Cherry is an inspiration to hard cider - rich amber, full body with a refreshingly sweet cherry finish.'
-    type: "Cider - Other Fruit"
   - name: "Bourbon County Brand Chocolate Praline Stout (2025)"
     abv: "14.6% ABV"
     brewery: "Goose Island Beer Co."
@@ -209,12 +203,6 @@ taps:
     description: >
       'N/A'
     type: "Non-Alcoholic - Blonde"
-  - name: "Northodox"
-    abv: "6.5% ABV"
-    brewery: "Venn Brewing Company"
-    description: >
-      'House Hazy IPA with Citra, Simcoe, & Mosaic Hops'
-    type: "IPA - New England"
   - name: "Peanut Buddy"
     abv: "5.5% ABV"
     brewery: "Pryes Brewing Company"
@@ -269,6 +257,12 @@ taps:
     description: >
       'Banana, vanilla, and coffee'
     type: "Stout - Imperial"
+  - name: "Speedway Stout: Grand Prix On the Road - Chocolate Pecan Pie Edition"
+    abv: "12% ABV"
+    brewery: "AleSmith Brewing Company"
+    description: >
+      'Collaboration with Julian Pie Company – cacao nibs, pecans, vanilla, and coffee'
+    type: "Stout - Imperial"
   - name: "Supercell"
     abv: "7% ABV"
     brewery: "Elm Creek Brewing Co."
@@ -299,12 +293,6 @@ taps:
     description: >
       'Brewed with 100% Centennial hops from the Pacific Northwest and named after the Two Hearted River in Michigan’s Upper Peninsula, this IPA is bursting with hop aromas ranging from pine to grapefruit from massive hop additions in both the kettle and the fermenter.Perfectly balanced with a malt backbone and combined with the signature fruity aromas of Bell's house yeast, this beer is remarkably drinkable and well suited for adventures everywhere.'
     type: "IPA - American"
-  - name: "Verbal Tip"
-    abv: "7.3% ABV"
-    brewery: "Falling Knife Brewing Company"
-    description: >
-      'Citra and Mosaic Hazy IPA'
-    type: "IPA - New England"
   - name: "WBA Mathematician of Duck Arte Vol. 2.71828"
     abv: "14% ABV"
     brewery: "Oliphant Brewing"
