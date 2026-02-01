@@ -65,29 +65,23 @@ taps:
     description: >
       'We blasted this hella tasty Braaaaaaaains with all of the cherries, strawberries and blueberries we could get our grubby little hands on, then hit it with our double secret smoothie treatment of sea salt, lactose and vanilla. It’s super berry-y, super thicc and just as delicious as you’re imagining it is right now!*CONTAINS LACTOSE'
     type: "Sour - Smoothie"
-  - name: "Braaaaaaaains - Passionfruit Guava"
-    abv: "6.4% ABV"
+  - name: "Brunch Bubbz"
+    abv: "5% ABV"
     brewery: "Drekker Brewing Company"
     description: >
-      'This Braaaaaaaains is jam packed with Passionfruit & Guava. Then of course we hit it with our double secret smoothie treatment of sea salt, lactose & vanilla beans so it’s insanely tasty and pairs perfectly with a warm breeze and a little sunshine.'
-    type: "Sour - Smoothie"
-  - name: "CHONK: Blackberry Caramel"
-    abv: "6.7% ABV"
+      'This new mimosa sour carefully conjured by our brewing wizards makes waking up early WORTH IT. It's got a fresh orange and nice crisp champagne adjacent flavor, with the effervescence turned up a notch for that mimosa-y bubblefest on the tastebuds.'
+    type: "Sour - Other"
+  - name: "CHONK: Banana Split"
+    abv: "6.6% ABV"
     brewery: "Drekker Brewing Company"
     description: >
-      'Our loveable hefty boi went all out for snacky time this time and smothered the salted caramel ice cream with even more caramel and topped it off with plum and blackberries because why not. The combination of the sticky, sweet & salty caramel with the berries is enough to make your toe beans curl right up.'
+      'Oh lawd, he back! Our favorite hefty boi returns with our latest ridiculous creation - Banana Split Chonk Sundae Sour! This one combines an ungodly amount of bananas with strawberries and chocolate for a thick and absurd challenge to everything you ever dreamed beer could be.⠀*CONTAINS LACTOSE'
     type: "Sour - Smoothie"
   - name: "CHONK: Neapolitan"
     abv: "6.6% ABV"
     brewery: "Drekker Brewing Company"
     description: >
       'Our lovable hefty boi is back and he’s been raiding the freezer to get his smol little paws into the fancy ice cream! Neapolitan Chonk is stuffed with strawberry, and both vanilla AND chocolate ice cream! Cue the heavy breathing.'
-    type: "Sour - Smoothie"
-  - name: "CHONK: Peanut Butter & Jelly"
-    abv: "6.6% ABV"
-    brewery: "Drekker Brewing Company"
-    description: >
-      'It's Peanut Butter Jelly Time!'
     type: "Sour - Smoothie"
   - name: "Choconut"
     abv: "6.5% ABV"
@@ -107,6 +101,18 @@ taps:
     description: >
       'A tuned up version of our forever favorite fog dog. Extra helpings of all the things that make us love it so: More Wheat. More Oats. More of our Hand-Selected Citra, Azacca & Amarillo. Obscene amounts of the Hand-Selected Cryo versions of all the same to finish it off. Liquid love in a can. Pour Up?'
     type: "IPA - Imperial"
+  - name: "Doomsday Device"
+    abv: "8.3% ABV"
+    brewery: "Drekker Brewing Company"
+    description: >
+      'Mr. Drekker welcomes a brand new 100% Mosaic Double IPA that's just exploding with flavor. Built on a base of Golden Promise, oats, & spelt, with huge bursts of mango, citrus & stone fruit, this one is locked and loaded with enough Mosaic to doom us all. So, uhh, sorry, but what a way to go!'
+    type: "IPA - Imperial"
+  - name: "Ectogasm"
+    abv: "7% ABV"
+    brewery: "Drekker Brewing Company"
+    description: >
+      'Ectogasm is a juicy, hazy, and soft NE IPA brewed with Citra & Mosaic hops.'
+    type: "IPA - New England"
   - name: "El Camino"
     abv: "9% ABV"
     brewery: "Pryes Brewing Company"
@@ -125,17 +131,17 @@ taps:
     description: >
       'N/A'
     type: "Hard Seltzer"
-  - name: "Floyds Deluxe"
-    abv: "4.5% ABV"
-    brewery: "3 Floyds Brewing"
-    description: >
-      'A clean and refreshing lager.'
-    type: "Lager - American"
   - name: "Fluff Stuff - Blueberry"
     abv: "6% ABV"
     brewery: "Drekker Brewing Company"
     description: >
       'Blueberry Fluff Stuff is the first in a new series of super fruity & super fluffy beers! Fluff Stuff leans in hard on the tried and true crazy delicious combination of fruit and marshmallows and gives us a home for all the fluffy beers we want to make. So this first Fluff Stuff is - you guessed it - STUFFED with tart & tasty blueberries and sweet & fluffy marshmallows for a perfect flavor combo we can’t wait for you guys to try!'
+    type: "Sour - Fruited"
+  - name: "Fuzzy Braaaaaaaains"
+    abv: "6.7% ABV"
+    brewery: "Drekker Brewing Company"
+    description: >
+      'Fuzzy Braaaaaaaains is paaaaaaaacked with mango, more mango, peach, more peach, apricot and more apricot. Then, of course, you know we hit it with our double secret smoothie treatment of sea salt, lactose and vanilla bean to make it even tastier than it sounds, which is pretty dang tasty if you ask us.'
     type: "Sour - Fruited"
   - name: "Gumballhead"
     abv: "5.6% ABV"
@@ -155,12 +161,6 @@ taps:
     description: >
       'Featuring a touch of real Wisconsin honey, Leinenkugel’s® Honey Weiss is a golden-hued American wheat beer inspired by a classic German style. A little clover honey is all it takes to give Honey Weiss a unique flavor that’s perfectly balanced. Garnish with a lemon wedge for a citrus aroma that nicely complements the sweet, subtle taste of the beer. Try pairing it with foods that won’t overpower the beer’s lighter side, like Friday Fish Fry with a squeeze of lemon, or fresh green salads with candied nuts.'
     type: "Honey Beer"
-  - name: "Jolly PRRRTers - Blue Razz"
-    abv: "6.6% ABV"
-    brewery: "Drekker Brewing Company"
-    description: >
-      'Jolly PRRRTers is a Blue Razz Slush Style Sour packed with Blueberry, Raspberry, Pineapple, Blue Raspberry Jolly Rancher® candies, and Blue Razz Slushy Mix. We could go on and on about how amazing and fruity it tastes, but these flavors blend perfectly together to taste exactly like a blue razz Jolly Rancher®, just in cool, refreshing, delicious liquid form.'
-    type: "Sour - Smoothie"
   - name: "Kind of a Big Dill"
     abv: "4.3% ABV"
     brewery: "Blacklist Brewing Co."
@@ -245,11 +245,11 @@ taps:
     description: >
       'Brewed with sun-ripened peaches from Fredericksburg, Texas, Shiner Hill Country Peach Wheat is a hazy, golden wheat beer with a lightly sweet, fruity flavor. Crafted with 2-row barley, Munich malt, and wheat malt, it delivers a crisp, refreshing finish that captures the spirit of spring in the Texas Hill Country.'
     type: "Wheat Beer - Fruited"
-  - name: "Slang Du Jour - Cherry Cheesecake"
-    abv: "6.2% ABV"
+  - name: "Slang Du Jour - Bumbleberry Cobbler"
+    abv: "6.4% ABV"
     brewery: "Drekker Brewing Company"
     description: >
-      'Cherry Cheesecake Slang Du Jour is loaded up with a whole pile of cherries, granola, cream cheese, lactose, and brown sugar for a flavor to match the big boss of the dessert world!'
+      'Bumbleberry Cobbler Slang Du Jour tumbles blueberries, strawberries and blackberries into buttery granola, warm cinnamon and soft vanilla bean for a gooey, scoop-worthy cobbler situation you'll absolutely want seconds of.'
     type: "Sour - Smoothie"
   - name: "Speedway Stout: Grand Prix On the Road - Banana Cream Pie Edition"
     abv: "12% ABV"
@@ -275,6 +275,18 @@ taps:
     description: >
       'Brewed with malted wheat and flaked oats, hopped with Citra in the whirlpool and then dry hopped with Citra and Enigma. Giving aromas of White Wine, raspberries and red currants, and a soft body with deep tropical fruit flavors.'
     type: "IPA - New England"
+  - name: "Swirlee - Orange Creamsicle"
+    abv: "6.4% ABV"
+    brewery: "Drekker Brewing Company"
+    description: >
+      'Orange Swirlee crashes tangerines and cara cara oranges headfirst into creamy vanilla ice cream for a swirl that's bright, smooth and fully committed to being hella delicious.'
+    type: "Sour - Fruited"
+  - name: "That's A Real Nice Ski Mask"
+    abv: "5.1% ABV"
+    brewery: "Drekker Brewing Company"
+    description: >
+      'Grab your turtleneck sweaters and gather ‘round the fireplace, ya weirdos! That’s a Real Nice Ski Mask is a brand new dark German lager featuring notes of baker’s chocolate and espresso. This crisp and smooth-drinkin’ beer also features a nice roast character from the roasted malts. This ain’t no joke, you’re gonna love it!'
+    type: "Lager - Dark"
   - name: "Tropicopia"
     abv: "8.5% ABV"
     brewery: "Venn Brewing Company"
