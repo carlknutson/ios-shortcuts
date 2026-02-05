@@ -160,7 +160,7 @@ taps:
     brewery: "Jacob Leinenkugel Brewing Company"
     description: >
       'Featuring a touch of real Wisconsin honey, Leinenkugel’s® Honey Weiss is a golden-hued American wheat beer inspired by a classic German style. A little clover honey is all it takes to give Honey Weiss a unique flavor that’s perfectly balanced. Garnish with a lemon wedge for a citrus aroma that nicely complements the sweet, subtle taste of the beer. Try pairing it with foods that won’t overpower the beer’s lighter side, like Friday Fish Fry with a squeeze of lemon, or fresh green salads with candied nuts.'
-    type: "Honey Beer"
+    type: "Wheat Beer - Other"
   - name: "Kind of a Big Dill"
     abv: "4.3% ABV"
     brewery: "Blacklist Brewing Co."
