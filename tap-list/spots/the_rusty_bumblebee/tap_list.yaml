@@ -77,6 +77,12 @@ taps:
     description: >
       'Oh lawd, he back! Our favorite hefty boi returns with our latest ridiculous creation - Banana Split Chonk Sundae Sour! This one combines an ungodly amount of bananas with strawberries and chocolate for a thick and absurd challenge to everything you ever dreamed beer could be.⠀*CONTAINS LACTOSE'
     type: "Sour - Smoothie"
+  - name: "CHONK: Blackberry Caramel"
+    abv: "6.7% ABV"
+    brewery: "Drekker Brewing Company"
+    description: >
+      'Our loveable hefty boi went all out for snacky time this time and smothered the salted caramel ice cream with even more caramel and topped it off with plum and blackberries because why not. The combination of the sticky, sweet & salty caramel with the berries is enough to make your toe beans curl right up.'
+    type: "Sour - Smoothie"
   - name: "CHONK: Neapolitan"
     abv: "6.6% ABV"
     brewery: "Drekker Brewing Company"
@@ -131,11 +137,11 @@ taps:
     description: >
       'N/A'
     type: "Hard Seltzer"
-  - name: "Fluff Stuff - Blueberry"
+  - name: "Fluff Stuff - Mango"
     abv: "6% ABV"
     brewery: "Drekker Brewing Company"
     description: >
-      'Blueberry Fluff Stuff is the first in a new series of super fruity & super fluffy beers! Fluff Stuff leans in hard on the tried and true crazy delicious combination of fruit and marshmallows and gives us a home for all the fluffy beers we want to make. So this first Fluff Stuff is - you guessed it - STUFFED with tart & tasty blueberries and sweet & fluffy marshmallows for a perfect flavor combo we can’t wait for you guys to try!'
+      'Fluff Stuff leans in hard on the tried and true crazy delicious combination of fruit and marshmallows and gives us a home for all the fluffy beers we want to make. So this Fluff Stuff is - you guessed it - STUFFED with tasty mangoes and sweet & fluffy marshmallows for a perfect flavor combo we can’t wait for you guys to try!'
     type: "Sour - Fruited"
   - name: "Fuzzy Braaaaaaaains"
     abv: "6.7% ABV"
@@ -221,12 +227,6 @@ taps:
     description: >
       'N/A'
     type: "Cider - Herbed"
-  - name: "Rare Candy: Blueberry Pie"
-    abv: "6% ABV"
-    brewery: "Elm Creek Brewing Co."
-    description: >
-      'Blueberry pie sour with graham cracker, cinnamon and vanilla'
-    type: "Sour - Fruited"
   - name: "STAYING CURRENT"
     abv: "8.9% ABV"
     brewery: "BlackStack Brewing"
