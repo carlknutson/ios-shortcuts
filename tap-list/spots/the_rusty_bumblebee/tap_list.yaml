@@ -167,6 +167,18 @@ taps:
     description: >
       'Featuring a touch of real Wisconsin honey, Leinenkugel’s® Honey Weiss is a golden-hued American wheat beer inspired by a classic German style. A little clover honey is all it takes to give Honey Weiss a unique flavor that’s perfectly balanced. Garnish with a lemon wedge for a citrus aroma that nicely complements the sweet, subtle taste of the beer. Try pairing it with foods that won’t overpower the beer’s lighter side, like Friday Fish Fry with a squeeze of lemon, or fresh green salads with candied nuts.'
     type: "Wheat Beer - Other"
+  - name: "Humble Bumble Citrus (v1): Blood Orange and Tangerine"
+    abv: "5% ABV"
+    brewery: "Humble Forager Brewery"
+    description: >
+      'A fruited buzzed seltzer with calamansi lime, blood orange, tangerine, orange blossom honey, staghorn sumac blossoms.'
+    type: "Hard Seltzer"
+  - name: "Imperial Hazy Honeycrisp"
+    abv: "8% ABV"
+    brewery: "Wild State Cider"
+    description: >
+      'Imperial Unfiltered Honeycrisp Cider'
+    type: "Cider - Sweet"
   - name: "KÖLD"
     abv: "4.7% ABV"
     brewery: "Fair State Brewing"
@@ -191,12 +203,6 @@ taps:
     description: >
       'Loonar Eclipse Czech Style Dark Lager is very dark, deep red - black in the glass, but it has a surprisingly light body. It’s brewed with Czech hops, which give it a nice balance and aroma. The malt flavor comes through with suggestions of toasted bread. Originally released as a one time beer named Utepils 2018 Moment beer, it was too delicious not to come back as it's own beer. Enjoy!'
     type: "Lager - Tmavé (Czech Dark)"
-  - name: "Mango Mead"
-    abv: "8% ABV"
-    brewery: "J. Bird Wines, Inc."
-    description: >
-      'N/A'
-    type: "Mead - Melomel"
   - name: "Non-Alcoholic Bohemian Blonde Ale"
     abv: "0.5% ABV"
     brewery: "Pryes Brewing Company"
