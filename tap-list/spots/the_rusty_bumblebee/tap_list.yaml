@@ -53,12 +53,6 @@ taps:
     description: >
       '(2025) 2025 Bourbon County Brand Original Stout was aged in a blend of freshly emptied barrels from Buffalo Trace, Heaven Hill, Four Roses, and Wild Turkey. With an average aging time of 14 months, this stout delivers deeply developed flavors of fudge, vanilla, and caramelized sugar—all wrapped in a rich, decadent mouthfeel. 14.8% ABV.'
     type: "Stout - Imperial"
-  - name: "Bourbon County Brand Vanilla Rye Stout (2024)"
-    abv: "14% ABV"
-    brewery: "Goose Island Beer Co."
-    description: >
-      'Vanilla, as an ingredient, has made an appearance in Bourbon County lineups over the years, but the 2024 Bourbon County Brand Vanilla Rye Stout is a new take on our 2014 Vanilla Rye release. This year’s release showcases rye and the complexity it delivers by starting with a rye imperial stout and aging it in freshly emptied rye whiskey barrels. After aging in barrels for a full year, the stout is then finished with incredibly aromatic madagascar vanilla beans. Bourbon County Vanilla Rye Stout has the beloved attributes of the vanilla variants before it–with a new characteristically rich spice character from aging in the rye whiskey barrels.'
-    type: "Stout - Imperial"
   - name: "Braaaaaaaains - Cherry Berry"
     abv: "6.3% ABV"
     brewery: "Drekker Brewing Company"
@@ -215,18 +209,18 @@ taps:
     description: >
       'No matter how you spread it, Peanut Buddy brings the nutty, peanut-buttery, chocolatey smooth tastes and textures to delight-reflecting the flavors of childhood in a grown-up glass.'
     type: "Porter - American"
-  - name: "Persephone"
-    abv: "8% ABV"
-    brewery: "J. Bird Wines, Inc."
-    description: >
-      'This mead with pomegranates offers a unique profile that has a vibrant ruby color. With a tangy sweetness this tart fruit has hints red berries with citrus undertones. Much like when spring returns when the goddess Persephone leaves the underworld your tastebuds will bloom as you sip this drink.'
-    type: "Mead - Melomel"
   - name: "Pistachio Cream Ale"
     abv: "5.5% ABV"
     brewery: "Indeed Brewing Company"
     description: >
       'Like liberating a pistachio nut from its shell, our pistachio cream ale is supremely satisfying.  Spritzy and crisp, smooth and slightly nutty, this beer is a delightful mixed bag.  Pry one loose and pop the top.'
     type: "Cream Ale"
+  - name: "Plum"
+    abv: "8% ABV"
+    brewery: "J. Bird Wines, Inc."
+    description: >
+      'Plum mead'
+    type: "Mead - Melomel"
   - name: "Pomegranate Spritz"
     abv: "N/A"
     brewery: "Wild State Cider"
@@ -269,6 +263,12 @@ taps:
     description: >
       'Brined Lager juiced with strawberry!'
     type: "Lager - Other"
+  - name: "Strawberry"
+    abv: "8% ABV"
+    brewery: "J. Bird Wines, Inc."
+    description: >
+      'Strawberry mead'
+    type: "Mead - Other"
   - name: "Supercell"
     abv: "7% ABV"
     brewery: "Elm Creek Brewing Co."
