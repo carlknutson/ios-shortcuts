@@ -161,6 +161,12 @@ taps:
     description: >
       'N/A'
     type: "Root Beer"
+  - name: "Hazy Day Sue"
+    abv: "6.5% ABV"
+    brewery: "Toppling Goliath Brewing Co."
+    description: >
+      'Sit back, relax, and commune with Mosaic®, Citra®, Simcoe®, and Krush® Hops and see where the vibes of this far-out India Pale Ale take you.'
+    type: "IPA - New England"
   - name: "Honey Weiss"
     abv: "4.9% ABV"
     brewery: "Jacob Leinenkugel Brewing Company"
@@ -275,12 +281,6 @@ taps:
     description: >
       'Strawberry mead'
     type: "Mead - Other"
-  - name: "Supercell"
-    abv: "7% ABV"
-    brewery: "Elm Creek Brewing Co."
-    description: >
-      'THIS PUNGENT NEW ENGLAND IPA IS BREWED WITH AN IMPRESSIVE TRIO OF HOPS, HOPPED IN THE WHIRLPOOL WITH CITRA, THEN GIVEN A HEFTY DRY HOP DOSE OF HBC 1019, NECTARON AND CITRA HOPS. A SOFT PILLOWY BODY IS SUPPORTED BY PUNGENT TROPICAL AROMAS OF PEACH, HONEYDEW MELON, PINEAPPLE AND CITRUS.'
-    type: "IPA - New England"
   - name: "Sustained Illusion"
     abv: "6.5% ABV"
     brewery: "Elm Creek Brewing Co."
