@@ -1,4 +1,10 @@
 taps:
+  - name: "14° Degree | Amber Ale"
+    abv: "5.6% ABV"
+    brewery: "Bent Paddle Brewing Co."
+    description: >
+      '14° Degree Amber Ale is a beer brewed for balance. We utilize American pale and European malts to achieve a complex malt-driven flavor with a deep amber color. We compliment the malt complexities with a blend of American and English hops that lend a pine and citrus presence.14° Degree is our most award-winning beer, earning bronze, silver, and gold medals at the Great American Beer Festival!'
+    type: "Bitter - Extra Special"
   - name: "1919 Draft Root Beer"
     abv: "N/A"
     brewery: "Schell’s Brewery"
@@ -173,12 +179,6 @@ taps:
     description: >
       'Imperial Unfiltered Honeycrisp Cider'
     type: "Cider - Sweet"
-  - name: "KÖLD"
-    abv: "4.7% ABV"
-    brewery: "Fair State Brewing"
-    description: >
-      'KÖLD is our interpretation of the classic German Kölsch ale: golden, crispy, and refreshing. We brewed KÖLD for every day drinking, with an eye towards the social aspects of drinking—fun had with friends old and new, shared experiences, and conviviality. Brewed with a particular German ale yeast that brings hints of fruitiness to a malty–but–not–sweet body and restrained hopping, KÖLD is an eminently crushable study in balance.'
-    type: "Kölsch"
   - name: "LOCAL DROPS"
     abv: "7.2% ABV"
     brewery: "BlackStack Brewing"
@@ -203,6 +203,12 @@ taps:
     description: >
       'N/A'
     type: "Non-Alcoholic - Blonde"
+  - name: "Pabst Blue Ribbon"
+    abv: "4.7% ABV"
+    brewery: "Pabst Brewing Company"
+    description: >
+      'This is the original Pabst Blue Ribbon Beer. Nature's choicest products provide its prized flavor. Only the finest of hops and grains are used. Selected as America's Best in 1893.'
+    type: "Lager - American"
   - name: "Peanut Buddy"
     abv: "5.5% ABV"
     brewery: "Pryes Brewing Company"
