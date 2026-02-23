@@ -35,29 +35,11 @@ taps:
     description: >
       'Double dry-hopping with Citra and Mosaic hops creates this world-renowned IPA’s intense tropical fruit and citrus aromas. Brewed with Golden Promise malt, this beer finishes rich and dry. First brewed in collaboration with Amager Brewery in Denmark.'
     type: "IPA - American"
-  - name: "Bourbon County Brand Chocolate Praline Stout (2025)"
-    abv: "14.6% ABV"
-    brewery: "Goose Island Beer Co."
-    description: >
-      '(2025) Bourbon County Brand Stout is a beer crafted for aging. Over time, Goose Island’s imperial stout undergoes an incredible transformation within the barrel. With patience and time, the beer not only absorbs the character of the freshly emptied bourbon barrels, but also develops expressions of toasted marzipan and dried fruit—signature to Original Stout.Goose Island brings these flavors to the forefront with 2025 Bourbon County Brand Chocolate Praline Stout. First aged in freshly emptied bourbon barrels, this stout draws inspiration from the underlying decadence of chocolate, caramel, and roasted nuts found in Original. Layered with a blend of cocoa nibs, hazelnuts, almonds, cashews, and dates, this full-bodied stout showcases the classic flavors of a chocolate praline while embracing the subtle nuances imparted by the bourbon barrel. 14.6% ABV.'
-    type: "Stout - Imperial"
-  - name: "Bourbon County Brand Macaroon Stout (2024)"
-    abv: "14.6% ABV"
-    brewery: "Goose Island Beer Co."
-    description: >
-      'There is nothing quite like the comforting aroma that fills the home when baking with family. Inspired by late nights in the kitchen with Mom, Goose Island employee Paul Spiller sought to capture that sweet moment in this year’s newest member of the Bourbon County Brand Stout family.2024 Bourbon County Brand Macaroon Stout is an imperial stout aged for a full year in bourbon barrels before adding rich cocoa nibs, sweet candied ginger and toasted coconut. This decadent stout is an homage to the flavors of homemade coconut macaroons with a twist of nostalgia.'
-    type: "Stout - Imperial"
   - name: "Bourbon County Brand Stout (2024) 14.7%"
     abv: "14.7% ABV"
     brewery: "Goose Island Beer Co."
     description: >
       'After crafting the very first bourbon barrel-aged imperial stout, we've learned that to have the best beer, you start with the best possible ingredients. Barrels are such an important ingredient and we continue to use only the best our friends on the bourbon trail have to offer. 2024 Bourbon County Brand Original Stout is aged in a mix of freshly emptied bourbon barrels from Buffalo Trace, Heaven Hill, Four Roses and Wild Turkey distilleries. Barrel-aged for an average of 12 months, Bourbon County Original Stout boasts deeply developed flavors of fudge, vanilla and caramelized sugar with a rich, decadent mouthfeel.'
-    type: "Stout - Imperial"
-  - name: "Bourbon County Brand Stout (2025)"
-    abv: "14.8% ABV"
-    brewery: "Goose Island Beer Co."
-    description: >
-      'Bourbon County Brand Stout was aged in a blend of freshly emptied barrels from Buffalo Trace, Heaven Hill, Four Roses, and Wild Turkey. With an average aging time of 14 months, this stout delivers deeply developed flavors of fudge, vanilla, and caramelized sugar—all wrapped in a rich, decadent mouthfeel.'
     type: "Stout - Imperial"
   - name: "Braaaaaaaains - Cherry Berry"
     abv: "6.3% ABV"
