@@ -11,12 +11,6 @@ taps:
     description: >
       'Lots of vanilla, wintergreen, and other delicious roots along with real sucrose makes it the best root beer ever'
     type: "Root Beer"
-  - name: "All Sunshine"
-    abv: "8.1% ABV"
-    brewery: "Falling Knife Brewing Company"
-    description: >
-      'DDH Hazy DIPA with Citra and Citra Cryo'
-    type: "IPA - Imperial"
   - name: "Amaretto Mead"
     abv: "8% ABV"
     brewery: "J. Bird Wines, Inc."
@@ -89,12 +83,6 @@ taps:
     description: >
       'A tuned up version of our forever favorite fog dog. Extra helpings of all the things that make us love it so: More Wheat. More Oats. More of our Hand-Selected Citra, Azacca & Amarillo. Obscene amounts of the Hand-Selected Cryo versions of all the same to finish it off. Liquid love in a can. Pour Up?'
     type: "IPA - Imperial"
-  - name: "Doomsday Device"
-    abv: "8.3% ABV"
-    brewery: "Drekker Brewing Company"
-    description: >
-      'Mr. Drekker welcomes a brand new 100% Mosaic Double IPA that's just exploding with flavor. Built on a base of Golden Promise, oats, & spelt, with huge bursts of mango, citrus & stone fruit, this one is locked and loaded with enough Mosaic to doom us all. So, uhh, sorry, but what a way to go!'
-    type: "IPA - Imperial"
   - name: "Ectogasm"
     abv: "7% ABV"
     brewery: "Drekker Brewing Company"
@@ -125,6 +113,12 @@ taps:
     description: >
       'Fluff Stuff leans in hard on the tried and true crazy delicious combination of fruit and marshmallows and gives us a home for all the fluffy beers we want to make. So this Fluff Stuff is - you guessed it - STUFFED with tasty mangoes and sweet & fluffy marshmallows for a perfect flavor combo we can’t wait for you guys to try!'
     type: "Sour - Fruited"
+  - name: "Furious"
+    abv: "6.7% ABV"
+    brewery: "Surly Brewing Company"
+    description: >
+      'The beer that built Surly. Aggressively hopped and citrusy, but with a chewy, caramel malt backbone.'
+    type: "IPA - American"
   - name: "Fuzzy Braaaaaaaains"
     abv: "6.7% ABV"
     brewery: "Drekker Brewing Company"
@@ -221,6 +215,12 @@ taps:
     description: >
       'N/A'
     type: "Cider - Herbed"
+  - name: "STACK AT THE LAB"
+    abv: "8.4% ABV"
+    brewery: "BlackStack Brewing"
+    description: >
+      'Had to catch a cab back to the lab with our buds at Equilibrium Brewery from Middleton in the Hudson Valley of New York. We did some mind melding to intertwine our respective approaches to hop processes & brewing larger IPAs and this is where we landed. Extremely oil rich additions of Citra & Idaho 7 Cryo in the whirpool & multiple additions/forms of Strata, Mosaic & Australian Galaxy. Per our initial hypothesis, this shit turned out fire.'
+    type: "IPA - Imperial"
   - name: "STAYING CURRENT"
     abv: "8.9% ABV"
     brewery: "BlackStack Brewing"
