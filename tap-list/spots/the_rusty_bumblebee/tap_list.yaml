@@ -65,6 +65,12 @@ taps:
     description: >
       'Our lovable hefty boi is back and he’s been raiding the freezer to get his smol little paws into the fancy ice cream! Neapolitan Chonk is stuffed with strawberry, and both vanilla AND chocolate ice cream! Cue the heavy breathing.'
     type: "Sour - Smoothie"
+  - name: "Campfire Munchies"
+    abv: "10% ABV"
+    brewery: "Lupulin Brewing Company"
+    description: >
+      'Campfire Munchies is a decadent imperial stout layered with rich cacao, graham cracker, vanilla, and marshmallow flavor. Each sip delivers the gooey sweetness of a s’more, balanced by chocolatey depth and a subtle hint of oak-smoked wheat. Smooth, indulgent, and a little nostalgic, it captures everything you love about nights around the fire in a glass.'
+    type: "Stout - Imperial"
   - name: "Choconut"
     abv: "6.5% ABV"
     brewery: "Venn Brewing Company"
@@ -299,6 +305,12 @@ taps:
     description: >
       'Brewed with 100% Centennial hops from the Pacific Northwest and named after the Two Hearted River in Michigan’s Upper Peninsula, this IPA is bursting with hop aromas ranging from pine to grapefruit from massive hop additions in both the kettle and the fermenter.Perfectly balanced with a malt backbone and combined with the signature fruity aromas of Bell's house yeast, this beer is remarkably drinkable and well suited for adventures everywhere.'
     type: "IPA - American"
+  - name: "Vanilla Abraxas (2025)"
+    abv: "10.5% ABV"
+    brewery: "Perennial Artisan Ales"
+    description: >
+      'Imperial Stout with ancho chiles, cacao nibs, cinnamon and extra vanilla bean.'
+    type: "Stout - Imperial"
   - name: "WBA Mathematician of Duck Arte Vol. 2.71828"
     abv: "14% ABV"
     brewery: "Oliphant Brewing"
