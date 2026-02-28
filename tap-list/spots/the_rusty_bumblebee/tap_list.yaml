@@ -35,12 +35,6 @@ taps:
     description: >
       'After crafting the very first bourbon barrel-aged imperial stout, we've learned that to have the best beer, you start with the best possible ingredients. Barrels are such an important ingredient and we continue to use only the best our friends on the bourbon trail have to offer. 2024 Bourbon County Brand Original Stout is aged in a mix of freshly emptied bourbon barrels from Buffalo Trace, Heaven Hill, Four Roses and Wild Turkey distilleries. Barrel-aged for an average of 12 months, Bourbon County Original Stout boasts deeply developed flavors of fudge, vanilla and caramelized sugar with a rich, decadent mouthfeel.'
     type: "Stout - Imperial"
-  - name: "Braaaaaaaains - Cherry Berry"
-    abv: "6.3% ABV"
-    brewery: "Drekker Brewing Company"
-    description: >
-      'We blasted this hella tasty Braaaaaaaains with all of the cherries, strawberries and blueberries we could get our grubby little hands on, then hit it with our double secret smoothie treatment of sea salt, lactose and vanilla. It’s super berry-y, super thicc and just as delicious as you’re imagining it is right now!*CONTAINS LACTOSE'
-    type: "Sour - Smoothie"
   - name: "Brunch Bubbz"
     abv: "5% ABV"
     brewery: "Drekker Brewing Company"
@@ -197,6 +191,12 @@ taps:
     description: >
       'This is the original Pabst Blue Ribbon Beer. Nature's choicest products provide its prized flavor. Only the finest of hops and grains are used. Selected as America's Best in 1893.'
     type: "Lager - American"
+  - name: "Patches"
+    abv: "5.4% ABV"
+    brewery: "Prairie Artisan Ales"
+    description: >
+      'Sour Ale with Sour Gummy Candy.'
+    type: "Sour - Other"
   - name: "Peanut Buddy"
     abv: "5.5% ABV"
     brewery: "Pryes Brewing Company"
