@@ -65,12 +65,6 @@ taps:
     description: >
       'Campfire Munchies is a decadent imperial stout layered with rich cacao, graham cracker, vanilla, and marshmallow flavor. Each sip delivers the gooey sweetness of a s’more, balanced by chocolatey depth and a subtle hint of oak-smoked wheat. Smooth, indulgent, and a little nostalgic, it captures everything you love about nights around the fire in a glass.'
     type: "Stout - Imperial"
-  - name: "Choconut"
-    abv: "6.5% ABV"
-    brewery: "Venn Brewing Company"
-    description: >
-      'Stout with Peanut Butter & Chocolate'
-    type: "Stout - Pastry"
   - name: "Coors Light"
     abv: "4.2% ABV"
     brewery: "Coors Brewing Company"
@@ -83,6 +77,12 @@ taps:
     description: >
       'A tuned up version of our forever favorite fog dog. Extra helpings of all the things that make us love it so: More Wheat. More Oats. More of our Hand-Selected Citra, Azacca & Amarillo. Obscene amounts of the Hand-Selected Cryo versions of all the same to finish it off. Liquid love in a can. Pour Up?'
     type: "IPA - Imperial"
+  - name: "Dark Preserves"
+    abv: "7.5% ABV"
+    brewery: "Pryes Brewing Company"
+    description: >
+      'Blackberry, blueberry & raspberry, along a swirl of vanilla, come together in this ode to hearty northern winter preserves. Out of the cellar & into your glass.'
+    type: "Sour - Smoothie"
   - name: "Ectogasm"
     abv: "7% ABV"
     brewery: "Drekker Brewing Company"
@@ -185,6 +185,12 @@ taps:
     description: >
       'N/A'
     type: "Non-Alcoholic - Blonde"
+  - name: "Opulessence Sexxxy Delicious"
+    abv: "12% ABV"
+    brewery: "Venn Brewing Company"
+    description: >
+      'Imperial Stout with Chocolate & Raspberries'
+    type: "Stout - Imperial"
   - name: "Pabst Blue Ribbon"
     abv: "4.7% ABV"
     brewery: "Pabst Brewing Company"
@@ -239,12 +245,6 @@ taps:
     description: >
       'Brewed with sun-ripened peaches from Fredericksburg, Texas, Shiner Hill Country Peach Wheat is a hazy, golden wheat beer with a lightly sweet, fruity flavor. Crafted with 2-row barley, Munich malt, and wheat malt, it delivers a crisp, refreshing finish that captures the spirit of spring in the Texas Hill Country.'
     type: "Wheat Beer - Fruited"
-  - name: "Slang Du Jour - Bumbleberry Cobbler"
-    abv: "6.4% ABV"
-    brewery: "Drekker Brewing Company"
-    description: >
-      'Bumbleberry Cobbler Slang Du Jour tumbles blueberries, strawberries and blackberries into buttery granola, warm cinnamon and soft vanilla bean for a gooey, scoop-worthy cobbler situation you'll absolutely want seconds of.'
-    type: "Sour - Smoothie"
   - name: "Speedway Stout: Grand Prix On the Road - Banana Cream Pie Edition"
     abv: "12% ABV"
     brewery: "AleSmith Brewing Company"
