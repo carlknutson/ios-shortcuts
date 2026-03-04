@@ -1,7 +1,4 @@
 taps:
-  - name: "Big Ox Seltzer Ginger Lime"
-    abv: "5.4%"
-    type: "Ginger Lime Seltzer"
   - name: "Big Ox Seltzer Watermelon"
     abv: "5.1%"
     type: "Salted Watermelon Seltzer"
