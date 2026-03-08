@@ -11,7 +11,7 @@ def scrape_beer_menu(url):
 
             page.wait_for_timeout(5000)
 
-            beer_elements = page.locator("font").all()
+            beer_elements = page.locator(".food-item-title").all()
 
             menu = []
 
@@ -28,7 +28,7 @@ def scrape_beer_menu(url):
 
 
 if __name__ == "__main__":
-    url = "https://www.torgbrewery.com/current-menu.html"
+    url = "https://www.torgbrewery.com/drink-menu"
     lines = scrape_beer_menu(url)
 
     print("menu:")
