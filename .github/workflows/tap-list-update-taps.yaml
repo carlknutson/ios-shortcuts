@@ -7,8 +7,8 @@ on:
         description: 'Spot to update taps, if empty, all update.'
         required: false
         default: ''
-  schedule:
-    - cron: "0 */6 * * *"  # Runs every 6 hours
+  # schedule:
+  #   - cron: "0 */6 * * *"  # Runs every 6 hours (disabled - tap list decommissioned)
 
 jobs:
   get-spots:
