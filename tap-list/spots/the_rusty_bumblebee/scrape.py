@@ -8,7 +8,10 @@ def scrape_beer_menu(url):
     try:
         with sync_playwright() as p:
             # Launch a headless browser
-            browser = p.chromium.launch(headless=True)
+            browser = p.chromium.launch(
+                headless=True,
+                args=["--no-sandbox", "--disable-dev-shm-usage"],
+            )
             page = browser.new_page()
 
             # Navigate to the URL
@@ -82,7 +85,7 @@ def scrape_beer_menu(url):
             return beer_menu
 
     except Exception as e:
-        print(f"Error fetching the webpage: {e}")
+        print(f"Error fetching the webpage: {e}", file=sys.stderr)
         return []
 
 
@@ -101,4 +104,5 @@ if __name__ == "__main__":
             print(f"      {beer['Description']}")
             print(f"    type: {beer['Type']}")
     else:
-        raise
+        print("Error: No beers found. Scraping may have failed.", file=sys.stderr)
+        sys.exit(1)
