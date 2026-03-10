@@ -1,3 +1,5 @@
+import re
+
 from playwright.sync_api import sync_playwright
 
 
@@ -21,16 +23,19 @@ def scrape_beer_menu(url):
             count = beer_elements.count()
             for i in range(count):
                 beer = beer_elements.nth(i)
-                name = (
+                name = re.sub(
+                    r"\s+\d+\.?\d*%\s*$",
+                    "",
                     beer.locator(".item-name")
-                    .locator("span")
-                    .nth(1)
+                    .locator("a span:not(.item-tap-number)")
+                    .first
                     .text_content()
-                    .strip()
+                    .strip(),
                 )
                 beer_type = (
                     beer.locator(".item-name")
                     .locator(".item-category")
+                    .first
                     .text_content()
                     .strip()
                     if beer.locator(".item-name").locator(".item-category").count() > 0
